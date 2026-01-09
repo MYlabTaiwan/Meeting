@@ -1,5 +1,6 @@
 # Year-end lab cleaning
 |Task|Time-slot|Assignment|
+|---|---|---|
 |recovering unloved samples|1|Ting-Chun, Peter|
 |storing unused equipment |1| Suraj, Thomas|
 |cleaning up R412 electrical room|1| Ted|
