@@ -12,6 +12,7 @@
 |cleaning the floors|2| Benjamin, Su Kuang-Yu|
 |Handle trash|2| Chun-Yang, Hui-Ting|
 
+Timeslots [1] Monday January 19th 2pm, [2] Tuesday January 20th 1pm.
 
 
 # Meeting
