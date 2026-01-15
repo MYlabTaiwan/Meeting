@@ -25,5 +25,5 @@ Administration of the group meeting
 | 14:30–14:40           | Ting-Chun | 10:30–10:40           | Shiphrah  | 10:30–10:40         | Vincent |
 | 14:40–14:50           | En-Chi       | 10:40–10:50           | Patrick | 10:40–10:50        | Ted    |
 | 14:50–15:00           | Ying-Chih       | 10:50–11:00           |  Suraj       | 10:50–11:00         |  Chen Guang-Yu      |
-| 15:00–15:10           |  | 11:00–11:10           |       |                      |        |
+| 15:00–15:10           |  | 11:00–11:10           |       |    11:00 -11:10      | Hui-Ting|
 |                       |        | 11:10–11:20           |  |                      |        |
