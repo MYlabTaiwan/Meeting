@@ -1,3 +1,5 @@
+![Daily MYlab Cartoon](daily_cartoon.png)
+
 # Meeting schedule for 2/4-2/5
 Administration of the group meeting
 | Tuesday(Fabrication)     |     | Wednesday (Properties)     |     | Thursday  (Materials)  |      |
