@@ -1,20 +1,3 @@
-# Year-end lab cleaning
-|Task|Time-slot|Assignment|
-|---|---|---|
-|recovering unloved samples|1|Ting-Chun, Peter|
-|storing unused equipment |1| Suraj, Thomas|
-|cleaning up R412 electrical room|1| Ted|
-|Surveying chemicals | 1| Karthika, Patrick, Ying-Chih|
-|safety check of CVD|1| Vincent, Chen Guang-Yu|
-|||
-|cleaning up work areas|2| Rui-Hong, Guan-Ting|
-|cleaning up desk areas|2| Shiphrah, Yi-Chin|
-|cleaning the floors|2| Benjamin, Su Kuang-Yu|
-|Handle trash|2| Chun-Yang, Hui-Ting|
-
-Timeslots [1] Monday January 19th 2pm, [2] Tuesday January 20th 1pm.
-
-
 # Meeting
 Administration of the group meeting
 | Tuesday(Fabrication)     |     | Wednesday (Properties)     |     | Thursday  (Materials)  |      |
