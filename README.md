@@ -1,6 +1,6 @@
 ![Daily MYlab Cartoon](daily_cartoon.png)
 Student progress
-<!--STUDENT_AUDIT_START-->
+<!-- STUDENT_AUDIT_START -->
 
 # Meeting
 Administration of the group meeting
