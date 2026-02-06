@@ -1,21 +1,7 @@
 ![Daily MYlab Cartoon](daily_cartoon.png)
+Student progress
+<!--STUDENT_AUDIT_START-->
 
-# Meeting schedule for 2/4-2/5
-Administration of the group meeting
-| Tuesday(Fabrication)     |     | Wednesday (Properties)     |     | Thursday  (Materials)  |      |
-|----------|--------|--------------------|--------|----------------------|--------|
-| 14:00–14:10           | Guan-Ting | 10:00–10:10           |Thomas  | 14:00–14:10         | Yi-Chin |
-| 14:10–14:20           | Rui-Hong  | 10:10–10:20           | Benjamin | 14:10–14:20         |   Yu-Hui     |
-| 14:20–14:30           | Peter    | 10:20–10:30           | Su Kuang-Yu | 14:20–14:30         |   Su-Guan Yu     |
-| 14:30–14:40           | Ting-Chun | 10:30–10:40           | Shiphrah  | 14:30–14:40         | Vincent |
-| 14:40–14:50           | En-Chi       | 10:40–10:50           | Patrick | 14:40–14:50        | Ted    |
-| 14:50–15:00           | Ying-Chih       | 10:50–11:00           |  Suraj       | 14:50–15:00         |  Chen Guang-Yu      |
-| 15:00–15:10           |  | 11:00–11:10           |       |    15:00 -15:10      | Hui-Ting|
-|                       |        | 11:10–11:20           |  |   15:20 -15:30                   | Thomas       |
-
---------------------
-
-<!---
 # Meeting
 Administration of the group meeting
 | Tuesday(Fabrication)     |     | Wednesday (Properties)     |     | Thursday  (Materials)  |      |
@@ -28,4 +14,3 @@ Administration of the group meeting
 | 14:50–15:00           | Ying-Chih       | 10:50–11:00           |  Suraj       | 10:50–11:00         |  Chen Guang-Yu      |
 | 15:00–15:10           |  | 11:00–11:10           |  Yu-Hui     |    11:00 -11:10      | Hui-Ting|
 |                       |        | 11:10–11:20           |  |                      |        |
---->
