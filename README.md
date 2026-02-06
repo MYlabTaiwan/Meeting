@@ -1,12 +1,9 @@
 ![Daily MYlab Cartoon](daily_cartoon.png)
-Student progress
-<!-- 
 
-STUDENT_AUDIT_START 
+### Student Audit
+(The script will replace everything here)
 
--->
-
-# Meeting
+### Meeting
 Administration of the group meeting
 | Tuesday(Fabrication)     |     | Wednesday (Properties)     |     | Thursday  (Materials)  |      |
 |----------|--------|--------------------|--------|----------------------|--------|
