@@ -1,3 +1,4 @@
+### Daily Comic Strip
 ![Daily MYlab Cartoon](daily_cartoon.png)
 
 ### Student Audit
