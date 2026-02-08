@@ -3,16 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-02-06 21:39:15 (Taipei Time)*
+*Last Audit Update: 2026-02-09 07:42:59 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | The student assembled and tested an Arduino scale for actuator analysis. |
-| **kiwi487** | [Summary] Organized data, researched equipment, and prepared presentation slides. |
-| **PatrickSharks** | The student measured filament samples to investigate their characteristics. |
-| **r13222052-boop** | [Summary] The student used SEM to successfully scan and analyze W5N6, capturing detailed contrast and surface features despite certain equipment challenges. |
-| **Xylon-code** | [The student decorated graphene electrochemically and compared findings with a related paper.] |
-| **Yu-1227** | Investigated spin torque devices by transferring Pt-WS2, conducting four-point measurements on Pt-MoS2, and successfully annealing for device fabrication. |
+| **Xylon-code** | [Summary] The student prepared experimental precursors, analyzed modified samples through mapping, and worked on PVDF film optimization despite challenges. |
 
 
 ### Meeting
