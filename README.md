@@ -3,11 +3,14 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-02-09 07:42:59 (Taipei Time)*
+*Last Audit Update: 2026-02-10 07:46:09 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **Xylon-code** | [Summary] The student prepared experimental precursors, analyzed modified samples through mapping, and worked on PVDF film optimization despite challenges. |
+| **kiwi487** | Investigated the availability of V₂O₅ and K₂SO₄ powders, ordered glass, and checked for graphene/WS₂ samples. |
+| **poman920819** | [Summary] The student worked on transferring graphene onto MoS₂ using RIE for backside removal and re-scanned areas with AFM after CF₄ plasma etching. |
+| **Yu-1227** | [Summary] The student prepared a hall bar, etched the material using RIE with Ar and CF4 gases, adjusted the electrode design, and investigated sample clarity for better patterns. |
+| **huiting19991025-cmyk** | [Summary] The student assembled a precise scale for the jammed particle actuator experiments. |
 
 
 ### Meeting
