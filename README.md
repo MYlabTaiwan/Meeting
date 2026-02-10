@@ -3,14 +3,18 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-02-10 07:46:09 (Taipei Time)*
+*Last Audit Update: 2026-02-11 07:45:48 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **kiwi487** | Investigated the availability of V₂O₅ and K₂SO₄ powders, ordered glass, and checked for graphene/WS₂ samples. |
-| **poman920819** | [Summary] The student worked on transferring graphene onto MoS₂ using RIE for backside removal and re-scanned areas with AFM after CF₄ plasma etching. |
-| **Yu-1227** | [Summary] The student prepared a hall bar, etched the material using RIE with Ar and CF4 gases, adjusted the electrode design, and investigated sample clarity for better patterns. |
-| **huiting19991025-cmyk** | [Summary] The student assembled a precise scale for the jammed particle actuator experiments. |
+| **poman920819** | [Summary] Progress made on fabricating electrodes and graphene transfer, with pending tasks including gold electrode deposition and paper reading. |
+| **kiwi487** | [Summary] Investigated thread details, posted clarifications in issue #19, and planned further actions for flange and connector inspection. |
+| **40341106s-dev** | [Summary] The student worked on modifying Figure 1 to Figure 2, measured 405nm PL mapping, and planned to measure 532nm PL mapping on Friday. |
+| **huiting19991025-cmyk** | [Summary: The student assembled the scale and measured the actuation distance against the applied force, aligning with the technical plan.] |
+| **PatrickSharks** | [PatrickSharks is exploring data and considering additional 3D printing for annealing experiments.] |
+| **r13222052-boop** | Completed Raman mapping and reserved a different AFM due to ongoing issues with the current setup, with plans to address the challenge by consulting the engineer. |
+| **Yu-1227** | [Summary] Successfully formed gold and extended electrodes for improved contact and applied a new transfer method with promising semi-finished results. |
+| **Guan-YuSu** | [Summary] Discussed suspended 2D material fabrication with Ting-Chun, partially understood the process, and resolved storage issues to initiate AutoCAD learning. |
 
 
 ### Meeting
