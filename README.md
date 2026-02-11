@@ -3,18 +3,16 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-02-11 07:45:48 (Taipei Time)*
+*Last Audit Update: 2026-02-12 07:43:31 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Progress made on fabricating electrodes and graphene transfer, with pending tasks including gold electrode deposition and paper reading. |
-| **kiwi487** | [Summary] Investigated thread details, posted clarifications in issue #19, and planned further actions for flange and connector inspection. |
-| **40341106s-dev** | [Summary] The student worked on modifying Figure 1 to Figure 2, measured 405nm PL mapping, and planned to measure 532nm PL mapping on Friday. |
-| **huiting19991025-cmyk** | [Summary: The student assembled the scale and measured the actuation distance against the applied force, aligning with the technical plan.] |
-| **PatrickSharks** | [PatrickSharks is exploring data and considering additional 3D printing for annealing experiments.] |
-| **r13222052-boop** | Completed Raman mapping and reserved a different AFM due to ongoing issues with the current setup, with plans to address the challenge by consulting the engineer. |
-| **Yu-1227** | [Summary] Successfully formed gold and extended electrodes for improved contact and applied a new transfer method with promising semi-finished results. |
-| **Guan-YuSu** | [Summary] Discussed suspended 2D material fabrication with Ting-Chun, partially understood the process, and resolved storage issues to initiate AutoCAD learning. |
+| **kiwi487** | [Summary] Completed modeling of post and laser holder and prepared graphene and WS₂ materials for transfer. |
+| **40341106s-dev** | [Summary] Progress is on track as the student worked on paper preparation by refining figures, continued abstract writing, completed lithography tasks, and aligned priorities to focus on paper and abstract together for efficiency. |
+| **PatrickSharks** | Continued work on 3D filament characterization and completed administrative semester preparations. |
+| **r13222052-boop** | [Summary] Successfully conducted AFM measurements for relevant regions and obtained two potentially useful W5N6 samples. |
+| **Yu-1227** | The student successfully completed lithography and thermal evaporation, optimized transfer methods using PS and PMMA, and plans to improve lithography pattern efficiency. |
+| **Xylon-code** | [Summary] Investigated PVDF spin coating parameters, gate voltage effect, reverse scan deposition dynamics, and enhanced voltage impact on graphene deposition with mixed results and random distributions. |
 
 
 ### Meeting
