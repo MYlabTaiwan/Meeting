@@ -3,16 +3,19 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-02-12 07:43:31 (Taipei Time)*
+*Last Audit Update: 2026-02-13 07:42:15 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **kiwi487** | [Summary] Completed modeling of post and laser holder and prepared graphene and WS₂ materials for transfer. |
-| **40341106s-dev** | [Summary] Progress is on track as the student worked on paper preparation by refining figures, continued abstract writing, completed lithography tasks, and aligned priorities to focus on paper and abstract together for efficiency. |
-| **PatrickSharks** | Continued work on 3D filament characterization and completed administrative semester preparations. |
-| **r13222052-boop** | [Summary] Successfully conducted AFM measurements for relevant regions and obtained two potentially useful W5N6 samples. |
-| **Yu-1227** | The student successfully completed lithography and thermal evaporation, optimized transfer methods using PS and PMMA, and plans to improve lithography pattern efficiency. |
-| **Xylon-code** | [Summary] Investigated PVDF spin coating parameters, gate voltage effect, reverse scan deposition dynamics, and enhanced voltage impact on graphene deposition with mixed results and random distributions. |
+| **poman920819** | [Summary] Gold electrode deposition was not completed due to equipment failure, but the Raman spectrum measurement of graphene/MoS₂ was successfully conducted. |
+| **kiwi487** | Successfully operated the laser using LightBurn and Python, completed graphene transfer onto WS₂ for Raman measurement, and practiced 3D printing the Mk1_V3 laser holder. |
+| **40341106s-dev** | [Summary] Progress made on tasks such as assisting with S11 measurement, modifying AFM and 3D images, and attending a quantum sensing talk, though some 3D image tasks and SEM measurements were deferred. |
+| **ShiphrahR** | [Summary] Progress aligns with the plan, with ongoing work on resistance saturation issue, fitting parameter documentation, and theory explanation, while Genesis simulation is paused for future continuation. |
+| **r13222062-hub** | [Summary] The student is working on optimizing laser parameters and synthesis conditions for MoS2 on coated substrates, addressing issues with parameter inconsistencies, and monitoring the effects of preprocessing methods such as high vacuum. |
+| **huiting19991025-cmyk** | [Summary] Progress involved evaluating and improving the measurement process using a cellphone holder and Tracker, troubleshooting soldering issues with repair materials, and continuing scale assembly. |
+| **Xylon-code** | [Summary] Attempts to recharge O2 plasma samples using an ionic hair dryer failed to provide consistent results, and recharging with plasma resulted in the loss of graphene. |
+| **Yu-1227** | [Summary: Yu-1227 proposed designing a new lithography pattern to improve efficiency, aiming to save 1.5 days in the procedure.] |
+| **harold0104** | [Summary] Harold focused on resolving issues with melting the FeCl3 and CaCl2 mixture, experimenting with drop casting and heating, and preparing for a presentation by gathering references to support the advantages of molten salt and silicon deposition. |
 
 
 ### Meeting
