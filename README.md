@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **kiwi487** | [Student demonstrated technical progress consistent with the plan.] |
+| **kiwi487** | [Student demonstrated technical progress consistent with the plan.](#14) |
 | **ShiphrahR** | Taking part in analyzing the growth process and properties of tungsten nitride in strained 3D filament structures. |
 
 
