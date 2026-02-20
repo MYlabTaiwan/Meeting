@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Summary: The student has shared progress visuals related to Spin Torque Device work, seemingly making strides in device development or testing, however, alignment with the plan cannot be confirmed with provided logs.] |
+| **Yu-1227** | [Summary: The student has shared progress visuals related to Spin Torque Device work, seemingly making strides in device development or testing, however, alignment with the plan cannot be confirmed with provided logs.](https://github.com/MYlabTaiwan/Meeting/issues/15) |
 
 
 ### Meeting
