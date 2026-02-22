@@ -10,7 +10,9 @@
 | **Yu-1227** | [Summary: The student has shared progress visuals related to Spin Torque Device work, seemingly making strides in device development or testing, however, alignment with the plan cannot be confirmed with provided logs.](https://github.com/MYlabTaiwan/Meeting/issues/15) |
 
 ### Meeting
-Administration of the group meeting
+We will have online meetings under [https://meet.google.com/mcv-eqeu-dob](https://meet.google.com/mcv-eqeu-dob)
+Please log in on time!
+
 | Tuesday(Fabrication)     |     | Wednesday (Properties)     |     | Thursday  (Materials)  |      |
 |----------|--------|--------------------|--------|----------------------|--------|
 | 09:00–09:10           | Guan-Ting | 09:00–09:10           |Thomas  | 09:00–09:10         | Karthika, Chun-Yang, Yi-Chin |
