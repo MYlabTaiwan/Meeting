@@ -3,11 +3,15 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-02-23 07:39:38 (Taipei Time)*
+*Last Audit Update: 2026-02-24 07:43:11 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| - | No student activity recorded in the last 24 hours. |
+| **Yu-1227** | [Summary: No technical progress made today; experiment postponed to tomorrow.] |
+| **PatrickSharks** | No technical progress was made due to being on holiday. |
+| **kiwi487** | [Summary] Transferred graphene onto WS₂, measured Raman and PL spectra, performed PL mapping, and spin-coated PMMA on graphene. |
+| **40341106s-dev** | [Summary] Completed Raman mapping at 532nm and modified a paper figure, showing alignment with the plan. |
+| **r13222052-boop** | [Summary] Today's goal of conducting Raman mapping, AFM measurement, and photolithography for specified regions was successfully completed despite potential challenges with the AFM. |
 
 
 ### Meeting
