@@ -7,11 +7,11 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] The student is making progress but needs to address technical challenges encountered during electrode fabrication and deposition processes. Adjustments for exposure time in lithography and gold thickness during deposition have been identified for future attempts. Overall alignment with the plan is maintained. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) The student is making progress but needs to address technical challenges encountered during electrode fabrication and deposition processes. Adjustments for exposure time in lithography and gold thickness during deposition have been identified for future attempts. Overall alignment with the plan is maintained. |
 | **kiwi487** | [Summary] Successfully tested laser parameters, produced the expected pattern, completed PL mapping despite sample issues, and prepared for electrode fabrication. |
 | **40341106s-dev** | [Summary] Completed progress on paper restructuring, acquired sample details, and studied related NV diamond nanoparticle assembly papers. |
 | **r13222062-hub** | [Summary] Successfully tested laser parameters, experimenting with speed, Q-pulse, and frequency on various substrates, in alignment with the work plan. |
-| **PatrickSharks** | [Conducting administrative requirements and analyzing data/literature to align progress with technical goals.] |
+| **PatrickSharks** | [Conducting administrative requirements and analyzing data/literature to align progress with technical goals.](https://github.com/MYlabTaiwan/Meeting/issues/17) |
 | **r13222052-boop** | [Summary] Completed data comparison, held individual meeting, and started a new batch of W5N6; adjusted plan due to AFM data issues requiring sample replacement and procedure repetition. |
 | **Yu-1227** | [Summary] Completed silver paste application; annealing postponed due to missing LPCVD component, seeking alternative solutions and planning to proceed Thursday. |
 | **Guan-YuSu** | [Summary] Created carbon soot film and conducted Raman and I-V measurements, aligning with goals to advance technical progress as discussed in last week's meeting. |
