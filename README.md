@@ -22,7 +22,7 @@
 We will have online meetings under [https://meet.google.com/mcv-eqeu-dob](https://meet.google.com/mcv-eqeu-dob)
 Please log in on time!
 
-| Tuesday(Fabrication)     |     | Wednesday (Properties)     |     | Thursday  (Materials)  |      |
+| Tuesday(Fabrication)     |     | Wednesday (Properties)     |     | Friday  (Materials)  |      |
 |----------|--------|--------------------|--------|----------------------|--------|
 | 09:00–09:10           | Guan-Ting | 09:00–09:10           |Thomas  | 09:00–09:10         | Karthika, Chun-Yang, Yi-Chin |
 | 09:10–09:20           | Rui-Hong  | 09:10–09:20           | Benjamin | 09:10–09:20         |        |
