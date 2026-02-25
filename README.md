@@ -3,32 +3,18 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-02-25 07:43:40 (Taipei Time)*
+*Last Audit Update: 2026-02-26 07:41:59 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) The student is making progress but needs to address technical challenges encountered during electrode fabrication and deposition processes. Adjustments for exposure time in lithography and gold thickness during deposition have been identified for future attempts. Overall alignment with the plan is maintained. |
-| **kiwi487** | [Summary] Successfully tested laser parameters, produced the expected pattern, completed PL mapping despite sample issues, and prepared for electrode fabrication. |
-| **40341106s-dev** | [Summary] Completed progress on paper restructuring, acquired sample details, and studied related NV diamond nanoparticle assembly papers. |
-| **r13222062-hub** | [Summary] Successfully tested laser parameters, experimenting with speed, Q-pulse, and frequency on various substrates, in alignment with the work plan. |
-| **PatrickSharks** | [Conducting administrative requirements and analyzing data/literature to align progress with technical goals.](https://github.com/MYlabTaiwan/Meeting/issues/17) |
-| **r13222052-boop** | [Summary] Completed data comparison, held individual meeting, and started a new batch of W5N6; adjusted plan due to AFM data issues requiring sample replacement and procedure repetition. |
-| **Yu-1227** | [Summary] Completed silver paste application; annealing postponed due to missing LPCVD component, seeking alternative solutions and planning to proceed Thursday. |
-| **Guan-YuSu** | [Summary] Created carbon soot film and conducted Raman and I-V measurements, aligning with goals to advance technical progress as discussed in last week's meeting. |
-| **harold0104** | [Summary] Successfully demonstrated a rise in pH value from 8.2 to 8.5 after the experiment, indicating potential melting and reaction, while identifying the inconsistency in initial water pH measurement for further investigation. |
-
-
-| Tuesday (Fabrication) |  | Wednesday (Properties) |  | Thursday | |
-|----------|--------|--------------------|--------|----------------------|--------|
-| 14:00–14:10           |  | 10:00–10:10           |Thomas  | 10:00–10:10         | Karthika, Chun-Yang, Yi-Chin |
-| 14:10–14:20           | Rui-Hong  | 10:10–10:20           | | 10:10–10:20         |        |
-| 14:20–14:30           |   | 10:20–10:30           | Su Kuang-Yu | 10:20–10:30         |        |
-| 14:20–14:30           |   | 10:20–10:30           | Su Kuang-Yu | 10:20–10:30         |   Yu-Hui      |
-| 14:30–14:40           |  | 10:30–10:40           |   | 10:30–10:40         | Su Kuang-Yu  |
-| 14:40–14:50           | En-Chi       | 10:40–10:50           | Patrick | 10:40–10:50        | Ted    |
-| 14:50–15:00           | Ying-Chih       | 10:50–11:00           |  Suraj       | 10:50–11:00         |  Chen Guang-Yu      |
-| 15:00–15:10           | Yu-Hui   | 11:00–11:10           |     |    11:00 -11:10      | Hui-Ting|
-
+| **poman920819** | [Summary: No experiments were conducted today due to a full day of classes.] |
+| **huiting19991025-cmyk** | [Summary] Progress has been made in measuring particle positions, addressing placement challenges, and advancing the 3D printing of the new lifting platform, with the platform being 30% completed so far. |
+| **PatrickSharks** | Scheduled and started preparation for Raman and SEM/EDX, conducted literature research, and printed additional samples for supporting measurements. |
+| **40341106s-dev** | [Summary: The student worked on the paper and modified the 3D image, deviating slightly from the initial study paper goal.] |
+| **Xylon-code** | [Summary] Progress involved experimenting with PVDF-graphene transfer techniques, electrode position behaviors under variable potentials, and impact of defects on deposition, with partial reproducibility of results and new insights on patterns not being defect-dependent. |
+| **Yu-1227** | [Student reported being unable to work due to a full day of classes.] |
+| **KarthikaVijayan17** | Checked and analyzed changes with the optimized laser to prevent sample burning and identified areas for optimization. |
+| **harold0104** | [Summary] Worked on simultaneous laser and voltage experiments for silicon deposition, identified an issue with the gold electrode on highly doped silicon, and revisited the melting experiment to improve morphology clarity. |
 
 
 ### Meeting
