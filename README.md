@@ -3,18 +3,17 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-02-26 07:41:59 (Taipei Time)*
+*Last Audit Update: 2026-02-27 07:42:00 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary: No experiments were conducted today due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/18) |
-| **huiting19991025-cmyk** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Progress has been made in measuring particle positions, addressing placement challenges, and advancing the 3D printing of the new lifting platform, with the platform being 30% completed so far. |
-| **PatrickSharks** | Scheduled and started preparation for Raman and SEM/EDX, conducted literature research, and printed additional samples for supporting measurements. |
-| **40341106s-dev** | [Summary: The student worked on the paper and modified the 3D image, deviating slightly from the initial study paper goal.](https://github.com/MYlabTaiwan/Meeting/issues/19) |
-| **Xylon-code** | [Summary] Progress involved experimenting with PVDF-graphene transfer techniques, electrode position behaviors under variable potentials, and impact of defects on deposition, with partial reproducibility of results and new insights on patterns not being defect-dependent. |
-| **Yu-1227** | [Student reported being unable to work due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/20) |
-| **KarthikaVijayan17** | Checked and analyzed changes with the optimized laser to prevent sample burning and identified areas for optimization. |
-| **harold0104** | [Summary] Worked on simultaneous laser and voltage experiments for silicon deposition, identified an issue with the gold electrode on highly doped silicon, and revisited the melting experiment to improve morphology clarity. |
+| **hank910114** | [Summary] Created the 2nd electrode (30nm Ag/2nm Cr), with plans to confirm alignment by AFM next week while noting the need for larger overlap to prevent misalignment. |
+| **poman920819** | [Summary] Progress is ongoing for analyzing the Graphene/MoS₂ Raman data and measuring the Raman spectrum, with software reinstallation required due to a computer replacement. |
+| **kiwi487** | [Summary] Successfully fabricated Au/Cr electrodes on graphene/WS₂ and WS₂, measured Raman spectra between electrodes, and planned to measure photocurrent after single-point PL. |
+| **40341106s-dev** | [Summary] The student made progress by working on lithography for WS2, preparing Q.E., and modifying a paper figure. |
+| **r13222062-hub** | Measured the 0224 sample and organized data for samples 0213, 0223, and 0224. |
+| **Xylon-code** | [Constructed a device to enable precise pattern creation while avoiding unnecessary plasma exposure and began testing graphene on gold substrates to evaluate deposition under vertical electric fields.] |
+| **Yu-1227** | [Summary] Annealed Pt-WS2, encountered measurement issues with Pt-MoS2, hypothesized hall bar structure as the cause, and planned to test on graphene for verification. |
 
 
 ### Meeting
