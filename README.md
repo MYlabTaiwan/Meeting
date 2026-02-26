@@ -7,12 +7,12 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary: No experiments were conducted today due to a full day of classes.] |
-| **huiting19991025-cmyk** | [Summary] Progress has been made in measuring particle positions, addressing placement challenges, and advancing the 3D printing of the new lifting platform, with the platform being 30% completed so far. |
+| **poman920819** | [Summary: No experiments were conducted today due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/18) |
+| **huiting19991025-cmyk** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Progress has been made in measuring particle positions, addressing placement challenges, and advancing the 3D printing of the new lifting platform, with the platform being 30% completed so far. |
 | **PatrickSharks** | Scheduled and started preparation for Raman and SEM/EDX, conducted literature research, and printed additional samples for supporting measurements. |
-| **40341106s-dev** | [Summary: The student worked on the paper and modified the 3D image, deviating slightly from the initial study paper goal.] |
+| **40341106s-dev** | [Summary: The student worked on the paper and modified the 3D image, deviating slightly from the initial study paper goal.](https://github.com/MYlabTaiwan/Meeting/issues/19) |
 | **Xylon-code** | [Summary] Progress involved experimenting with PVDF-graphene transfer techniques, electrode position behaviors under variable potentials, and impact of defects on deposition, with partial reproducibility of results and new insights on patterns not being defect-dependent. |
-| **Yu-1227** | [Student reported being unable to work due to a full day of classes.] |
+| **Yu-1227** | [Student reported being unable to work due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/20) |
 | **KarthikaVijayan17** | Checked and analyzed changes with the optimized laser to prevent sample burning and identified areas for optimization. |
 | **harold0104** | [Summary] Worked on simultaneous laser and voltage experiments for silicon deposition, identified an issue with the gold electrode on highly doped silicon, and revisited the melting experiment to improve morphology clarity. |
 
