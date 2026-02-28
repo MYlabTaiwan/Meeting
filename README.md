@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **hank910114** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Created the 2nd electrode (30nm Ag/2nm Cr), with plans to confirm alignment by AFM next week while noting the need for larger overlap to prevent misalignment. |
+| **hank910114** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Created the 2nd electrode (30nm Ag/2nm Cr), with plans to confirm alignment by AFM next week while noting the need for larger overlap to prevent misalignment. |
 | **poman920819** | [Summary] Progress is ongoing for analyzing the Graphene/MoS₂ Raman data and measuring the Raman spectrum, with software reinstallation required due to a computer replacement. |
 | **kiwi487** | [Summary] Successfully fabricated Au/Cr electrodes on graphene/WS₂ and WS₂, measured Raman spectra between electrodes, and planned to measure photocurrent after single-point PL. |
 | **40341106s-dev** | [Summary] The student made progress by working on lithography for WS2, preparing Q.E., and modifying a paper figure. |
