@@ -3,11 +3,18 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-02 07:38:17 (Taipei Time)*
+*Last Audit Update: 2026-03-03 07:40:49 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **r13222062-hub** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Improved the attachment of carbon soot on sapphire substrate by pre-baking at 150°C and adding solvent to enhance laser absorbance and reduce other chemical residues. |
+| **hank910114** | Used O2 RIE to remove unprotected WS2, performed wet etching and AFM scanning, considered methods for back gate fabrication, tested grinding oxide layer with sandpaper on a small sample, and noted issues with silver electrode reacting with Al etchant for review in the individual meeting. |
+| **huiting19991025-cmyk** | [Redesigned and created a new file for the lifting platform, adding a hook to facilitate future lifting tasks.] |
+| **40341106s-dev** | Preparing the Q.E. and depositing electro on the WS2 samples |
+| **PatrickSharks** | Conducted some literature research on Raman spectra, addressed course credit issues due to a cancellation, though progress was limited due to distractions and feeling unwell. |
+| **r13222062-hub** | [Summary] Successfully tested various parameters on the 0301 sample, discovering a new synthesis frequency (30kHz) effective for the carbon soot material differing from other conditions. |
+| **Xylon-code** | [Summary] Experimentation with voltage application, laser heating, and extended hot plate heating yielded no significant deposition or alteration in results, requiring further overnight heating evaluation. |
+| **Yu-1227** | [Summary] Identified issues with the L412 IV setup, specifically a malfunctioning probe and a shortage of plug adaptors, which currently limits the setup to two-point IV measurements. |
+| **r13222052-boop** | [Summary] Performed W5N6 growth, copper foil polishing, and AFM measurement while addressing challenges with surface cleanliness on a sample and attempting consistent cleaning procedures. |
 
 
 ### Meeting
