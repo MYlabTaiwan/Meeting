@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **r13222062-hub** | [Summary] Improved the attachment of carbon soot on sapphire substrate by pre-baking at 150°C and adding solvent to enhance laser absorbance and reduce other chemical residues. |
+| **r13222062-hub** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Improved the attachment of carbon soot on sapphire substrate by pre-baking at 150°C and adding solvent to enhance laser absorbance and reduce other chemical residues. |
 
 
 ### Meeting
