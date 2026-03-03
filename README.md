@@ -3,18 +3,18 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-03 07:40:49 (Taipei Time)*
+*Last Audit Update: 2026-03-04 07:40:18 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **hank910114** | Used O2 RIE to remove unprotected WS2, performed wet etching and AFM scanning, considered methods for back gate fabrication, tested grinding oxide layer with sandpaper on a small sample, and noted issues with silver electrode reacting with Al etchant for review in the individual meeting. |
-| **huiting19991025-cmyk** | [Redesigned and created a new file for the lifting platform, adding a hook to facilitate future lifting tasks.](https://github.com/MYlabTaiwan/Meeting/issues/22) |
-| **40341106s-dev** | Preparing the Q.E. and depositing electro on the WS2 samples |
-| **PatrickSharks** | Conducted some literature research on Raman spectra, addressed course credit issues due to a cancellation, though progress was limited due to distractions and feeling unwell. |
-| **r13222062-hub** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Successfully tested various parameters on the 0301 sample, discovering a new synthesis frequency (30kHz) effective for the carbon soot material differing from other conditions. |
-| **Xylon-code** | [Summary] Experimentation with voltage application, laser heating, and extended hot plate heating yielded no significant deposition or alteration in results, requiring further overnight heating evaluation. |
-| **Yu-1227** | [Summary] Identified issues with the L412 IV setup, specifically a malfunctioning probe and a shortage of plug adaptors, which currently limits the setup to two-point IV measurements. |
-| **r13222052-boop** | [Summary] Performed W5N6 growth, copper foil polishing, and AFM measurement while addressing challenges with surface cleanliness on a sample and attempting consistent cleaning procedures. |
+| **hank910114** | [Summary] Conducted test of 1st electrode fabrication with specific material layers, observed fine results, and planned growth of 2nd electrodes with larger overlap. |
+| **poman920819** | [Summary] Successfully measured the Raman spectrum of Graphene/MoS₂ using both a 785 nm laser and an older Raman system, despite a full day of classes. |
+| **PatrickSharks** | Gave up on troubleshooting inaccurate Raman measurements for filament samples. |
+| **r13222062-hub** | [Summary: Attempted dry transfer print, but observed challenges with sample wetness affecting Raman mapping and AFM, MoS2 melting under laser irradiation, and the need for a method to wash the sample without damaging it or disrupting MoS2 distribution.] |
+| **r13222052-boop** | [Summary] Completed work on growing another batch of W5N6 and conducted paper reading to improve the story, aligning with today's goals. |
+| **Xylon-code** | [Summary] Experimental conditions, including electrode placement and plasma treatment, significantly influence graphene deposition patterns, confirming the importance of precise process parameters. |
+| **Yu-1227** | [Summary] Evaluated the magnetic moment with SQUID data but will double-check due to potential errors, identified the lack of a lock-in amplifier and proposed solutions, and attempted to create a Hall bar structure on graphene but faced issues with lithography. |
+| **harold0104** | Conducted the silicon deposit experiment with applied voltage despite IV measurement issues, planning to measure Raman tomorrow. |
 
 
 ### Meeting
