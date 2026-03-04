@@ -3,18 +3,18 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-04 07:40:18 (Taipei Time)*
+*Last Audit Update: 2026-03-05 07:42:05 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **hank910114** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Conducted test of 1st electrode fabrication with specific material layers, observed fine results, and planned growth of 2nd electrodes with larger overlap. |
-| **poman920819** | [Summary] Successfully measured the Raman spectrum of Graphene/MoS₂ using both a 785 nm laser and an older Raman system, despite a full day of classes. |
-| **PatrickSharks** | Gave up on troubleshooting inaccurate Raman measurements for filament samples. |
-| **r13222062-hub** | [Summary: Attempted dry transfer print, but observed challenges with sample wetness affecting Raman mapping and AFM, MoS2 melting under laser irradiation, and the need for a method to wash the sample without damaging it or disrupting MoS2 distribution.](https://github.com/MYlabTaiwan/Meeting/issues/23) |
-| **r13222052-boop** | [Summary] Completed work on growing another batch of W5N6 and conducted paper reading to improve the story, aligning with today's goals. |
-| **Xylon-code** | [Summary] Experimental conditions, including electrode placement and plasma treatment, significantly influence graphene deposition patterns, confirming the importance of precise process parameters. |
-| **Yu-1227** | [Summary] Evaluated the magnetic moment with SQUID data but will double-check due to potential errors, identified the lack of a lock-in amplifier and proposed solutions, and attempted to create a Hall bar structure on graphene but faced issues with lithography. |
-| **harold0104** | Conducted the silicon deposit experiment with applied voltage despite IV measurement issues, planning to measure Raman tomorrow. |
+| **hank910114** | [Summary] Fabricated 2nd electrodes using Au, Ag, and Cr, with minor issue of gold not adhering well to silver. |
+| **poman920819** | [Summary: No experiments were conducted today due to a full day of classes.] |
+| **PatrickSharks** | [Summary: Patrick is progressing with data collection and analysis, including setup photos, SEM/EDX scheduled, TGA planning, annealing tests, and initial conductivity observations despite facing challenges with Raman measurements.] |
+| **r13222052-boop** | [Summary] Student worked on testing the growth of W5N6 for CVD in chambers 408 and 218 as per today's goal. |
+| **Xylon-code** | [Summary: Attended an individual meeting, attended a solid-state physics class, and prepared a sample by thermoevaporating to construct the electrode on graphene, with a plan to do negative PR tomorrow.] |
+| **Yu-1227** | [Summary] Yu-1227 identified a potential error in measurement procedures, plans to adjust software for accurate resistance measurements, and located necessary equipment for the experiment setup. |
+| **KarthikaVijayan17** | [Summary: Parameters for CVD growth of tungsten nitrides have been identified from literature, listed for trials, and Raman analysis of samples has been performed.] |
+| **harold0104** | [Successfully completed the silicon deposition experiment and measured Raman as per the goal.] |
 
 
 ### Meeting
