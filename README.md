@@ -7,10 +7,10 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **hank910114** | [Summary] Conducted test of 1st electrode fabrication with specific material layers, observed fine results, and planned growth of 2nd electrodes with larger overlap. |
+| **hank910114** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Conducted test of 1st electrode fabrication with specific material layers, observed fine results, and planned growth of 2nd electrodes with larger overlap. |
 | **poman920819** | [Summary] Successfully measured the Raman spectrum of Graphene/MoS₂ using both a 785 nm laser and an older Raman system, despite a full day of classes. |
 | **PatrickSharks** | Gave up on troubleshooting inaccurate Raman measurements for filament samples. |
-| **r13222062-hub** | [Summary: Attempted dry transfer print, but observed challenges with sample wetness affecting Raman mapping and AFM, MoS2 melting under laser irradiation, and the need for a method to wash the sample without damaging it or disrupting MoS2 distribution.] |
+| **r13222062-hub** | [Summary: Attempted dry transfer print, but observed challenges with sample wetness affecting Raman mapping and AFM, MoS2 melting under laser irradiation, and the need for a method to wash the sample without damaging it or disrupting MoS2 distribution.](https://github.com/MYlabTaiwan/Meeting/issues/23) |
 | **r13222052-boop** | [Summary] Completed work on growing another batch of W5N6 and conducted paper reading to improve the story, aligning with today's goals. |
 | **Xylon-code** | [Summary] Experimental conditions, including electrode placement and plasma treatment, significantly influence graphene deposition patterns, confirming the importance of precise process parameters. |
 | **Yu-1227** | [Summary] Evaluated the magnetic moment with SQUID data but will double-check due to potential errors, identified the lack of a lock-in amplifier and proposed solutions, and attempted to create a Hall bar structure on graphene but faced issues with lithography. |
