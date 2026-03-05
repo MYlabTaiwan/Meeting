@@ -3,18 +3,19 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-05 07:42:05 (Taipei Time)*
+*Last Audit Update: 2026-03-06 07:47:55 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **hank910114** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Fabricated 2nd electrodes using Au, Ag, and Cr, with minor issue of gold not adhering well to silver. |
-| **poman920819** | [Summary: No experiments were conducted today due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/18) |
-| **PatrickSharks** | [Summary: Patrick is progressing with data collection and analysis, including setup photos, SEM/EDX scheduled, TGA planning, annealing tests, and initial conductivity observations despite facing challenges with Raman measurements.](https://github.com/MYlabTaiwan/Meeting/issues/24) |
-| **r13222052-boop** | [Summary] Student worked on testing the growth of W5N6 for CVD in chambers 408 and 218 as per today's goal. |
-| **Xylon-code** | [Summary: Attended an individual meeting, attended a solid-state physics class, and prepared a sample by thermoevaporating to construct the electrode on graphene, with a plan to do negative PR tomorrow.](https://github.com/MYlabTaiwan/Meeting/issues/25) |
-| **Yu-1227** | [Summary] Yu-1227 identified a potential error in measurement procedures, plans to adjust software for accurate resistance measurements, and located necessary equipment for the experiment setup. |
-| **KarthikaVijayan17** | [Summary: Parameters for CVD growth of tungsten nitrides have been identified from literature, listed for trials, and Raman analysis of samples has been performed.](https://github.com/MYlabTaiwan/Meeting/issues/26) |
-| **harold0104** | [Successfully completed the silicon deposition experiment and measured Raman as per the goal.](https://github.com/MYlabTaiwan/Meeting/issues/27) |
+| **hank910114** | [Summary] Conducted group meeting presentation, performed O2 RIE, peeling, and etching with successful nanogap formation but encountered issues with peeling off the thin gold layer, needing AFM checks for nanogap verification. |
+| **poman920819** | [Summary] Fabricated electrodes on graphene successfully and began analyzing Graphene/MoS₂ Raman data, encountering an issue with axis scaling conversion. |
+| **huiting19991025-cmyk** | [Summary: Completed the design of the lifting platform and attempted to print it, but encountered issues with the 3D printer that will be repaired by Thomas.] |
+| **r13222062-hub** | [Summary] Attempted dry transfer printing for glueing MoS2 but faced issues; considering washing the substrate with water as MoS2 is water-insoluble. |
+| **PatrickSharks** | Conducted Raman measurements on various 3D filament samples using red and green lasers but observed no peaks or significant results, despite proper operation and adjustments. |
+| **Xylon-code** | Finished designing negative and positive PR patterns but unable to perform IV experiments due to Raman spectroscopy reservation overload. |
+| **Yu-1227** | [Summary] Re-evaluated SQUID data, initiated vacuum-based 2-point IV measurements on Pt-MoS2 and Pt-WS2, and planned procurement of adapters for 4-point IV measurements while addressing resistance challenges and annealing considerations. |
+| **KarthikaVijayan17** | [Summary] Powder spincoating optimization was conducted to enhance functionalization through molten salt methods. |
+| **harold0104** | [The measurement data has been successfully organized per the goal.] |
 
 
 ### Meeting
