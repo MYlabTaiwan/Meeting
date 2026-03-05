@@ -7,14 +7,14 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **hank910114** | [Summary] Fabricated 2nd electrodes using Au, Ag, and Cr, with minor issue of gold not adhering well to silver. |
-| **poman920819** | [Summary: No experiments were conducted today due to a full day of classes.] |
-| **PatrickSharks** | [Summary: Patrick is progressing with data collection and analysis, including setup photos, SEM/EDX scheduled, TGA planning, annealing tests, and initial conductivity observations despite facing challenges with Raman measurements.] |
+| **hank910114** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Fabricated 2nd electrodes using Au, Ag, and Cr, with minor issue of gold not adhering well to silver. |
+| **poman920819** | [Summary: No experiments were conducted today due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/18) |
+| **PatrickSharks** | [Summary: Patrick is progressing with data collection and analysis, including setup photos, SEM/EDX scheduled, TGA planning, annealing tests, and initial conductivity observations despite facing challenges with Raman measurements.](https://github.com/MYlabTaiwan/Meeting/issues/24) |
 | **r13222052-boop** | [Summary] Student worked on testing the growth of W5N6 for CVD in chambers 408 and 218 as per today's goal. |
-| **Xylon-code** | [Summary: Attended an individual meeting, attended a solid-state physics class, and prepared a sample by thermoevaporating to construct the electrode on graphene, with a plan to do negative PR tomorrow.] |
+| **Xylon-code** | [Summary: Attended an individual meeting, attended a solid-state physics class, and prepared a sample by thermoevaporating to construct the electrode on graphene, with a plan to do negative PR tomorrow.](https://github.com/MYlabTaiwan/Meeting/issues/25) |
 | **Yu-1227** | [Summary] Yu-1227 identified a potential error in measurement procedures, plans to adjust software for accurate resistance measurements, and located necessary equipment for the experiment setup. |
-| **KarthikaVijayan17** | [Summary: Parameters for CVD growth of tungsten nitrides have been identified from literature, listed for trials, and Raman analysis of samples has been performed.] |
-| **harold0104** | [Successfully completed the silicon deposition experiment and measured Raman as per the goal.] |
+| **KarthikaVijayan17** | [Summary: Parameters for CVD growth of tungsten nitrides have been identified from literature, listed for trials, and Raman analysis of samples has been performed.](https://github.com/MYlabTaiwan/Meeting/issues/26) |
+| **harold0104** | [Successfully completed the silicon deposition experiment and measured Raman as per the goal.](https://github.com/MYlabTaiwan/Meeting/issues/27) |
 
 
 ### Meeting
