@@ -19,7 +19,7 @@ Please log in on time!
 |  |  | 09:00–09:10 | Guan-Ting | 09:00–09:10 | Thomas |09:30–11:00   |**[Group meeting (R716)](https://meet.google.com/uyr-bgdx-suo)**  | 09:00–09:10 | Karthika, Chun-Yang, Yi-Chin |
 |  |  | 09:10–09:20 | Rui-Hong | 09:10–09:20 | Benjamin |  |  | 09:10–09:20 |  |
 |  |  | 09:20–09:30 | Peter | 09:20–09:30 | Su Kuang-Yu |  |  | 09:20–09:30 |  |
-|  |  | 09:30–09:40 | Ting-Chun | 09:30–09:40 |  |  |  | 09:30–09:40 |  |
+|  |  | 09:30–09:40 | | 09:30–09:40 |  |  |  | 09:30–09:40 |  |
 |  |  | 09:40–09:50 | En-Chi | 09:40–09:50 | Patrick |  |  | 09:40–09:50 | Ted |
 |  |  | 09:50–10:00 | Vincent | 09:50–10:00 | Suraj |  |  | 09:50–10:00 | Chen Guang-Yu |
 |  |  | 10:00–10:10 | Yu-Hui | 10:00–10:10 | Ying-Chih |  |  | 10:00 -10:10 | Hui-Ting |
