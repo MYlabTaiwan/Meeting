@@ -7,14 +7,14 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary: No experiments were run today due to a full day of classes.] |
-| **huiting19991025-cmyk** | [Summary: The student assembled an Arduino scale, identified issues with the old measurement method, proposed improvements using LEGO for better force distribution and actuation testing, and deferred soldering repairs and testing to the following day.] |
-| **r13222062-hub** | [Summary] Thermal evaporated Au on FTO for vertical electrode testing, tested 3D printer nitrogen chamber, and identified MoS2 sample instability in water requiring a new solution. |
+| **poman920819** | [Summary: No experiments were run today due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/30) |
+| **huiting19991025-cmyk** | [Summary: The student assembled an Arduino scale, identified issues with the old measurement method, proposed improvements using LEGO for better force distribution and actuation testing, and deferred soldering repairs and testing to the following day.](https://github.com/MYlabTaiwan/Meeting/issues/31) |
+| **r13222062-hub** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Thermal evaporated Au on FTO for vertical electrode testing, tested 3D printer nitrogen chamber, and identified MoS2 sample instability in water requiring a new solution. |
 | **Yu-1227** | [Summary] Analyzed IV data to identify Schottky barrier tendencies and compared Pt-MoS2 with an insulator, then annealed Pt-MoS2 in LPCVD for potential property improvement. |
 | **PatrickSharks** | Conducted literature research for an upcoming paper and presentation, and explored a replacement course for canceled credits. |
 | **r13222052-boop** | [Summary] Completed Raman mapping for three regions, conducted AFM measurement, reviewed the paper, and successfully contacted the professor as planned. |
 | **KarthikaVijayan17** | [Summary] Conducted parameter checks on burning behavior under varying scan-rate and power settings, and attempted molten salt reaction using a laser followed by applied potential. |
-| **harold0104** | [Summary: Successfully worked on making a gold electrode as part of today's goal in alignment with the plan.] |
+| **harold0104** | [Summary: Successfully worked on making a gold electrode as part of today's goal in alignment with the plan.](https://github.com/MYlabTaiwan/Meeting/issues/32) |
 
 
 ### Meeting
