@@ -3,18 +3,17 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-10 07:40:45 (Taipei Time)*
+*Last Audit Update: 2026-03-11 07:40:24 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary: No experiments were run today due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/30) |
-| **huiting19991025-cmyk** | [Summary: The student assembled an Arduino scale, identified issues with the old measurement method, proposed improvements using LEGO for better force distribution and actuation testing, and deferred soldering repairs and testing to the following day.](https://github.com/MYlabTaiwan/Meeting/issues/31) |
-| **r13222062-hub** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Thermal evaporated Au on FTO for vertical electrode testing, tested 3D printer nitrogen chamber, and identified MoS2 sample instability in water requiring a new solution. |
-| **Yu-1227** | [Summary] Analyzed IV data to identify Schottky barrier tendencies and compared Pt-MoS2 with an insulator, then annealed Pt-MoS2 in LPCVD for potential property improvement. |
-| **PatrickSharks** | Conducted literature research for an upcoming paper and presentation, and explored a replacement course for canceled credits. |
-| **r13222052-boop** | [Summary] Completed Raman mapping for three regions, conducted AFM measurement, reviewed the paper, and successfully contacted the professor as planned. |
-| **KarthikaVijayan17** | [Summary] Conducted parameter checks on burning behavior under varying scan-rate and power settings, and attempted molten salt reaction using a laser followed by applied potential. |
-| **harold0104** | [Summary: Successfully worked on making a gold electrode as part of today's goal in alignment with the plan.](https://github.com/MYlabTaiwan/Meeting/issues/32) |
+| **poman920819** | [Summary] Tested varying CF4 plasma etching parameters for Graphene/MoS2 Nanoribbons, focusing on durations of 05, 07, 09, 10, and 11 minutes; progress ongoing. |
+| **r13222062-hub** | [Summary] Thermal evaporation of Au on a sapphire sample, IV measurements, and compound solvent coating were performed, but the 3D printer chamber failed. |
+| **PatrickSharks** | Completed SEM and EDX tasks with Peter but made minimal progress on presentation preparation. |
+| **Yu-1227** | [Annealed Pt-MoS2 under 10sccm H2 and 100sccm Ar for 2 hours, followed by 22 hours in vacuum as per plan.] |
+| **KarthikaVijayan17** | Spray coating techniques are being explored to reduce the thickness of the molten salt functionalization layer, aligning with the project plan. |
+| **Guan-YuSu** | [Today, different concentrations of carbon soot solution (1%, 0.5%, 0.4%, 0.3%, 0.1%) were used to fabricate films.] |
+| **harold0104** | [Summary] Harold is making progress aligning with the plan by investigating cleaning methods for contaminants, analyzing materials suspected to be calcium silicate through HCl etching, planning AFM measurements, and exploring definitions and verification for "molten" states in relation to molten salt processes. |
 
 
 ### Meeting
