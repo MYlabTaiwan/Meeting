@@ -7,12 +7,12 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Tested varying CF4 plasma etching parameters for Graphene/MoS2 Nanoribbons, focusing on durations of 05, 07, 09, 10, and 11 minutes; progress ongoing. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Tested varying CF4 plasma etching parameters for Graphene/MoS2 Nanoribbons, focusing on durations of 05, 07, 09, 10, and 11 minutes; progress ongoing. |
 | **r13222062-hub** | [Summary] Thermal evaporation of Au on a sapphire sample, IV measurements, and compound solvent coating were performed, but the 3D printer chamber failed. |
 | **PatrickSharks** | Completed SEM and EDX tasks with Peter but made minimal progress on presentation preparation. |
-| **Yu-1227** | [Annealed Pt-MoS2 under 10sccm H2 and 100sccm Ar for 2 hours, followed by 22 hours in vacuum as per plan.] |
+| **Yu-1227** | [Annealed Pt-MoS2 under 10sccm H2 and 100sccm Ar for 2 hours, followed by 22 hours in vacuum as per plan.](https://github.com/MYlabTaiwan/Meeting/issues/33) |
 | **KarthikaVijayan17** | Spray coating techniques are being explored to reduce the thickness of the molten salt functionalization layer, aligning with the project plan. |
-| **Guan-YuSu** | [Today, different concentrations of carbon soot solution (1%, 0.5%, 0.4%, 0.3%, 0.1%) were used to fabricate films.] |
+| **Guan-YuSu** | [Today, different concentrations of carbon soot solution (1%, 0.5%, 0.4%, 0.3%, 0.1%) were used to fabricate films.](https://github.com/MYlabTaiwan/Meeting/issues/34) |
 | **harold0104** | [Summary] Harold is making progress aligning with the plan by investigating cleaning methods for contaminants, analyzing materials suspected to be calcium silicate through HCl etching, planning AFM measurements, and exploring definitions and verification for "molten" states in relation to molten salt processes. |
 
 
