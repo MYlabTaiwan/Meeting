@@ -1,97 +1,64 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>MYlab Research Gallery</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@recogito/annotorious@2.7.2/dist/annotorious.min.css">
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; display: flex; height: 100vh; background: #eceff1; }
-        #sidebar { width: 280px; background: #fff; border-right: 1px solid #cfd8dc; overflow-y: auto; padding: 20px; box-shadow: 2px 0 5px rgba(0,0,0,0.05); }
-        .thumb-card { background: #fff; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 15px; cursor: pointer; overflow: hidden; transition: transform 0.2s, border-color 0.2s; }
-        .thumb-card:hover { transform: translateY(-2px); border-color: #2196f3; }
-        .thumb-card img { width: 100%; height: 120px; object-fit: cover; }
-        .thumb-info { padding: 8px; font-size: 13px; font-weight: 500; color: #455a64; text-align: center; }
         
-        #main-container { flex-grow: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 40px; }
-        #canvas-box { background: white; padding: 10px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); max-width: 100%; }
-        #closeup-image { max-width: 100%; max-height: 75vh; border-radius: 4px; }
-        #status-bar { margin-bottom: 20px; padding: 8px 16px; border-radius: 20px; background: #fff; font-size: 14px; color: #78909c; border: 1px solid #cfd8dc; }
+        /* Sidebar Styles */
+        #sidebar { width: 300px; background: #fff; border-right: 1px solid #cfd8dc; overflow-y: auto; padding: 20px; box-shadow: 2px 0 5px rgba(0,0,0,0.05); }
+        .thumb-card { background: #fff; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 15px; cursor: pointer; overflow: hidden; transition: 0.2s; }
+        .thumb-card:hover { border-color: #2196f3; background: #f0f7ff; }
+        .thumb-card img { width: 100%; height: 140px; object-fit: cover; border-bottom: 1px solid #eee; }
+        .thumb-info { padding: 10px; font-size: 14px; font-weight: 600; color: #455a64; text-align: center; }
+
+        /* Main Viewer Styles */
+        #main-container { flex-grow: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 30px; }
+        #status-bar { margin-bottom: 20px; padding: 10px 20px; border-radius: 30px; background: #fff; font-size: 14px; color: #546e7a; border: 1px solid #cfd8dc; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        #canvas-box { background: white; padding: 15px; border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.15); max-width: 95%; }
+        #closeup-image { max-width: 100%; max-height: 75vh; border-radius: 4px; display: block; }
     </style>
 </head>
 <body>
 
 <div id="sidebar">
-    <h2 style="margin-top:0; color: #263238;">Samples</h2>
+    <h2 style="margin-top:0; color: #1a237e; border-bottom: 2px solid #1a237e; padding-bottom: 10px;">Sample Gallery</h2>
     <div id="thumb-list"></div>
 </div>
 
 <div id="main-container">
-    <div id="status-bar">Select a sample from the left to start annotating</div>
+    <div id="status-bar">Select a sample to begin annotating</div>
     <div id="canvas-box">
         <img id="closeup-image" src="" alt="">
     </div>
+    <p style="color: #90a4ae; margin-top: 15px; font-size: 0.9em;">Click and drag to highlight regions. Annotations save automatically.</p>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@recogito/annotorious@2.7.2/dist/annotorious.all.min.js"></script>
+
 <script>
     const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyXvg5bavLy1vOyLh-BrLe6PiTfsJyqnnCi-XtVqhYrAOHragk54ciwsNrqAQsUMS0g/exec';
-
-    // Update these paths to match your GitHub folder structure
-    const myImages = [
-        { id: "Scan_001", thumb: "images/zoom_01.jpg", full: "images/close_01.jpg" },
-        { id: "Scan_002", thumb: "images/zoom_02.jpg", full: "images/close_02.jpg" },
-        // Add your other 48 images here
-    ];
+    const IMAGE_FOLDER = 'image folder'; // Matches your folder name
 
     let anno = null;
     let activeId = null;
 
-    // Build Sidebar
+    // --- 1. AUTOMATICALLY GENERATE IMAGE LIST (1 to 57) ---
+    const myImages = [];
+    for (let i = 1; i <= 57; i++) {
+        myImages.push({
+            id: `Sample ${i}`,
+            thumb: `${IMAGE_FOLDER}/${i}a.jpg`, // Zoomed out (e.g. 57a.jpg)
+            full: `${IMAGE_FOLDER}/${i}1.jpg`   // Close up (e.g. 57.jpg - corrected logic below)
+        });
+    }
+
+    // --- 2. BUILD THE SIDEBAR UI ---
     const list = document.getElementById('thumb-list');
     myImages.forEach(item => {
         const card = document.createElement('div');
         card.className = 'thumb-card';
-        card.innerHTML = `<img src="${item.thumb}"><div class="thumb-info">${item.id}</div>`;
-        card.onclick = () => selectImage(item);
-        list.appendChild(card);
-    });
-
-    async function selectImage(item) {
-        activeId = item.id;
-        const imgElement = document.getElementById('closeup-image');
-        const status = document.getElementById('status-bar');
-        
-        status.innerText = `🔄 Loading annotations for ${item.id}...`;
-        
-        if (anno) anno.destroy();
-        imgElement.src = item.full;
-
-        imgElement.onload = () => {
-            anno = Annotorious.init({ image: 'closeup-image' });
-            
-            // Fetch and display historical data
-            fetch(`${SCRIPT_URL}?imageId=${activeId}`)
-                .then(r => r.json())
-                .then(data => {
-                    anno.setAnnotations(data);
-                    status.innerText = `✅ Viewing ${activeId} (${data.length} existing marks)`;
-                });
-
-            // Handle new saves
-            anno.on('createAnnotation', async (annotation) => {
-                status.innerText = "💾 Saving to Cloud...";
-                
-                await fetch(SCRIPT_URL, {
-                    method: 'POST',
-                    mode: 'no-cors', // Bypasses browser security prompts
-                    headers: { 'Content-Type': 'text/plain' },
-                    body: JSON.stringify({ imageId: activeId, annotation: annotation })
-                });
-                
-                status.innerText = "✅ Saved!";
-            });
-        };
-    }
-</script>
-
-</body>
-</html>
+        // Note: Using the close-up filename 'i.jpg' as requested
+        const closeUpFilename = item.id.replace('Sample
