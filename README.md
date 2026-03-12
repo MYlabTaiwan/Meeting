@@ -7,9 +7,9 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **kiwi487** | [Summary] Progress aligns with the plan, focusing on laser parameter testing and analysis for material processing and adjusting parameters accordingly. |
+| **kiwi487** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Progress aligns with the plan, focusing on laser parameter testing and analysis for material processing and adjusting parameters accordingly. |
 | **huiting19991025-cmyk** | [Summary] Completed Arduino scale but requires further testing; started first step measurement; continued progress on LEGO chamber design; further simulation exploration pending force chain paper review. |
-| **PatrickSharks** | [Summary: PatrickSharks is analyzing EDX data showing unexpected element percentages and plans to consult Thomas for clarification from the manufacturer.] |
+| **PatrickSharks** | [Summary: PatrickSharks is analyzing EDX data showing unexpected element percentages and plans to consult Thomas for clarification from the manufacturer.](https://github.com/MYlabTaiwan/Meeting/issues/35) |
 
 
 ### Meeting
