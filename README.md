@@ -8,11 +8,11 @@
 | Student | Summary |
 | :--- | :--- |
 | **Guan-YuSu** | Fabricated small assembled carbon soot films with varying concentrations, analyzed them via OM and Raman spectroscopy, and prepared samples for SEM submission to Peter by Friday. |
-| **poman920819** | [Summary] Completed both goals of trying etching parameters for Graphene/MoS2 nanoribbons and measuring monolayer Graphene I-V, despite a full day of classes. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Completed both goals of trying etching parameters for Graphene/MoS2 nanoribbons and measuring monolayer Graphene I-V, despite a full day of classes. |
 | **r13222052-boop** | [Summary] Progress was made in Raman mapping, AFM thickness testing, and etching, revealing nonuniformities in RIE etching and W5N6 monolayer thickness, requiring further examination. |
 | **r13222062-hub** | [Summary] Experimented with various parameters on different substrates, measured results, and processed data. |
-| **PatrickSharks** | [PatrickSharks is working on presenting Raman data for strained 3D filament characterization but is facing challenges with formatting or analysis.] |
-| **Yu-1227** | [Yu-1227 successfully initiated the purchase process for the adapter, confirmed that annealing improves conductivity, and plans to continue annealing for better performance.] |
+| **PatrickSharks** | [PatrickSharks is working on presenting Raman data for strained 3D filament characterization but is facing challenges with formatting or analysis.](https://github.com/MYlabTaiwan/Meeting/issues/36) |
+| **Yu-1227** | [Yu-1227 successfully initiated the purchase process for the adapter, confirmed that annealing improves conductivity, and plans to continue annealing for better performance.](https://github.com/MYlabTaiwan/Meeting/issues/37) |
 
 
 ### Meeting
