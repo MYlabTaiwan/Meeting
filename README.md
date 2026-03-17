@@ -7,10 +7,10 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **40341106s-dev** | [Summary] Completed tasks 1, 2, and 3 as planned, with task 4 left unaddressed. |
+| **40341106s-dev** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Completed tasks 1, 2, and 3 as planned, with task 4 left unaddressed. |
 | **Yu-1227** | [Summary] Conductivity measurements of Pt-MoS<sub>2</sub> and Pt-WS<sub>2</sub> post-annealing were analyzed, with Pt-WS<sub>2</sub> showing improved conductivity and Pt-MoS<sub>2</sub> potentially impacted by accidental damage; new IV equipment setup is anticipated. |
 | **huiting19991025-cmyk** | Calibrated the scale, measured the trigger force on particles, and completed the design using LEGO. |
-| **KarthikaVijayan17** | [Fixing programming errors in VScode to ensure technical progress and alignment with the plan.] |
+| **KarthikaVijayan17** | [Fixing programming errors in VScode to ensure technical progress and alignment with the plan.](https://github.com/MYlabTaiwan/Meeting/issues/38) |
 | **harold0104** | Successfully cleaned the yellow and measured AFM as planned. |
 
 
