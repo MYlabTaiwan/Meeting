@@ -3,15 +3,15 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-17 07:41:23 (Taipei Time)*
+*Last Audit Update: 2026-03-18 07:43:21 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **40341106s-dev** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Completed tasks 1, 2, and 3 as planned, with task 4 left unaddressed. |
-| **Yu-1227** | [Summary] Conductivity measurements of Pt-MoS<sub>2</sub> and Pt-WS<sub>2</sub> post-annealing were analyzed, with Pt-WS<sub>2</sub> showing improved conductivity and Pt-MoS<sub>2</sub> potentially impacted by accidental damage; new IV equipment setup is anticipated. |
-| **huiting19991025-cmyk** | Calibrated the scale, measured the trigger force on particles, and completed the design using LEGO. |
-| **KarthikaVijayan17** | [Fixing programming errors in VScode to ensure technical progress and alignment with the plan.](https://github.com/MYlabTaiwan/Meeting/issues/38) |
-| **harold0104** | Successfully cleaned the yellow and measured AFM as planned. |
+| **poman920819** | [Summary] Failed AFM measurements on plasma-etched graphene were deferred to Thursday, while longer CF₄ plasma etch times for Graphene/MoS₂ nanoribbons are still underway. |
+| **40341106s-dev** | [Summary] Progress made on CL measurements with identification of a peak at 292nm (bandgap ~4.25 eV), but WS2 transfer failed due to NaOH etching issues; paper outline modification to continue later. |
+| **PatrickSharks** | [Student attended class and plans to review fitting data from Shiphra.] |
+| **Yu-1227** | [Summary] Worked on the group meeting report and located necessary adapters to begin 4-probe measurement for contact status confirmation. |
+| **KarthikaVijayan17** | [Summary: KarthikaVijayan17 worked on debugging Python code for IV measurements and conducted spray pyrolysis experiments with varied concentrations and parameters.] |
 
 
 ### Meeting
