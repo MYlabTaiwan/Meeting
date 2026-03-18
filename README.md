@@ -7,11 +7,11 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Failed AFM measurements on plasma-etched graphene were deferred to Thursday, while longer CF₄ plasma etch times for Graphene/MoS₂ nanoribbons are still underway. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Failed AFM measurements on plasma-etched graphene were deferred to Thursday, while longer CF₄ plasma etch times for Graphene/MoS₂ nanoribbons are still underway. |
 | **40341106s-dev** | [Summary] Progress made on CL measurements with identification of a peak at 292nm (bandgap ~4.25 eV), but WS2 transfer failed due to NaOH etching issues; paper outline modification to continue later. |
-| **PatrickSharks** | [Student attended class and plans to review fitting data from Shiphra.] |
+| **PatrickSharks** | [Student attended class and plans to review fitting data from Shiphra.](https://github.com/MYlabTaiwan/Meeting/issues/39) |
 | **Yu-1227** | [Summary] Worked on the group meeting report and located necessary adapters to begin 4-probe measurement for contact status confirmation. |
-| **KarthikaVijayan17** | [Summary: KarthikaVijayan17 worked on debugging Python code for IV measurements and conducted spray pyrolysis experiments with varied concentrations and parameters.] |
+| **KarthikaVijayan17** | [Summary: KarthikaVijayan17 worked on debugging Python code for IV measurements and conducted spray pyrolysis experiments with varied concentrations and parameters.](https://github.com/MYlabTaiwan/Meeting/issues/40) |
 
 
 ### Meeting
