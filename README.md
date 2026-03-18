@@ -3,15 +3,18 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-18 07:43:21 (Taipei Time)*
+*Last Audit Update: 2026-03-19 07:41:16 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Failed AFM measurements on plasma-etched graphene were deferred to Thursday, while longer CF₄ plasma etch times for Graphene/MoS₂ nanoribbons are still underway. |
-| **40341106s-dev** | [Summary] Progress made on CL measurements with identification of a peak at 292nm (bandgap ~4.25 eV), but WS2 transfer failed due to NaOH etching issues; paper outline modification to continue later. |
-| **PatrickSharks** | [Student attended class and plans to review fitting data from Shiphra.](https://github.com/MYlabTaiwan/Meeting/issues/39) |
-| **Yu-1227** | [Summary] Worked on the group meeting report and located necessary adapters to begin 4-probe measurement for contact status confirmation. |
-| **KarthikaVijayan17** | [Summary: KarthikaVijayan17 worked on debugging Python code for IV measurements and conducted spray pyrolysis experiments with varied concentrations and parameters.](https://github.com/MYlabTaiwan/Meeting/issues/40) |
+| **poman920819** | [Summary: No experiments were conducted due to a full day of classes.] |
+| **kiwi487** | [Summary] Progress has been made in optimizing laser processing parameters, powder layer application techniques, and workflow automation, although challenges like sample warping, inconsistent deposition, and equipment testing remain. |
+| **r13222062-hub** | [Summary] Conducted experiments to measure AFM and attempted IV measurements while heating samples with a laser, facing challenges with noise and electrode performance. |
+| **PatrickSharks** | Working on the presentation for Thursday regarding strained 3D filament characterization. |
+| **huiting19991025-cmyk** | [Measured all remaining particles in the morning session on 3/16 as per plan.] |
+| **r13222052-boop** | [Summary] Initiated growth of two W5N6 batches, conducted Raman mapping, and contacted the AFM engineer. |
+| **KarthikaVijayan17** | [Summary] Spray coating experiments with varied concentrations and parameters were performed, including a fullerene-coated sample prepared for SEM measurements. |
+| **harold0104** | Successfully summarized the work in one sentence, demonstrating alignment with the task |
 
 
 ### Meeting
