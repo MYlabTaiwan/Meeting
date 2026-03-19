@@ -3,18 +3,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-19 07:41:16 (Taipei Time)*
+*Last Audit Update: 2026-03-20 07:41:26 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary: No experiments were conducted due to a full day of classes.](https://github.com/MYlabTaiwan/Meeting/issues/18) |
-| **kiwi487** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Progress has been made in optimizing laser processing parameters, powder layer application techniques, and workflow automation, although challenges like sample warping, inconsistent deposition, and equipment testing remain. |
-| **r13222062-hub** | [Summary] Conducted experiments to measure AFM and attempted IV measurements while heating samples with a laser, facing challenges with noise and electrode performance. |
-| **PatrickSharks** | Working on the presentation for Thursday regarding strained 3D filament characterization. |
-| **huiting19991025-cmyk** | [Measured all remaining particles in the morning session on 3/16 as per plan.](https://github.com/MYlabTaiwan/Meeting/issues/41) |
-| **r13222052-boop** | [Summary] Initiated growth of two W5N6 batches, conducted Raman mapping, and contacted the AFM engineer. |
-| **KarthikaVijayan17** | [Summary] Spray coating experiments with varied concentrations and parameters were performed, including a fullerene-coated sample prepared for SEM measurements. |
-| **harold0104** | Successfully summarized the work in one sentence, demonstrating alignment with the task |
+| **poman920819** | [Summary] Analyzing the I–V measurement data of graphene with increasing CF₄ plasma etching time is still a work in progress. |
+| **Yu-1227** | [Summary] Measurements of Pt-WS<sub>2</sub> were conducted across a wider voltage range, revealing leakage at ±1.6V, with oxidation ruled out as a factor, and data analysis is pending. |
 
 
 ### Meeting
