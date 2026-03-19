@@ -23,7 +23,7 @@ Please log in on time!
 
 | Monday |  | Tuesday (Fabrication) |  | Wednesday (Properties) |  | Thursday |  | Friday (Materials) |  |
 |---|---|---|---|---|---|---|---|---|---|
-|  |  | 09:00–09:10 | Guan-Ting | 09:00–09:10 | Thomas |09:30–11:00   |**[Group meeting (R716)](https://meet.google.com/uyr-bgdx-suo)**  | 09:00–09:10 | Karthika, Chun-Yang, Yi-Chin |
+|  |  | 09:00–09:10 | Guan-Ting | 09:00–09:10 | Thomas |09:30–11:00   |**[Group meeting (R716)](https://meet.google.com/dfk-wowo-bnv)**  | 09:00–09:10 | Karthika, Chun-Yang, Yi-Chin |
 |  |  | 09:10–09:20 | Rui-Hong | 09:10–09:20 | Benjamin |  |  | 09:10–09:20 |  |
 |  |  | 09:20–09:30 | Peter | 09:20–09:30 | Su Kuang-Yu |  |  | 09:20–09:30 |  |
 |  |  | 09:30–09:40 | | 09:30–09:40 |  |  |  | 09:30–09:40 |  |
