@@ -3,12 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-20 07:41:26 (Taipei Time)*
+*Last Audit Update: 2026-03-23 07:41:31 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Analyzing the I–V measurement data of graphene with increasing CF₄ plasma etching time is still a work in progress. |
-| **Yu-1227** | [Summary] Measurements of Pt-WS<sub>2</sub> were conducted across a wider voltage range, revealing leakage at ±1.6V, with oxidation ruled out as a factor, and data analysis is pending. |
+| **poman920819** | [Summary] Failed to measure Graphene's surface topography due to a broken computer in R402. |
 
 
 ### Meeting
