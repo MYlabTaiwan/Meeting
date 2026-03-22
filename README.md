@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Analyzing the I–V measurement data of graphene with increasing CF₄ plasma etching time is still a work in progress. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Analyzing the I–V measurement data of graphene with increasing CF₄ plasma etching time is still a work in progress. |
 | **Yu-1227** | [Summary] Measurements of Pt-WS<sub>2</sub> were conducted across a wider voltage range, revealing leakage at ±1.6V, with oxidation ruled out as a factor, and data analysis is pending. |
 
 
