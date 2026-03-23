@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Failed to measure Graphene's surface topography due to a broken computer in R402. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Failed to measure Graphene's surface topography due to a broken computer in R402. |
 
 
 ### Meeting
