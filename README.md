@@ -3,11 +3,13 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-23 07:41:31 (Taipei Time)*
+*Last Audit Update: 2026-03-24 07:43:51 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Failed to measure Graphene's surface topography due to a broken computer in R402. |
+| **poman920819** | [Summary] Transferred graphene onto a new MoS₂ sample, but no graphene was observed; will confirm using Raman spectroscopy tomorrow. |
+| **Xylon-code** | [Summary: Successfully reproduced the negative PR experiment, confirmed selective Ag deposition on amorphous graphene regions using Raman mapping and AFM, verified no significant boundary edge, and initiated investigations on exposing time vs Raman I(D)/I(2D) ratio with progress made for 0s, 1s, and 13s.] |
+| **huiting19991025-cmyk** | [Summary: Tested a new jamming pattern with baby powder for smoother edges, conducted measurements (to be uploaded), and observed potential formation of an alternate jamming pattern affecting actuation distance.] |
 
 
 ### Meeting
