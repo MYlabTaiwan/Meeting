@@ -14,7 +14,7 @@
 
 ### Meeting
 We will have online meetings under [https://meet.google.com/mcv-eqeu-dob](https://meet.google.com/mcv-eqeu-dob)
-Please log in on time!
+Please log in on time and I will let you in when the previous speaker is done!
 
 | Monday |  | Tuesday (Fabrication) |  | Wednesday (Properties) |  | Thursday |  | Friday (Materials) |  |
 |---|---|---|---|---|---|---|---|---|---|
