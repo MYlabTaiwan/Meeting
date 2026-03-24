@@ -3,13 +3,14 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-24 07:43:51 (Taipei Time)*
+*Last Audit Update: 2026-03-25 07:42:51 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Transferred graphene onto a new MoS₂ sample, but no graphene was observed; will confirm using Raman spectroscopy tomorrow. |
-| **Xylon-code** | [Summary: Successfully reproduced the negative PR experiment, confirmed selective Ag deposition on amorphous graphene regions using Raman mapping and AFM, verified no significant boundary edge, and initiated investigations on exposing time vs Raman I(D)/I(2D) ratio with progress made for 0s, 1s, and 13s.](https://github.com/MYlabTaiwan/Meeting/issues/42) |
-| **huiting19991025-cmyk** | [Summary: Tested a new jamming pattern with baby powder for smoother edges, conducted measurements (to be uploaded), and observed potential formation of an alternate jamming pattern affecting actuation distance.](https://github.com/MYlabTaiwan/Meeting/issues/43) |
+| **poman920819** | [Summary] Successfully fabricated MoS₂ Nanoribbon with the new Graphene/MoS₂ sample, while data compilation and analysis remain in progress. |
+| **PatrickSharks** | [Summary: Currently attending class, plans to continue analyzing data and addressing questions, likely completing the task tomorrow.] |
+| **Yu-1227** | [Summary] Investigated leakage issues at ±1.7V due to substrate quality, plans to test alternative substrates (e.g., SiN, sapphire, SiO<sub>2</sub>) and improve hall bar structure. |
+| **KarthikaVijayan17** | [Summary] Conducted SEM sample preparation, studied tungsten foil CVD for nitride conversion, resolved spray coating head leakage issues, and prepared a group meeting presentation. |
 
 
 ### Meeting
