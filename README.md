@@ -3,14 +3,15 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-25 07:42:51 (Taipei Time)*
+*Last Audit Update: 2026-03-26 07:44:54 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Successfully fabricated MoS₂ Nanoribbon with the new Graphene/MoS₂ sample, while data compilation and analysis remain in progress. |
-| **PatrickSharks** | [Summary: Currently attending class, plans to continue analyzing data and addressing questions, likely completing the task tomorrow.](https://github.com/MYlabTaiwan/Meeting/issues/44) |
-| **Yu-1227** | [Summary] Investigated leakage issues at ±1.7V due to substrate quality, plans to test alternative substrates (e.g., SiN, sapphire, SiO<sub>2</sub>) and improve hall bar structure. |
-| **KarthikaVijayan17** | [Summary] Conducted SEM sample preparation, studied tungsten foil CVD for nitride conversion, resolved spray coating head leakage issues, and prepared a group meeting presentation. |
+| **poman920819** | [Summary] Attempted to measure graphene's surface topography using R402 AFM but could not proceed due to an inoperative computer. |
+| **kiwi487** | [Summary] Optimized tape layer thickness (4–6 layers) for powder retention and laser processing parameters to identify adhesion and surface morphology changes, suggesting refined testing with a dot pattern and varied irradiation times for clearer phase identification. |
+| **r13222062-hub** | [Summary: Progress includes data processing, SEM analysis, thermal evaporation of gold on the substrate, IV measurements, and parameter testing on FTO, though student noted taking leave due to Influenza A.] |
+| **PatrickSharks** | Prepared data and collaborated with Shiphra on filament characterization. |
+| **KarthikaVijayan17** | [Summary] Conducted SEM analysis, trialed fullerene deposition using spray coating, and explored methods to reduce powder layer thickness. |
 
 
 ### Meeting
