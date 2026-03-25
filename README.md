@@ -7,8 +7,8 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Successfully fabricated MoS₂ Nanoribbon with the new Graphene/MoS₂ sample, while data compilation and analysis remain in progress. |
-| **PatrickSharks** | [Summary: Currently attending class, plans to continue analyzing data and addressing questions, likely completing the task tomorrow.] |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Successfully fabricated MoS₂ Nanoribbon with the new Graphene/MoS₂ sample, while data compilation and analysis remain in progress. |
+| **PatrickSharks** | [Summary: Currently attending class, plans to continue analyzing data and addressing questions, likely completing the task tomorrow.](https://github.com/MYlabTaiwan/Meeting/issues/44) |
 | **Yu-1227** | [Summary] Investigated leakage issues at ±1.7V due to substrate quality, plans to test alternative substrates (e.g., SiN, sapphire, SiO<sub>2</sub>) and improve hall bar structure. |
 | **KarthikaVijayan17** | [Summary] Conducted SEM sample preparation, studied tungsten foil CVD for nitride conversion, resolved spray coating head leakage issues, and prepared a group meeting presentation. |
 
