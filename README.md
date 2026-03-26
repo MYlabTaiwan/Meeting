@@ -37,8 +37,8 @@ Please log in on time and I will let you in when the previous speaker is done!
 | 2026-03-12 | 儒哲 (Ju-Che) | 藍哲民 (LAN-ZHE-MING)，邱祥耀 (Siang-Yao) |
 | 2026-03-19 | 裴翟 (Patrick Tjarks)、Kartika | 伍宥澄 (You-Cheng Wu)，陳冠羽 (Guang-Yu) |
 | 2026-03-26 | 林宥成 (You-Chen Lin) | 黃郁惠 (Huang Yu Hui)，郭孟宸 (Kuo Meng-Chen) |
-| 2026-04-02 | 翁胤智 (Yin-Zhi Weng) | 蘇冠宇 (SU, Guan-Yu)，，高新恩 (Hsin-En) |
-| 2026-04-09 | 郁翔 (Yu-Xiang Chen) | ，胡勝鈞 (Hu Sheng-Chun；大四)，承宏 (Cheng-Hung) |
+| 2026-04-02 | 翁胤智 (Yin-Zhi Weng) | 蘇冠宇 (SU, Guan-Yu)，高新恩 (Hsin-En) |
+| 2026-04-09 | 郁翔 (Yu-Xiang Chen) | 胡勝鈞 (Hu Sheng-Chun；大四)，承宏 (Cheng-Hung) |
 | 2026-04-16 | 律志 (Lu-Chih) | 尤瑞鴻 (Rui-Hong), 柯又中 (Yo-Chung Ko)，陳瑩 (Ying Chen), 伍宥澄 (You-Cheng Wu) |
 | 2026-04-23 |  | 黃易芹 (Yi-Chin)，黃柏睿 (Bo-Rui)，高暉庭 (Hui-Ting)、潘冠廷 (Guan-Ting) |
 | 2026-04-30 | | Vincent 高菖岐 (Vincent Kao)，黃君颺 (Huang Chun-Yang)、陳威縉 (benjamin) |  
