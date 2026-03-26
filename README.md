@@ -28,3 +28,23 @@ Please log in on time and I will let you in when the previous speaker is done!
 |  |  | 09:50–10:00 | Vincent | 09:50–10:00 | Suraj |  |  | 09:50–10:00 | Yu-Hui |
 |  |  | 10:00–10:10 | Chen Kuan-Yu | 10:00–10:10 | Ying-Chih |  |  | 10:00 -10:10 | Hui-Ting |
 |  |  |  |  | 10:10–10:20 |  |  |  |  |  |
+
+### Group meeting schedule
+
+| Date (Thu) | PH.D（含博後） | MASTER（碩/學士） |
+| --- | --- | --- |
+| 2026-03-05 | Suraj Singh | 潘冠廷 (Pan, Chun-Yu)，陳威縉 (benjamin) |
+| 2026-03-12 | 儒哲 (Ju-Che) | 藍哲民 (LAN-ZHE-MING)，邱祥耀 (Hsien-Yao) |
+| 2026-03-19 | 裴翟 (Patrick Tjarks)、Kartika | 伍宥澄 (You-Cheng Wu)，陳冠羽 (Guang-Yu) |
+| 2026-03-26 | 林宥成 (You-Chen Lin) | 黃郁惠 (Huang Yu Hui)，郭孟宸 (Kuo Meng-Chen) |
+| 2026-04-02 | 翁胤智 (Yin-Chih Weng) | 蘇冠宇 (SU, Guan-Yu)，，高新恩 (Hsin-An) |
+| 2026-04-09 | 郁翔 (Yu-Xiang Chen) | ，胡勝鈞 (Hu Sheng-Chun；大四)，承宏 (Cheng-Hung) |
+| 2026-04-16 | 律志 (Lu-Zhi) | 尤瑞鴻 (Rui-Hung), 柯又中 (Yo-Chung Ko)，陳盈 (Chen Yin), 伍宥澄 (You-Cheng Wu) |
+| 2026-04-23 |  | 黃易芹 (Yi-Chin)，黃柏睿 (Bo-Rui)，高暉庭 (Hui-Ting)、潘冠廷 (Guan-Ting) |
+| 2026-04-30 | | Vincent 高菖歧 (Vincent Kao)，黃君颺 (Huang Chun-Yang)、陳威縉 (benjamin) |  
+| 2026/5/7 | Suraj Singh、志龍 (Zhilong Yen)，王耀維 (Peter Wang), 恩琪 (An-Chi) |  |
+| 2026/5/14 | 儒哲 (Ju-Che) | 藍哲民 (LAN-ZHE-MING)，邱祥耀 (Hsien-Yao) |
+| 2026/5/21 | 裴翟 (Patrick Tjarks)、Kartika | 伍宥澄 (You-Cheng Wu)，陳冠羽 (Guang-Yu) |
+| 2026/5/28 | 林宥成 (You-Chen Lin) | 黃郁惠 (Huang Yu Hui)，郭孟宸 (Kuo Meng-Chen) |
+| 2026/6/4 | 翁胤智 (Yin-Chih Weng) | 陳盈 (Chin yin)，高新恩 (Hsin-An) |
+| 2026/6/11 | 郁翔 (Yu-Xiang Chen) | 尤瑞鴻 (Rui-Hung)，胡勝鈞 (Hu Sheng-Chun；大四)，承宏 (Cheng-Hung) |
