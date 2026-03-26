@@ -7,9 +7,9 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Attempted to measure graphene's surface topography using R402 AFM but could not proceed due to an inoperative computer. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Attempted to measure graphene's surface topography using R402 AFM but could not proceed due to an inoperative computer. |
 | **kiwi487** | [Summary] Optimized tape layer thickness (4–6 layers) for powder retention and laser processing parameters to identify adhesion and surface morphology changes, suggesting refined testing with a dot pattern and varied irradiation times for clearer phase identification. |
-| **r13222062-hub** | [Summary: Progress includes data processing, SEM analysis, thermal evaporation of gold on the substrate, IV measurements, and parameter testing on FTO, though student noted taking leave due to Influenza A.] |
+| **r13222062-hub** | [Summary: Progress includes data processing, SEM analysis, thermal evaporation of gold on the substrate, IV measurements, and parameter testing on FTO, though student noted taking leave due to Influenza A.](https://github.com/MYlabTaiwan/Meeting/issues/45) |
 | **PatrickSharks** | Prepared data and collaborated with Shiphra on filament characterization. |
 | **KarthikaVijayan17** | [Summary] Conducted SEM analysis, trialed fullerene deposition using spray coating, and explored methods to reduce powder layer thickness. |
 
