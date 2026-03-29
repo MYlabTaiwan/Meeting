@@ -3,14 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-27 07:43:11 (Taipei Time)*
+*Last Audit Update: 2026-03-30 07:43:43 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **r13222062-hub** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Research paused due to holiday leave; plans to compensate for progress upon return. |
-| **PatrickSharks** | Analyzing updated and corrected data to identify trends in strained 3D filament characterization. |
-| **Yu-1227** | [Summary] Conducted 2-probe IV measurements to confirm leakage into the Si layer, but could not perform 4-probe IV due to equipment limitations and probe adjustments; plans to address equipment issues tomorrow. |
-| **KarthikaVijayan17** | Investigated Raman analysis and optimized spray coating parameters for molten salt functionalization. |
+| **r13222052-boop** | [Summary] Successfully tested acetone for photoresist removal and completed Raman mapping prior to annealing. |
 
 
 ### Meeting
