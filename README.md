@@ -3,11 +3,13 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-30 07:43:43 (Taipei Time)*
+*Last Audit Update: 2026-03-31 07:45:01 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **r13222052-boop** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Successfully tested acetone for photoresist removal and completed Raman mapping prior to annealing. |
+| **PatrickSharks** | [Summary: PatrickSharks is continuing to analyze data and formulating a plan to address three upcoming deadlines.] |
+| **Yu-1227** | [Prepared and spin-coated PMMA and PS for transferring Pt-WS<sub>2</sub> to a high-quality substrate the next morning.] |
+| **KarthikaVijayan17** | [Summary] Attempted boron coating via spray coater and assessed uniformity of the application. |
 
 
 ### Meeting
