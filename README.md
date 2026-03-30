@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **r13222052-boop** | [Summary] Successfully tested acetone for photoresist removal and completed Raman mapping prior to annealing. |
+| **r13222052-boop** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Successfully tested acetone for photoresist removal and completed Raman mapping prior to annealing. |
 
 
 ### Meeting
