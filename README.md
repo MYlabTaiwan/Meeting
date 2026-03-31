@@ -7,9 +7,9 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: PatrickSharks is continuing to analyze data and formulating a plan to address three upcoming deadlines.] |
-| **Yu-1227** | [Prepared and spin-coated PMMA and PS for transferring Pt-WS<sub>2</sub> to a high-quality substrate the next morning.] |
-| **KarthikaVijayan17** | [Summary] Attempted boron coating via spray coater and assessed uniformity of the application. |
+| **PatrickSharks** | [Summary: PatrickSharks is continuing to analyze data and formulating a plan to address three upcoming deadlines.](https://github.com/MYlabTaiwan/Meeting/issues/46) |
+| **Yu-1227** | [Prepared and spin-coated PMMA and PS for transferring Pt-WS<sub>2</sub> to a high-quality substrate the next morning.](https://github.com/MYlabTaiwan/Meeting/issues/47) |
+| **KarthikaVijayan17** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Attempted boron coating via spray coater and assessed uniformity of the application. |
 
 
 ### Meeting
