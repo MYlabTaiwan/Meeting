@@ -3,13 +3,15 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-03-31 07:45:01 (Taipei Time)*
+*Last Audit Update: 2026-04-01 07:44:26 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: PatrickSharks is continuing to analyze data and formulating a plan to address three upcoming deadlines.](https://github.com/MYlabTaiwan/Meeting/issues/46) |
-| **Yu-1227** | [Prepared and spin-coated PMMA and PS for transferring Pt-WS<sub>2</sub> to a high-quality substrate the next morning.](https://github.com/MYlabTaiwan/Meeting/issues/47) |
-| **KarthikaVijayan17** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Attempted boron coating via spray coater and assessed uniformity of the application. |
+| **poman920819** | [Summary] Completed AFM on MoS₂ nanoribbon sample but observed no ribbon structures, likely due to excessive O₂ plasma etching; future adjustments will include reduced etching time. |
+| **r13222062-hub** | [Summary] Synthesized MoS2 on FTO with improved stability and reduced transfer steps, explored laser parameters and Raman measurements, tested coating methods, and integrated learning from relevant literature and BLS1 class for enhanced applications. |
+| **PatrickSharks** | Measured Raman spectra and worked on analyzing the data after attending class. |
+| **Xylon-code** | [Summary] Investigated the selective deposition behavior of graphene at varying time intervals (0s to 17s), identifying discrepancies such as irregular results at 15s that require reevaluation. |
+| **Yu-1227** | Transferred Pt-WS<sub>2</sub> to a new substrate, annealed it, and plans to begin lithography next week followed by measurements after the midterm. |
 
 
 ### Meeting
