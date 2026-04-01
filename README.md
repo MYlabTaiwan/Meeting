@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Completed AFM on MoS₂ nanoribbon sample but observed no ribbon structures, likely due to excessive O₂ plasma etching; future adjustments will include reduced etching time. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Completed AFM on MoS₂ nanoribbon sample but observed no ribbon structures, likely due to excessive O₂ plasma etching; future adjustments will include reduced etching time. |
 | **r13222062-hub** | [Summary] Synthesized MoS2 on FTO with improved stability and reduced transfer steps, explored laser parameters and Raman measurements, tested coating methods, and integrated learning from relevant literature and BLS1 class for enhanced applications. |
 | **PatrickSharks** | Measured Raman spectra and worked on analyzing the data after attending class. |
 | **Xylon-code** | [Summary] Investigated the selective deposition behavior of graphene at varying time intervals (0s to 17s), identifying discrepancies such as irregular results at 15s that require reevaluation. |
