@@ -33,18 +33,18 @@ Please log in on time and I will let you in when the previous speaker is done!
 
 | Date (Thu) | PH.D（含博後） | MASTER（碩/學士） |
 | --- | --- | --- |
-| 2026-03-05 | Suraj Singh | 潘冠廷 (Guan Ting, Pan)，陳威縉 (benjamin) |
-| 2026-03-12 | 儒哲 (Ju-Che) | 藍哲民 (LAN-ZHE-MING)，邱祥耀 (Siang-Yao) |
-| 2026-03-19 | 裴翟 (Patrick Tjarks)、Kartika | 伍宥澄 (You-Cheng Wu)，陳冠羽 (Guang-Yu) |
-| 2026-03-26 | 林宥成 (You-Chen Lin) | 黃郁惠 (Huang Yu Hui)，郭孟宸 (Kuo Meng-Chen) |
-| 2026-04-02 | 翁胤智 (Yin-Zhi Weng) | 蘇冠宇 (SU, Guan-Yu)，高新恩 (Hsin-En) |
-| 2026-04-09 | 郁翔 (Yu-Xiang Chen) | 胡勝鈞 (Hu Sheng-Chun；大四)，承宏 (Cheng-Hung) |
-| 2026-04-16 | 律志 (Lu-Chih) | 尤瑞鴻 (Rui-Hong), 柯又中 (Yo-Chung Ko)，高暉庭(Hui-Ting), 伍宥澄 (You-Cheng Wu) |
-| 2026-04-23 |  | 黃易芹 (Yi-Chin)，黃柏睿 (Bo-Rui)，陳瑩(Ying Chen)、潘冠廷 (Guan-Ting) |
-| 2026-04-30 | | Vincent 高菖岐 (Vincent Kao)，黃君颺 (Huang Chun-Yang)、陳威縉 (benjamin) |  
-| 2026/5/7 | Suraj Singh、志龍 (Zhilong Yen)，王耀維 (Peter Wang) |  恩齊 (En-Chi) |
-| 2026/5/14 | 儒哲 (Ju-Che) | 藍哲民 (LAN-ZHE-MING)，邱祥耀 (Hsien-Yao) |
-| 2026/5/21 | 裴翟 (Patrick Tjarks)、Kartika | 伍宥澄 (You-Cheng Wu)，陳冠羽 (Guang-Yu) |
-| 2026/5/28 | 林宥成 (You-Chen Lin) | 黃郁惠 (Huang Yu Hui)，郭孟宸 (Kuo Meng-Chen) |
-| 2026/6/4 | 翁胤智 (Yin-Zhi Weng) | 陳瑩 (Ying Chen)，高新恩 (Hsin-En) |
-| 2026/6/11 | 郁翔 (Yu-Xiang Chen) | 尤瑞鴻 (Rui-Hung)，胡勝鈞 (Hu Sheng-Chun；大四)，承宏 (Cheng-Hung) |
+| 2026/03/05 | Suraj Singh | 潘冠廷 (Guan Ting Pan)，陳威縉 (Benjamin) |
+| 2026/03/12 | 莊儒哲 (Ju-Che Chuang) | 藍哲名 (Zhe-Ming Lan)，邱祥耀 (Siang-Yao Chiu) |
+| 2026/03/19 | 裴翟 (Patrick Tjarks)，Kartika | 伍宥澄 (You-Cheng Wu)，陳冠羽 (Guang-Yu Chen) |
+| 2026/03/26 | 林宥成 (You-Chen Lin) | 黃郁惠 (Yu-Hui Huang)，郭孟宸 (Meng-Chen Kuo) |
+| 2026/04/02 | 翁胤智 (Yin-Zhi Weng) | 蘇冠宇 (Guan-Yu Su)，高新恩 (Hsin-En Kao) |
+| 2026/04/09 | 陳郁翔 (Yu-Xiang Chen) | 胡勝鈞 (Sheng-Chun Hu；大四)，蔡承宏 (Cheng-Hung Tsai) |
+| 2026/04/16 | 陳律志 (Lu-Chih Chen) | 尤瑞鴻 (Rui-Hong You)，柯又中 (Yo-Chung Ko)，高暉庭 (Hui-Ting Kao)，伍宥澄 (You-Cheng Wu) |
+| 2026/04/23 | | 黃易芹 (Yi-Chin Huang)，黃柏睿 (Bo-Rui Huang)，陳瑩 (Ying Chen)，潘冠廷 (Guan-Ting Pan) |
+| 2026/04/30 | | Vincent 高菖岐 (Vincent Kao)，黃君颺 (Chun-Yang Huang)，陳威縉 (Benjamin) |  
+| 2026/05/07 | Suraj Singh，顏志龍 (Zhi-Long Yen)，王耀維 (Peter Wang) | 張恩齊 (En-Chi Chang) |
+| 2026/05/14 | 莊儒哲 (Ju-Che Chuang) | 藍哲名 (Zhe-Ming Lan)，邱祥耀 (Siang-Yao Chiu) |
+| 2026/05/21 | 裴翟 (Patrick Tjarks)，Kartika | 伍宥澄 (You-Cheng Wu)，陳冠羽 (Guang-Yu Chen) |
+| 2026/05/28 | 林宥成 (You-Chen Lin) | 黃郁惠 (Yu-Hui Huang)，郭孟宸 (Meng-Chen Kuo) |
+| 2026/06/04 | 翁胤智 (Yin-Zhi Weng) | 陳瑩 (Ying Chen)，高新恩 (Hsin-En Kao) |
+| 2026/06/11 | 陳郁翔 (Yu-Xiang Chen) | 尤瑞鴻 (Rui-Hung You)，胡勝鈞 (Sheng-Chun Hu；大四)，蔡承宏 (Cheng-Hung Tsai) |
