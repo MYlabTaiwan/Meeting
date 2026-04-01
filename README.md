@@ -3,15 +3,13 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-01 07:44:26 (Taipei Time)*
+*Last Audit Update: 2026-04-02 07:44:54 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16)(https://github.com/MYlabTaiwan/Meeting/issues/16) Completed AFM on MoS₂ nanoribbon sample but observed no ribbon structures, likely due to excessive O₂ plasma etching; future adjustments will include reduced etching time. |
-| **r13222062-hub** | [Summary] Synthesized MoS2 on FTO with improved stability and reduced transfer steps, explored laser parameters and Raman measurements, tested coating methods, and integrated learning from relevant literature and BLS1 class for enhanced applications. |
-| **PatrickSharks** | Measured Raman spectra and worked on analyzing the data after attending class. |
-| **Xylon-code** | [Summary] Investigated the selective deposition behavior of graphene at varying time intervals (0s to 17s), identifying discrepancies such as irregular results at 15s that require reevaluation. |
-| **Yu-1227** | Transferred Pt-WS<sub>2</sub> to a new substrate, annealed it, and plans to begin lithography next week followed by measurements after the midterm. |
+| **poman920819** | [Summary] Successfully used SEM to observe the ribbon morphology of the graphene sample etched with CF₄ plasma for 10 minutes. |
+| **PatrickSharks** | Limited progress made due to inefficiency in time management and lack of significant advancements. |
+| **KarthikaVijayan17** | Conducted Raman analysis, laser treatment with/without potential, and spray coating trials with new graphene parameters. |
 
 
 ### Meeting
