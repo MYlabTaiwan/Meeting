@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Successfully used SEM to observe the ribbon morphology of the graphene sample etched with CF₄ plasma for 10 minutes. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Successfully used SEM to observe the ribbon morphology of the graphene sample etched with CF₄ plasma for 10 minutes. |
 | **PatrickSharks** | Limited progress made due to inefficiency in time management and lack of significant advancements. |
 | **KarthikaVijayan17** | Conducted Raman analysis, laser treatment with/without potential, and spray coating trials with new graphene parameters. |
 
