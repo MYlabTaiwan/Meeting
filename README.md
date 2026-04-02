@@ -3,13 +3,14 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-02 07:44:54 (Taipei Time)*
+*Last Audit Update: 2026-04-03 07:44:28 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/16) Successfully used SEM to observe the ribbon morphology of the graphene sample etched with CF₄ plasma for 10 minutes. |
-| **PatrickSharks** | Limited progress made due to inefficiency in time management and lack of significant advancements. |
-| **KarthikaVijayan17** | Conducted Raman analysis, laser treatment with/without potential, and spray coating trials with new graphene parameters. |
+| **r13222062-hub** | [Summary] Successfully synthesized MoS2 on FTO substrate with a large area and rapid synthesis time, though issues with AFM measurement due to substrate thickness will be addressed by attempting synthesis on sapphire. |
+| **kiwi487** | [Summary] Investigated the morphology variations of laser-exposed samples via Raman spectroscopy and OM, identifying potential particle agglomeration issues and outlined future steps for sample preparation and gold electrode deposition. |
+| **Yu-1227** | [Summary] The student measured the I-V characteristics of Meng-Chen's sample, noted its atmospheric conductivity was higher than in a vacuum, and speculated an electrode issue might explain the discrepancy. |
+| **Xylon-code** | The attempt to obtain AFM images of random and selective deposition regions faced challenges due to surface roughness, with a recommendation to use TEM for better measurements. |
 
 
 ### Meeting
