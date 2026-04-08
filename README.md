@@ -3,11 +3,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-08 07:45:03 (Taipei Time)*
+*Last Audit Update: 2026-04-09 07:45:13 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: Work delayed due to national holiday; no technical progress to report.](https://github.com/MYlabTaiwan/Meeting/issues/48) |
+| **poman920819** | [Summary] Successfully scanned the bilayer graphene region for ribbon structures using AFM, but the graphene transfer onto MoS2 was delayed due to a shortage of acetone. |
+| **PatrickSharks** | Working on midterm presentation related to 3D filament strain characterization. |
 
 
 ### Meeting
