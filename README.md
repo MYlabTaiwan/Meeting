@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: Work delayed due to national holiday; no technical progress to report.] |
+| **PatrickSharks** | [Summary: Work delayed due to national holiday; no technical progress to report.](https://github.com/MYlabTaiwan/Meeting/issues/48) |
 
 
 ### Meeting
