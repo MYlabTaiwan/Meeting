@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Successfully scanned the bilayer graphene region for ribbon structures using AFM, but the graphene transfer onto MoS2 was delayed due to a shortage of acetone. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Successfully scanned the bilayer graphene region for ribbon structures using AFM, but the graphene transfer onto MoS2 was delayed due to a shortage of acetone. |
 | **PatrickSharks** | Working on midterm presentation related to 3D filament strain characterization. |
 
 
