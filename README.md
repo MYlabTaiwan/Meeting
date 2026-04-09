@@ -3,12 +3,13 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-09 07:45:13 (Taipei Time)*
+*Last Audit Update: 2026-04-10 07:45:07 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Successfully scanned the bilayer graphene region for ribbon structures using AFM, but the graphene transfer onto MoS2 was delayed due to a shortage of acetone. |
-| **PatrickSharks** | Working on midterm presentation related to 3D filament strain characterization. |
+| **poman920819** | [Summary] Completed Raman mapping on CF4 plasma etched monolayer graphene; will refine approach for clearer analysis of ribbon structure. |
+| **Yu-1227** | [Summary: Yu-1227 is persistently working to fabricate a hall bar using lithography, plans to switch labs if unsuccessful, is seeking clarification on FET functionality and nonlinear Hall effect experiments, and anticipates limited progress due to an upcoming midterm.] |
+| **r13222052-boop** | [Summary] Successfully carried out photolithography on the sample to define relevant regions and analyzed AFM and Raman mapping data in alignment with the plan. |
 
 
 ### Meeting
