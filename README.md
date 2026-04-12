@@ -3,13 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-10 07:45:07 (Taipei Time)*
+*Last Audit Update: 2026-04-13 07:44:55 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48) Completed Raman mapping on CF4 plasma etched monolayer graphene; will refine approach for clearer analysis of ribbon structure. |
-| **Yu-1227** | [Summary: Yu-1227 is persistently working to fabricate a hall bar using lithography, plans to switch labs if unsuccessful, is seeking clarification on FET functionality and nonlinear Hall effect experiments, and anticipates limited progress due to an upcoming midterm.](https://github.com/MYlabTaiwan/Meeting/issues/49) |
-| **r13222052-boop** | [Summary] Successfully carried out photolithography on the sample to define relevant regions and analyzed AFM and Raman mapping data in alignment with the plan. |
+| - | No student activity recorded in the last 24 hours. |
 
 
 ### Meeting
