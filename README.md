@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **r13222062-hub** | [Summary] The student performed data processing, sample coating, attempted sample transfer, conducted AFM and IV measurements, measured the Raman spectrum, exposed the sample to a laser, and repeated sample coating, indicating technical progress and adherence to the plan. |
+| **r13222062-hub** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) The student performed data processing, sample coating, attempted sample transfer, conducted AFM and IV measurements, measured the Raman spectrum, exposed the sample to a laser, and repeated sample coating, indicating technical progress and adherence to the plan. |
 
 
 ### Meeting
