@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Completed analysis of Raman mapping data for Cf4 plasma 10 min etched Graphene, with progress made in learning Potential State. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48) Completed analysis of Raman mapping data for Cf4 plasma 10 min etched Graphene, with progress made in learning Potential State. |
 | **Yu-1227** | [Summary] Yu-1227 attempted to complete the entire electrode structure using a single photolithography process to avoid resistance issues at contact points, faced challenges with precision and material damage, and planned to use NTNU lithography facilities while preparing backup samples for redundancy. |
 
 
