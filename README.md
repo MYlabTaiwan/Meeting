@@ -3,12 +3,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-16 07:45:49 (Taipei Time)*
+*Last Audit Update: 2026-04-17 07:45:32 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | Worked on a midterm essay and attended a class with a midterm presentation. |
-| **Yu-1227** | Transferred and annealed a new sample, and prepared the device structure in AutoCAD for lithography. |
+| **huiting19991025-cmyk** | The student is refining particle design and 3D printing methods to ensure usability, confirming their printer suitability for particles while only needing outsourcing for a low-precision chamber, with a quoted cost of 4300 NTD. |
+| **Yu-1227** | Successfully created the electrode pattern and prepared an etching area, with thermal evaporation planned soon. |
 
 
 ### Meeting
