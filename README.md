@@ -3,12 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-17 07:45:32 (Taipei Time)*
+*Last Audit Update: 2026-04-20 07:45:01 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | The student is refining particle design and 3D printing methods to ensure usability, confirming their printer suitability for particles while only needing outsourcing for a low-precision chamber, with a quoted cost of 4300 NTD. |
-| **Yu-1227** | Successfully created the electrode pattern and prepared an etching area, with thermal evaporation planned soon. |
+| **PatrickSharks** | Worked consistently on the essay midterm. |
 
 
 ### Meeting
