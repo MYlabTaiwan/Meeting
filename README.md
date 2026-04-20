@@ -3,11 +3,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-20 07:45:01 (Taipei Time)*
+*Last Audit Update: 2026-04-21 07:46:06 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | Worked consistently on the essay midterm. |
+| **huiting19991025-cmyk** | Successfully created a LEGO-based design concept, with chamber dimensions aligned to the calculated 3D printing design, ensuring technical progress and plan adherence. |
+| **Guan-YuSu** | [Summary] Successfully attempted transferring the carbon soot film from a large slide to a smaller slide as part of today's goal. |
 
 
 ### Meeting
