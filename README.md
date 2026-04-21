@@ -8,7 +8,7 @@
 | Student | Summary |
 | :--- | :--- |
 | **huiting19991025-cmyk** | Successfully created a LEGO-based design concept, with chamber dimensions aligned to the calculated 3D printing design, ensuring technical progress and plan adherence. |
-| **Guan-YuSu** | [Summary] Successfully attempted transferring the carbon soot film from a large slide to a smaller slide as part of today's goal. |
+| **Guan-YuSu** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Successfully attempted transferring the carbon soot film from a large slide to a smaller slide as part of today's goal. |
 
 
 ### Meeting
