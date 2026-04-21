@@ -3,12 +3,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-21 07:46:06 (Taipei Time)*
+*Last Audit Update: 2026-04-22 07:44:55 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | Successfully created a LEGO-based design concept, with chamber dimensions aligned to the calculated 3D printing design, ensuring technical progress and plan adherence. |
-| **Guan-YuSu** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Successfully attempted transferring the carbon soot film from a large slide to a smaller slide as part of today's goal. |
+| **huiting19991025-cmyk** | [Summary: Coordinated with a vendor for LEGO piece acquisition, worked on completing the presentation, planned demonstration strategies, and polished printed particles while addressing defects in smaller-sized particles.] |
+| **PatrickSharks** | Completed the second and final midterm for the class, aligning with the academic schedule. |
 
 
 ### Meeting
