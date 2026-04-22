@@ -3,12 +3,14 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-22 07:44:55 (Taipei Time)*
+*Last Audit Update: 2026-04-23 07:46:24 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | [Summary: Coordinated with a vendor for LEGO piece acquisition, worked on completing the presentation, planned demonstration strategies, and polished printed particles while addressing defects in smaller-sized particles.](https://github.com/MYlabTaiwan/Meeting/issues/50) |
-| **PatrickSharks** | Completed the second and final midterm for the class, aligning with the academic schedule. |
+| **poman920819** | [Summary: No technical progress made due to illness; identified potential causes for wide graphene nanoribbons and planned to adjust foil layers and cooling method.] |
+| **huiting19991025-cmyk** | Coordinated with vendors for LEGO piece procurement, identified a vendor with sufficient 1x8 tiles as a replacement for 6x6 tiles, and addressed the force chain explanation challenge. |
+| **PatrickSharks** | [PatrickSharks is struggling with characterizing strained 3D filament properties, indicating technical challenges impacting progress.] |
+| **Yu-1227** | [Summary] Successfully worked on removing the photoresist from the second sample (with challenges requiring further cleaning attempts) and performed IV measurements on the first sample, observing high resistance and minor gate voltage leakage starting at ±10V. |
 
 
 ### Meeting
