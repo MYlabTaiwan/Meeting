@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | [Summary: Coordinated with a vendor for LEGO piece acquisition, worked on completing the presentation, planned demonstration strategies, and polished printed particles while addressing defects in smaller-sized particles.] |
+| **huiting19991025-cmyk** | [Summary: Coordinated with a vendor for LEGO piece acquisition, worked on completing the presentation, planned demonstration strategies, and polished printed particles while addressing defects in smaller-sized particles.](https://github.com/MYlabTaiwan/Meeting/issues/50) |
 | **PatrickSharks** | Completed the second and final midterm for the class, aligning with the academic schedule. |
 
 
