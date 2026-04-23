@@ -3,14 +3,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-23 07:46:24 (Taipei Time)*
+*Last Audit Update: 2026-04-24 07:46:15 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary: No technical progress made due to illness; identified potential causes for wide graphene nanoribbons and planned to adjust foil layers and cooling method.](https://github.com/MYlabTaiwan/Meeting/issues/51) |
-| **huiting19991025-cmyk** | Coordinated with vendors for LEGO piece procurement, identified a vendor with sufficient 1x8 tiles as a replacement for 6x6 tiles, and addressed the force chain explanation challenge. |
-| **PatrickSharks** | [PatrickSharks is struggling with characterizing strained 3D filament properties, indicating technical challenges impacting progress.](https://github.com/MYlabTaiwan/Meeting/issues/52) |
-| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Successfully worked on removing the photoresist from the second sample (with challenges requiring further cleaning attempts) and performed IV measurements on the first sample, observing high resistance and minor gate voltage leakage starting at ±10V. |
+| **huiting19991025-cmyk** | [Ordered materials for chamber assembly, planned to build and begin measurements tomorrow; remaining 10mm particles will be printed this afternoon.] |
+| **Yu-1227** | [Summary] Conducted V<sub>GS</sub> vs. I<sub>DS</sub> measurements, observed gate leakage above 3V, analyzed conductivity at varying gate voltages, and noted similarities with MIT results while questioning device integrity and leakage impact. |
 
 
 ### Meeting
