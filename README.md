@@ -3,12 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-24 07:46:15 (Taipei Time)*
+*Last Audit Update: 2026-04-27 07:45:18 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | [Ordered materials for chamber assembly, planned to build and begin measurements tomorrow; remaining 10mm particles will be printed this afternoon.](https://github.com/MYlabTaiwan/Meeting/issues/53) |
-| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Conducted V<sub>GS</sub> vs. I<sub>DS</sub> measurements, observed gate leakage above 3V, analyzed conductivity at varying gate voltages, and noted similarities with MIT results while questioning device integrity and leakage impact. |
+| - | No student activity recorded in the last 24 hours. |
 
 
 ### Meeting
