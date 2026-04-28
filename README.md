@@ -7,9 +7,9 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary] Focused on reading literature and making initial progress on writing the paper amidst environmental distractions. |
+| **PatrickSharks** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Focused on reading literature and making initial progress on writing the paper amidst environmental distractions. |
 | **huiting19991025-cmyk** | Adjusted the chamber width from 24 to 18 LEGO units and attempted different measurement methods to reverse the pattern and explore mechanical advantage using varying particle sizes. |
-| **Yu-1227** | [Summary: Faced challenges with material adherence due to photoresist processing during RIE, leading to adjustments in the experimental approach to prioritize back-gate measurements on the first sample with plans to convert it to ECFET later.] |
+| **Yu-1227** | [Summary: Faced challenges with material adherence due to photoresist processing during RIE, leading to adjustments in the experimental approach to prioritize back-gate measurements on the first sample with plans to convert it to ECFET later.](https://github.com/MYlabTaiwan/Meeting/issues/54) |
 
 
 ### Meeting
