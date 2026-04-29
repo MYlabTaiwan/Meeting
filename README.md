@@ -3,14 +3,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-29 07:47:48 (Taipei Time)*
+*Last Audit Update: 2026-04-30 07:47:42 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48) Completed the growth of graphene and polishing of copper foil in alignment with the planned goals. |
-| **PatrickSharks** | [Summary: No significant technical progress was made, and personal challenges were noted, indicating misalignment with the plan.](https://github.com/MYlabTaiwan/Meeting/issues/55) |
-| **huiting19991025-cmyk** | [Summary] Conducted trigger force measurements for different particle size ratios while noting potential issues with pattern consistency and scale calibration. |
-| **Yu-1227** | The reviewed papers explore various doping techniques (Cl, K, LiF, and N doping) to enhance and tailor the electrical, optical, and photo-electrical properties of 2D materials like WS₂ and MoS₂ for potential applications in spintronic devices. |
+| **PatrickSharks** | [Began initial writing on the characterization of strained 3D filament project.] |
+| **Yu-1227** | [Summary] Performed lithography preparation for ECFET by making holes and applying silver paste, and cut the new wafer into 2x2 cm pieces to test current tolerance. |
 
 
 ### Meeting
