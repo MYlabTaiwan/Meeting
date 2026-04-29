@@ -7,8 +7,8 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] Completed the growth of graphene and polishing of copper foil in alignment with the planned goals. |
-| **PatrickSharks** | [Summary: No significant technical progress was made, and personal challenges were noted, indicating misalignment with the plan.] |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48) Completed the growth of graphene and polishing of copper foil in alignment with the planned goals. |
+| **PatrickSharks** | [Summary: No significant technical progress was made, and personal challenges were noted, indicating misalignment with the plan.](https://github.com/MYlabTaiwan/Meeting/issues/55) |
 | **huiting19991025-cmyk** | [Summary] Conducted trigger force measurements for different particle size ratios while noting potential issues with pattern consistency and scale calibration. |
 | **Yu-1227** | The reviewed papers explore various doping techniques (Cl, K, LiF, and N doping) to enhance and tailor the electrical, optical, and photo-electrical properties of 2D materials like WS₂ and MoS₂ for potential applications in spintronic devices. |
 
