@@ -7,8 +7,8 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Began initial writing on the characterization of strained 3D filament project.] |
-| **Yu-1227** | [Summary] Performed lithography preparation for ECFET by making holes and applying silver paste, and cut the new wafer into 2x2 cm pieces to test current tolerance. |
+| **PatrickSharks** | [Began initial writing on the characterization of strained 3D filament project.](https://github.com/MYlabTaiwan/Meeting/issues/56) |
+| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Performed lithography preparation for ECFET by making holes and applying silver paste, and cut the new wafer into 2x2 cm pieces to test current tolerance. |
 
 
 ### Meeting
