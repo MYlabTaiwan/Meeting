@@ -3,12 +3,13 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-04-30 07:47:42 (Taipei Time)*
+*Last Audit Update: 2026-05-01 07:47:09 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Began initial writing on the characterization of strained 3D filament project.](https://github.com/MYlabTaiwan/Meeting/issues/56) |
-| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) Performed lithography preparation for ECFET by making holes and applying silver paste, and cut the new wafer into 2x2 cm pieces to test current tolerance. |
+| **poman920819** | [Summary] Successfully transferred graphene grown on 04/28 as planned. |
+| **PatrickSharks** | [Completed additional sentences to document filament characterization progress.] |
+| **huiting19991025-cmyk** | [Summary] Investigated pattern measurement and stability of particle jamming configurations, proposed modifying the jamming process to form a controllable weak-network scaffold, and planned experiments on force and actuation outcomes with varied particle sizes and ratios. |
 
 
 ### Meeting
