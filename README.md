@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48) Successfully transferred graphene grown on 04/28 as planned. |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48)(https://github.com/MYlabTaiwan/Meeting/issues/48) Successfully transferred graphene grown on 04/28 as planned. |
 | **PatrickSharks** | [Completed additional sentences to document filament characterization progress.](https://github.com/MYlabTaiwan/Meeting/issues/57) |
 | **huiting19991025-cmyk** | [Summary] Investigated pattern measurement and stability of particle jamming configurations, proposed modifying the jamming process to form a controllable weak-network scaffold, and planned experiments on force and actuation outcomes with varied particle sizes and ratios. |
 
