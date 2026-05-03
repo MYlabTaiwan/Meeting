@@ -1,4 +1,4 @@
-# Weekly Report: Week of 2026-04-20
+# Weekly Report: Week of 2026-04-27
 
 > **Note:** Use the scrollbar at the bottom if the table extends off-screen. Click a student row to expand logs.
 
@@ -19,7 +19,7 @@
               <table width="100%" style="border: none; margin: 0; table-layout: auto;">
                 <tr style="border: none;">
                  <td width="200px" style="border: none; white-space: nowrap;"><b>PatrickSharks</b></td>
-                 <td align="center" style="border: none;">✅ ✅ ⚪ ⚪ ⚪</td>
+                 <td align="center" style="border: none;">✅ ✅ ✅ ✅ ⚪</td>
                  <td width="80px" style="border: none;">&nbsp;</td>
                 </tr>
               </table>
@@ -27,17 +27,17 @@
             <div style="padding: 15px; background-color: #fcfcfc; border-top: 1px solid #eee;">
               <table width="100%" style="table-layout: auto; border-collapse: collapse;">
                 <tr>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/20</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/21</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/22</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/23</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/24</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/27</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/28</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/29</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/30</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/01</th>
                 </tr>
                 <tr>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>- had class<br>- finished the second and last midterm for that class</td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>- struggeling</td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>Somehow my perception of time is way off... I thought the 4/24 entry was a Saturday, and today should be the 26th.<br>Anyway, restating what I wrote in the 4/24 entry:<br><br>- had class<br>- trying to focus on the paper (reading/writing)</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>Not really getting anything done... I should go to therapy again to get a grip of my life.</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>- finally started writing something, yay</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>wrote a few more sentences, phew</td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
                 </tr>
               </table>
@@ -52,7 +52,7 @@
               <table width="100%" style="border: none; margin: 0; table-layout: auto;">
                 <tr style="border: none;">
                  <td width="200px" style="border: none; white-space: nowrap;"><b>Yu-1227</b></td>
-                 <td align="center" style="border: none;">⚪ ⚪ ✅ ✅ ✅</td>
+                 <td align="center" style="border: none;">✅ ✅ ✅ ⚪ ⚪</td>
                  <td width="80px" style="border: none;">&nbsp;</td>
                 </tr>
               </table>
@@ -60,18 +60,18 @@
             <div style="padding: 15px; background-color: #fcfcfc; border-top: 1px solid #eee;">
               <table width="100%" style="table-layout: auto; border-collapse: collapse;">
                 <tr>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/20</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/21</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/22</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/23</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/24</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/27</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/28</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/29</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/30</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/01</th>
                 </tr>
                 <tr>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>Goals:<br>1. Thermal evaporate<br>2. Analyze the data <hr> <b>[SpinTorqueDevices]</b><br>Results:<br>The material on the hall bar somehow disappeared. I guess it is because the photoresist will become sticker under RIE, especially under the high energy etching. Therefore, I tried hard to remove the photoresist on the material and weakened the interaction between the material and substrate simultaneously. And then the material was peeled off during photoresist coating section when I want to make a electrode. <br><br>My original plan is that I can apply the back gate on my first sample while do the ECFET on the second sample. However, due to the failure of the second one, I plan to conduct the measurement with back gate as detailed as possible. And then make it become ECFET afterwards.</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>Paper Review:<br><br>1. Cl doping<br>[chloride-molecular-doping-technique-on-2d-materials-ws2-and-mos2.pdf](https://github.com/user-attachments/files/27160119/chloride-molecular-doping-technique-on-2d-materials-ws2-and-mos2.pdf)<br>[Effect of n-type Cl doping on electrical conductivity of few layer WS2.pdf](https://github.com/user-attachments/files/27160166/Effect.of.n-type.Cl.doping.on.electrical.conductivity.of.few.layer.WS2.pdf)<br><br>2. KI solution (K doping)<br>[Tailoring the electrical and photo-electrical.pdf](https://github.com/user-attachments/files/27160198/Tailoring.the.electrical.and.photo-electrical.pdf)<br><br>3. LiF doping<br>[Highly Stable and Tunable Chemical Doping of Multilayer WS2 Field.pdf](https://github.com/user-attachments/files/27160271/Highly.Stable.and.Tunable.Chemical.Doping.of.Multilayer.WS2.Field.pdf)<br><br>4. N doping<br>[A Facile and Effective Method for Patching Sulfur Vacancies.pdf](https://github.com/user-attachments/files/27160346/A.Facile.and.Effective.Method.for.Patching.Sulfur.Vacancies.pdf)<br><br>5. A kind of summery of the electrical properties of WS<sub>2</sub><br>[Engineering the Electrical and Optical Properties of WS2.pdf](https://github.com/user-attachments/files/27160590/Engineering.the.Electrical.and.Optical.Properties.of.WS2.pdf)</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>Goals:<br>1. Do lithography for ECFET<br>2. Cut the new wafer <hr> <b>[SpinTorqueDevices]</b><br>Results:<br>1. I make holes above the hall bar and electrodes, and put the silver paste on the electrode. Maybe I can start the first time tomorrow hopefully.<br>2. I turned the new wafer into a lot of 2x2 (cm) pieces. And I and Guan Ting will check how much current it can tolerate.</td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>Goal:<br>1. Remove the photoresist of my second sample<br>2. IV measurement on my first sample<br><br>Results:<br>1. Some of the photoresist is somehow stick on the hall bar after etching. And this also happened to Ying Chen when she etched the material last time. I am currently trying to put it in the acetone or IPA for longer time as well as trying to remove by ultrasonic cleaner. <br>2. For the 2-probe iv, the result shows the same that its resistance is really large. And I also tried to apply the gate voltage, it shows it has a really small leakage but I am not sure if it will affect the result or not. Furthermore, I have tested where the leakage occur on this substrate. It will start to leak at almost -10V and 10V.</td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>Goal: Measure iv varying with gate voltage<br><br>Result:<br>First, I measured the V<sub>GS</sub> vs. I<sub>DS</sub> and the I<sub>GS</sub> somehow starts leaking at about 3V.<br>And then I have measure the conductivity on different gate voltages (-20V, -10V, 10V, 20V). The results show quite similar to the one from the student in MIT. I am not sure if the device keep intact when I keep increasing gate voltage. Furthermore, I am still questioning about how the gate-to-source leakage would influence the main measurement.  </td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>Goals:<br>1. Learn how to use the lithography int NTNU<br>2. Make a electrode pattern on my second sample<br><br>Results:<br>1. I have fully learn how to use the equipment (NANTYE) and I am able to operate it on my own. Even though this is my second time using it, I was surprised by how great it is once again. It functions not only efficiently but also accurately. Plus, we can design the pattern from AutoCAD then load it into the software, which makes the pattern designing process smoother. Furthermore, the software will spontaneously segregate the big pattern into multiple blocks then expose them one by one. Last but no least, it is not as expensive as I anticipated, we were also stunned when we heard about the price of it. <br>I have asked if PMMA can be the photoresist and the answer is no because this equipment expose with UV light.<br><br>2. The pattern is successfully created. <br><br>3. Moreover, Lu-Chih thinks if the Pt-WS<sub>2</sub> is covered by a carbon layer which might cause the bad conductivity we encounter. He claimed that the carbon layer came from the graphite we used during the CVD section. I am thinking about how to confirm whether it is true.</td>
                 </tr>
               </table>
             </div>
@@ -85,7 +85,7 @@
               <table width="100%" style="border: none; margin: 0; table-layout: auto;">
                 <tr style="border: none;">
                  <td width="200px" style="border: none; white-space: nowrap;"><b>huiting19991025-cmyk</b></td>
-                 <td align="center" style="border: none;">✅ ✅ ✅ ✅ ⚪</td>
+                 <td align="center" style="border: none;">✅ ✅ ⚪ ⚪ ⚪</td>
                  <td width="80px" style="border: none;">&nbsp;</td>
                 </tr>
               </table>
@@ -93,17 +93,17 @@
             <div style="padding: 15px; background-color: #fcfcfc; border-top: 1px solid #eee;">
               <table width="100%" style="table-layout: auto; border-collapse: collapse;">
                 <tr>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/20</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/21</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/22</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/23</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/24</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/27</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/28</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/29</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/30</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/01</th>
                 </tr>
                 <tr>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[JammedParticleActuator]</b><br>I've send the message to bidbuy4u hopefully they could help us get all the LEGO pieces.<br>And today I'm going to finish the powerpoint, right now the biggest problem would be how to demonstrate the current result.<br>And also I will do a simple polish on the particles printed last week, I found that when the size of the particles becomes smaller the more printing defects it will come out but I think it would be fine. </td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[JammedParticleActuator]</b><br>I just send the mail to other 2 LEGO vendors, hopefully they could give us the quotation as soon as possible. <hr> <b>[JammedParticleActuator]</b><br>If the vendors can't meet our requirement I don't mind buying those pieces without reimbursed. <hr> <b>[JammedParticleActuator]</b><br>The other 2 of them didn't have the service of selling pieces both of them sells the whole product <hr> <b>[JammedParticleActuator]</b><br>Update a bit, I found a vendor can offer recipe that sells 1x8 tile and they got sufficient amount. So we can replace the 6x6 one into them without causing a lot of problems <hr> <b>[JammedParticleActuator]</b><br>And the problem I'm facing right now would be dealing with the force chain issue, have to find a way to explain them well.</td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[JammedParticleActuator]</b><br>I've made the order on shopee this morning, and it will arrive tomorrow. So tomorrow I can build the whole chamber and then start the measurement.<br>And only the 10mm particles is un-printed right now I'll start the printing this afternoon.</td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[JammedParticleActuator]</b><br>All the particles we need have been printed. I'll make them polished before weekend <hr> <b>[JammedParticleActuator]</b><br><img width="1280" height="1707" alt="Image" src="https://github.com/user-attachments/assets/dcb2339b-1d74-4b46-b501-2c4a7f1fb1cb" /><br>Got the chamber done</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[JammedParticleActuator]</b><br>Measure the trigger force of each particles.<br>Something might have problem:<br>1. I can only rewind the pattern into approximately the same. I can't guarantee they are 100% the same.<br>2. The platform of the scale is a little too small so the number of the measurement might differ depending on the place I put the LEGO chamber but I think it can be solved by doing some calibration. <hr> <b>[JammedParticleActuator]</b><br>I'm using 20mm and 16mm particles to do the experiment, and I would like to change the ratio of the amount of each particles.<br>Which means that 20mm dominate vs 16 mm dominate vs half half</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[JammedParticleActuator]</b><br>I've done the measurement of the previous pattern today I'll switch the 16mm particles into 12mm and do the measurement.<br>And I come up with an idea that I think what we should do is to modified the jamming concept, right now our jamming concept is more like randomize it and let it jam.   <hr> <b>[JammedParticleActuator]</b><br>The result of the measurement didn't looks significant. As the number of particles becomes more the system seems to be more stable. The actuation distance of the pattern is pretty small, the largest distance is less than 2 stud on LEGO.  <hr> <b>[JammedParticleActuator]</b><br>And also I wonder that whether I can have an individual online meeting on Wednesday morning <hr> <b>[JammedParticleActuator]</b><br>What I would like to do next:<br>Making the scaffold of the force chain and put fixed amount of particles with different sizes letting them forms the weak-network. And measure the force needed to remove the particles among the weak-network and also the actuation distance.<br>Why building the scaffold of the force chain?<br>  Due to the jamming right now is random and it doesn't lead to a collapse of the system which means that the mechanical advantage is small.<br>What I expect?<br>1. There's some certain point that lead to the collapse of the whole system which gives significant outcome and if that point is loose we can get the significant mechanical advantage.<br>2. Using different size of particles as the weak-network, I wonder that we what ratio of the particles will give us the most mechanical advantage, if we got certain ratio than that would be a lot more non-trivial.<br>3.  For the actual actuator, because the whole scaffold is artificial so the pattern is more controllable. <hr> <b>[JammedParticleActuator]</b><br>The schematic looks like this<br><br><img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2996e8c7-f9cc-4a0f-b78b-04c72d5f9ae0" /></td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
                 </tr>
               </table>
@@ -118,7 +118,7 @@
               <table width="100%" style="border: none; margin: 0; table-layout: auto;">
                 <tr style="border: none;">
                  <td width="200px" style="border: none; white-space: nowrap;"><b>poman920819</b></td>
-                 <td align="center" style="border: none;">⚪ ✅ ⚪ ⚪ ⚪</td>
+                 <td align="center" style="border: none;">✅ ✅ ✅ ⚪ ⚪</td>
                  <td width="80px" style="border: none;">&nbsp;</td>
                 </tr>
               </table>
@@ -126,16 +126,16 @@
             <div style="padding: 15px; background-color: #fcfcfc; border-top: 1px solid #eee;">
               <table width="100%" style="table-layout: auto; border-collapse: collapse;">
                 <tr>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/20</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/21</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/22</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/23</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/24</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/27</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/28</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/29</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">04/30</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/01</th>
                 </tr>
                 <tr>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Suspended2DMaterials]</b><br>I am still feeling quite unwell physically, so there has been no progress for the time being.<br><br>Regarding the relatively large width of the graphene nanoribbons, I have two possible explanations:<br><br>1. During graphene growth, **too many layers of graphite/copper foil were stacked**. As a result, during the cooling process, the copper foil was unable to form fine wrinkles properly and instead appeared somewhat flattened.<br>2. The **cooling rate was not sufficiently fast**, preventing the copper foil from forming wrinkles effectively.<br><br>Planned adjustments (tomorrow):<br>- Reduce the number of graphite/copper foil stacks to 12 layers.<br>- Open the furnace immediately after growth and use a fan to assist the cooling process.</td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Suspended2DMaterials]</b><br>Today's Goals：<br><br>**1. Polish copper foil.** <hr> <b>[Suspended2DMaterials]</b><br>Today's Reviews：<br><br>**1. Polish copper foil.**<br><br>- Completed.</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Suspended2DMaterials]</b><br>Today's Goals：<br><br>**1. Growth Graphene.** <hr> <b>[Suspended2DMaterials]</b><br>Today's Reviews：<br><br>**1. Growth Graphene.**<br><br>- Completed.</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Suspended2DMaterials]</b><br>Today's Goals：<br><br>**1. Transfer Graphene (Grown on 04/28).** <hr> <b>[Suspended2DMaterials]</b><br>Today's Reviews：<br><br>**1. Transfer Graphene (Grown on 04/28).**<br><br>- Completed.</td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
                 </tr>
