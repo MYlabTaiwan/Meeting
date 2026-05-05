@@ -3,11 +3,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-05-05 07:47:48 (Taipei Time)*
+*Last Audit Update: 2026-05-06 07:46:31 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | [Completed the measurement of 16 particles and noted slight differences, with a pattern that is currently manageable to rewind.](https://github.com/MYlabTaiwan/Meeting/issues/58) |
+| **poman920819** | [Summary] The attempt to characterize the topography of graphene grown on 04/28 using AFM with an old probe yielded unsatisfactory results, likely due to either sample quality or probe issues, with plans to retry using a new transfer and new probes. |
+| **Yu-1227** | [Summary: Analyzed the ECFET data to assess device performance and extracted relevant findings.] |
 
 
 ### Meeting
