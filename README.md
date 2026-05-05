@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | [Completed the measurement of 16 particles and noted slight differences, with a pattern that is currently manageable to rewind.] |
+| **huiting19991025-cmyk** | [Completed the measurement of 16 particles and noted slight differences, with a pattern that is currently manageable to rewind.](https://github.com/MYlabTaiwan/Meeting/issues/58) |
 
 
 ### Meeting
