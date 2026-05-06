@@ -7,8 +7,8 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **poman920819** | [Summary] The attempt to characterize the topography of graphene grown on 04/28 using AFM with an old probe yielded unsatisfactory results, likely due to either sample quality or probe issues, with plans to retry using a new transfer and new probes. |
-| **Yu-1227** | [Summary: Analyzed the ECFET data to assess device performance and extracted relevant findings.] |
+| **poman920819** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/48) The attempt to characterize the topography of graphene grown on 04/28 using AFM with an old probe yielded unsatisfactory results, likely due to either sample quality or probe issues, with plans to retry using a new transfer and new probes. |
+| **Yu-1227** | [Summary: Analyzed the ECFET data to assess device performance and extracted relevant findings.](https://github.com/MYlabTaiwan/Meeting/issues/59) |
 
 
 ### Meeting
