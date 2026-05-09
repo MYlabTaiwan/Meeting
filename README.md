@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **40341106s-dev** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59)(https://github.com/MYlabTaiwan/Meeting/issues/59) Progress made in measuring ODMR under out-of-plane magnetic field, drafting a poster with outline adjustments needed, preparing group meeting slides, and analyzing SQUID data with weaker saturation observed compared to Bex⊥-ND sample. |
+| **40341106s-dev** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59)(https://github.com/MYlabTaiwan/Meeting/issues/59)(https://github.com/MYlabTaiwan/Meeting/issues/59) Progress made in measuring ODMR under out-of-plane magnetic field, drafting a poster with outline adjustments needed, preparing group meeting slides, and analyzing SQUID data with weaker saturation observed compared to Bex⊥-ND sample. |
 | **Yu-1227** | [Summary] Transferred and annealed but did not measure IV due to a headache. |
 
 
