@@ -8,7 +8,7 @@
 | Student | Summary |
 | :--- | :--- |
 | **ShiphrahR** | Successfully incorporated and analyzed new data to enhance filament characterization under strain. |
-| **huiting19991025-cmyk** | [Summary] The student reported unproductivity on Monday, measured particle trigger forces and actuation distances (expected completion in 1.5 days), and is currently working on the lifting platform. |
+| **huiting19991025-cmyk** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59) The student reported unproductivity on Monday, measured particle trigger forces and actuation distances (expected completion in 1.5 days), and is currently working on the lifting platform. |
 
 
 ### Meeting
