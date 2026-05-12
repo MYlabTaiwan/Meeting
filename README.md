@@ -3,12 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-05-12 07:48:06 (Taipei Time)*
+*Last Audit Update: 2026-05-13 07:48:22 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **ShiphrahR** | Successfully incorporated and analyzed new data to enhance filament characterization under strain. |
-| **huiting19991025-cmyk** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59) The student reported unproductivity on Monday, measured particle trigger forces and actuation distances (expected completion in 1.5 days), and is currently working on the lifting platform. |
+| **Yu-1227** | [Summary: Encountered issues with the photoresist peeling off and electrical chemistry reactions during IV measurement, requiring new sample preparation.] |
 
 
 ### Meeting
