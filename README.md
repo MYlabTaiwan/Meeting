@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Summary: Encountered issues with the photoresist peeling off and electrical chemistry reactions during IV measurement, requiring new sample preparation.] |
+| **Yu-1227** | [Summary: Encountered issues with the photoresist peeling off and electrical chemistry reactions during IV measurement, requiring new sample preparation.](https://github.com/MYlabTaiwan/Meeting/issues/60) |
 
 
 ### Meeting
