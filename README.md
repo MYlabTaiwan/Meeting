@@ -3,12 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-05-14 07:48:29 (Taipei Time)*
+*Last Audit Update: 2026-05-15 07:48:28 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: Focused on literature review, drafting text, developing a Matlab fitting script with AI assistance, identifying issues in the updated analysis script, and conducting a measurement for a colleague.](https://github.com/MYlabTaiwan/Meeting/issues/61) |
-| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59) Completed hall bar lithography for Ar etching and electrode fabrication, and performed pattern lithography for Pt-WS<sub>2</sub> IV measurements. |
+| **Yu-1227** | [Summary] Yu-1227 encountered material peeling during etching, plans to remake the hall bar and electrodes, annealed a sample for lithography, and expressed concern about equipment issues affecting the growth of Pt-WS<sub>2</sub>. |
 
 
 ### Meeting
