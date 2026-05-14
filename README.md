@@ -7,8 +7,8 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: Focused on literature review, drafting text, developing a Matlab fitting script with AI assistance, identifying issues in the updated analysis script, and conducting a measurement for a colleague.] |
-| **Yu-1227** | [Summary] Completed hall bar lithography for Ar etching and electrode fabrication, and performed pattern lithography for Pt-WS<sub>2</sub> IV measurements. |
+| **PatrickSharks** | [Summary: Focused on literature review, drafting text, developing a Matlab fitting script with AI assistance, identifying issues in the updated analysis script, and conducting a measurement for a colleague.](https://github.com/MYlabTaiwan/Meeting/issues/61) |
+| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59) Completed hall bar lithography for Ar etching and electrode fabrication, and performed pattern lithography for Pt-WS<sub>2</sub> IV measurements. |
 
 
 ### Meeting
