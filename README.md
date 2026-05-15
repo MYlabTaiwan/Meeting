@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Summary] Yu-1227 encountered material peeling during etching, plans to remake the hall bar and electrodes, annealed a sample for lithography, and expressed concern about equipment issues affecting the growth of Pt-WS<sub>2</sub>. |
+| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59) Yu-1227 encountered material peeling during etching, plans to remake the hall bar and electrodes, annealed a sample for lithography, and expressed concern about equipment issues affecting the growth of Pt-WS<sub>2</sub>. |
 
 
 ### Meeting
