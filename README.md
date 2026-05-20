@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: Patrick has been reviewing literature, analyzing trends, and conducting measurements for filament characterization, with pending outcomes for discussion with Shiphra.] |
+| **PatrickSharks** | [Summary: Patrick has been reviewing literature, analyzing trends, and conducting measurements for filament characterization, with pending outcomes for discussion with Shiphra.](https://github.com/MYlabTaiwan/Meeting/issues/62) |
 
 
 ### Meeting
