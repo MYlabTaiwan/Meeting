@@ -3,11 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-05-20 07:49:07 (Taipei Time)*
+*Last Audit Update: 2026-05-21 07:53:53 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: Patrick has been reviewing literature, analyzing trends, and conducting measurements for filament characterization, with pending outcomes for discussion with Shiphra.](https://github.com/MYlabTaiwan/Meeting/issues/62) |
+| **Yu-1227** | [Summary: Unable to complete the lithography of electrodes due to equipment malfunction in Prof. Lan's lab, requiring a few days for repair.] |
 
 
 ### Meeting
