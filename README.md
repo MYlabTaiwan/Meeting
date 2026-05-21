@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Summary: Unable to complete the lithography of electrodes due to equipment malfunction in Prof. Lan's lab, requiring a few days for repair.] |
+| **Yu-1227** | [Summary: Unable to complete the lithography of electrodes due to equipment malfunction in Prof. Lan's lab, requiring a few days for repair.](https://github.com/MYlabTaiwan/Meeting/issues/63) |
 
 
 ### Meeting
