@@ -3,11 +3,11 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-05-21 07:53:53 (Taipei Time)*
+*Last Audit Update: 2026-05-22 07:48:21 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Summary: Unable to complete the lithography of electrodes due to equipment malfunction in Prof. Lan's lab, requiring a few days for repair.](https://github.com/MYlabTaiwan/Meeting/issues/63) |
+| **Yu-1227** | [Summary] Taught Siang-Yao hall bar fabrication using lithography and etching, attempted CH<sub>4</sub> etching but observed no material change, suspect issue with CF<sub>4</sub> injection into the RIE chamber, currently troubleshooting. |
 
 
 ### Meeting
