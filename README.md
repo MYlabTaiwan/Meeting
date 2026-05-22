@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Summary] Taught Siang-Yao hall bar fabrication using lithography and etching, attempted CH<sub>4</sub> etching but observed no material change, suspect issue with CF<sub>4</sub> injection into the RIE chamber, currently troubleshooting. |
+| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59) Taught Siang-Yao hall bar fabrication using lithography and etching, attempted CH<sub>4</sub> etching but observed no material change, suspect issue with CF<sub>4</sub> injection into the RIE chamber, currently troubleshooting. |
 
 
 ### Meeting
