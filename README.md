@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary] PatrickSharks is exploring trends, reading literature, addressing challenges in writing, AI, and copper-based filaments, and consulting with peers about filament conductivity. |
+| **PatrickSharks** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/59) PatrickSharks is exploring trends, reading literature, addressing challenges in writing, AI, and copper-based filaments, and consulting with peers about filament conductivity. |
 | **Yu-1227** | Completed lithography pattern and assisted Yu-Hui with pattern creation. |
 
 
