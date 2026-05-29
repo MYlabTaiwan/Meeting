@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Summary: Yu-1227 encountered an issue with sample preparation due to material peeling off after thermal evaporation, plans to implement an alternative approach with guidance from Guan-Ting, and has explored building a frequency multiplier requiring additional components.] |
+| **Yu-1227** | [Summary: Yu-1227 encountered an issue with sample preparation due to material peeling off after thermal evaporation, plans to implement an alternative approach with guidance from Guan-Ting, and has explored building a frequency multiplier requiring additional components.](https://github.com/MYlabTaiwan/Meeting/issues/64) |
 
 
 ### Meeting
