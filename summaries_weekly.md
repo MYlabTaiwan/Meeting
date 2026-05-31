@@ -1,4 +1,4 @@
-# Weekly Report: Week of 2026-05-18
+# Weekly Report: Week of 2026-05-25
 
 > **Note:** Use the scrollbar at the bottom if the table extends off-screen. Click a student row to expand logs.
 
@@ -19,7 +19,7 @@
               <table width="100%" style="border: none; margin: 0; table-layout: auto;">
                 <tr style="border: none;">
                  <td width="200px" style="border: none; white-space: nowrap;"><b>PatrickSharks</b></td>
-                 <td align="center" style="border: none;">✅ ⚪ ⚪ ⚪ ⚪</td>
+                 <td align="center" style="border: none;">✅ ✅ ✅ ✅ ⚪</td>
                  <td width="80px" style="border: none;">&nbsp;</td>
                 </tr>
               </table>
@@ -27,17 +27,17 @@
             <div style="padding: 15px; background-color: #fcfcfc; border-top: 1px solid #eee;">
               <table width="100%" style="table-layout: auto; border-collapse: collapse;">
                 <tr>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/18</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/19</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/20</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/21</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/22</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/25</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/26</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/27</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/28</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/29</th>
                 </tr>
                 <tr>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>looking into trends, reading literature</td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>struggling with ai, struggling with writing, struggling to read literature</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>ai stuff, writing stuff, read stuff</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>Written update instead of meeting:<br><br>- Thomas is waiting for a new shipment of copper-based conductive filament because the current one is not conductive. So unfortunately no new sample to analyse.<br>- Have been writing a bit but struggling to actually do something with our data. Even though Shiphra said the latest fit results are not much different from what she uploaded previously, I have a hard time (mentally) to use the fit data. It doesn't feel right, because it was fitting areas that I/we think should not be fitted. However, I haven't done fitting I'd be comfortable with yet myself, because my second generation analysis script has an error that I need to fix first. And that I am procrastinating on because I'm just so sick of using AI. But I'll do it eventually.</td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[Strained3DFilamentCharacterization]</b><br>Noticed that it's only about 1.5 weeks until final exam, will study fort that now...</td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
                 </tr>
               </table>
@@ -52,7 +52,7 @@
               <table width="100%" style="border: none; margin: 0; table-layout: auto;">
                 <tr style="border: none;">
                  <td width="200px" style="border: none; white-space: nowrap;"><b>Yu-1227</b></td>
-                 <td align="center" style="border: none;">⚪ ⚪ ✅ ✅ ⚪</td>
+                 <td align="center" style="border: none;">⚪ ✅ ⚪ ✅ ⚪</td>
                  <td width="80px" style="border: none;">&nbsp;</td>
                 </tr>
               </table>
@@ -60,17 +60,17 @@
             <div style="padding: 15px; background-color: #fcfcfc; border-top: 1px solid #eee;">
               <table width="100%" style="table-layout: auto; border-collapse: collapse;">
                 <tr>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/18</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/19</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/20</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/21</th>
-                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/22</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/25</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/26</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/27</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/28</th>
+                  <th align="left" style="font-size: 0.8em; padding: 5px; border-bottom: 1px solid #ddd; white-space: nowrap;">05/29</th>
                 </tr>
                 <tr>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>I have done the lithography pattern. And I also helped Yu-Hui to make the pattern. </td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>Goal:<br>Do the lithography of electrodes <hr> <b>[SpinTorqueDevices]</b><br>I failed to do the electrodes since the equipment in Prof. Lan's lab is broken, which needs to be repaired for few days. </td>
-                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>I taught Siang-Yao how to make a hall bar structure today, including lithography and etching. However, when we tried to etch the sample with CH<sub>4</sub>, the materials remain the same as before. I have checked there is gases in the gas cylinder, and I can adjust the pressure of the CF<sub>4</sub>, but it was not functioning somehow. My assumption is there is no CF<sub>4</sub> injected into RIE chamber, otherwise it is impossible to not etch the materials not a single bit. Currently I have no clue how to deal with it. </td>
+                  <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><b>[SpinTorqueDevices]</b><br>I thermal evaporated the sample, however, the material was washed off by acetone. Good news is that I eventually figure out when my material got peeled off. Bad news is I have to make a new one. There is a plan B suggested from Guan-Ting. He said I can transfer a sample onto the substrate which is done the lithography, and make the hall bar afterwards. <br><br>Additionally, I have checked how to build a frequency multiplier on breadboard. It seems like I have to buy some of the elements from kuan nan fashion shop. I hope my memory of electronics experiment is still there.</td>
                   <td valign="top" style="padding: 10px; font-size: 0.85em; border-right: 1px solid #f0f0f0; min-width: 150px; max-width: 400px; word-wrap: break-word; white-space: normal;"><span style="color: #ccc;">-</span></td>
                 </tr>
               </table>
