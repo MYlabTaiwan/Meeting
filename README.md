@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Summary: Yu-1227 attempted 4-probe measurements on W<sub>5</sub>N<sub>6</sub>, but encountered issues with the electric meter's inconsistent functionality, and noted the absence of e-beam lithography and MIBK in Prof. Ssu-Yen Huang's lab, which uses Hg lamp lithography.] |
+| **Yu-1227** | [Summary: Yu-1227 attempted 4-probe measurements on W<sub>5</sub>N<sub>6</sub>, but encountered issues with the electric meter's inconsistent functionality, and noted the absence of e-beam lithography and MIBK in Prof. Ssu-Yen Huang's lab, which uses Hg lamp lithography.](https://github.com/MYlabTaiwan/Meeting/issues/65) |
 
 
 ### Meeting
