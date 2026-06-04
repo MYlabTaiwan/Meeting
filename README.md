@@ -7,7 +7,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: PatrickSharks is preparing for the final exam on Strained 3D Filament Characterization, indicating focus on mastering the subject for evaluation.] |
+| **PatrickSharks** | [Summary: PatrickSharks is preparing for the final exam on Strained 3D Filament Characterization, indicating focus on mastering the subject for evaluation.](https://github.com/MYlabTaiwan/Meeting/issues/66) |
 
 
 ### Meeting
