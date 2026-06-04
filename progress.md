@@ -41,8 +41,8 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| [🔴](https://github.com/MYlabTaiwan/NVDiamond/issues/35 "2026-03-09: The student did not provide a daily plan or progress update, which is essential for evaluating their research activities.") | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| [🔴](https://github.com/MYlabTaiwan/NVDiamond/issues/30 "2026-03-02: There was no clear plan or progress update provided related to the research, only a vague mention of preparing for the Q.E.") | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| [🔴](https://github.com/MYlabTaiwan/NVDiamond/issues/35 "2026-03-09: The student did not provide a daily plan or progress update, which is essential for evaluating their research activities.") | ⚪ | ⚪ | ⚪ | [🟢](https://github.com/MYlabTaiwan/NVDiamond/issues/39 "2026-03-13: The student had a well-thought-out plan and successfully completed the tasks outlined, including making the APTES-ND and H-APTES samples and conducting SEM with Guang Yu.") | ⚪ | ⚪ |
 | [🟡](https://github.com/MYlabTaiwan/NVDiamond/issues/40 "2026-03-16: The student had a well-thought-out plan but faced technical challenges with the WS2 transfer and CL measurements, which hindered their progress.") | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ |   |   |   |   |   |
@@ -55,7 +55,7 @@
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |   |
+| ⚪ | ⚪ | ⚪ | [🔴](https://github.com/MYlabTaiwan/NVDiamond/issues/28 "2026-02-26: There was no clear plan provided for the day, and the entry does not relate to specific research activities or progress.") | ⚪ | ⚪ |   |
 
 
 ### January 2026
@@ -199,7 +199,7 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/14 "2026-03-02: There was no clear plan outlined for the day, and the entry does not relate to a structured research plan or progress update.") | ⚪ | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/16 "2026-03-04: There was no clear plan outlined for the day, and the entry does not relate to a structured research plan or progress update.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/17 "2026-03-05: There was no detailed plan provided for the day, and the entry does not indicate any specific research activities or progress related to the optimization of powder spincoating.") | ⚪ | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/19 "2026-03-09: There was no clear plan outlined for the day, and the entry does not relate to a structured research activity.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/20 "2026-03-10: There was no clear plan provided for the day, and the entry does not relate to a structured research activity.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/21 "2026-03-11: There was no clear plan outlined for the day, and the entries do not relate to a structured research plan.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/22 "2026-03-12: There was no clear plan outlined for the day, and the entry does not relate to research activities.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/23 "2026-03-13: There was no clear plan outlined for the day, and the entry does not relate to research activities.") | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/24 "2026-03-16: There was no clear plan outlined for the day, and the entry does not relate to research activities.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/25 "2026-03-17: There was no clear plan or progress update provided; the entry lacks detail on the intended research activities.") | [🟡](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/26 "2026-03-18: The plan was well thought out, focusing on addressing technical issues and preparing for a meeting. However, progress may have been hindered by the technical difficulties with the spray coating head.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/29 "2026-03-23: There was no clear plan outlined for the day's activities, and the entry does not specify any actionable steps related to research.") | [🟢](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/30 "2026-03-24: The plan was well thought out, focusing on SEM analysis and deposition techniques, and progress was made as the student conducted their first trial successfully.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/31 "2026-03-25: There was no clear plan or progress update related to research; the entries lack detail and context.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/32 "2026-03-26: There was no clear plan outlined for the day, and the entry does not reflect a structured approach to research activities.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/33 "2026-03-27: There was no clear plan or progress update provided; the entry lacks detail on the intended research activities.") | ⚪ | ⚪ |
@@ -213,7 +213,7 @@
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/12 "2026-02-26: There was no progress update provided, and the entry does not reflect a structured plan or research-related activity.") | ⚪ | ⚪ |   |
+| ⚪ | ⚪ | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/11 "2026-02-25: There was no clear plan provided for the day, and the entry does not relate to a structured research activity.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltFunctionalization/issues/12 "2026-02-26: There was no progress update provided, and the entry does not reflect a structured plan or research-related activity.") | ⚪ | ⚪ |   |
 
 
 ### January 2026
@@ -278,7 +278,7 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/41 "2026-03-06: The entries do not reflect a coherent plan related to research, as one entry focuses on a course unrelated to the current research project and the other lacks specific actionable steps.") | ⚪ | ⚪ |
+| [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/37 "2026-03-02: The student did not create a relevant plan for their research and instead focused on personal matters and course credits, which are not aligned with their research objectives.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/38 "2026-03-03: There was no clear plan outlined for the day, and the focus was on troubleshooting a technical issue without a structured approach to research.") | [🟢](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/39 "2026-03-04: PatrickSharks had a well-thought-out plan that included taking setup pictures, scheduling TGA, and starting the introduction to a paper. Progress was made as evidenced by the successful capture of professional-quality images and insightful measurements related to annealing.") | [🟡](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/40 "2026-03-05: The plan was well thought out, focusing on an advanced measurement technique, but progress was hindered by the need to modify the analysis script for the new measurement type.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/41 "2026-03-06: The entries do not reflect a coherent plan related to research, as one entry focuses on a course unrelated to the current research project and the other lacks specific actionable steps.") | ⚪ | ⚪ |
 | [🟡](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/42 "2026-03-09: The plan was well thought out, focusing on presentation preparation, but progress was hindered by the need to assist with SEM&EDX, which diverted attention from the original goal.") | [🟡](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/43 "2026-03-10: The plan to understand the EDX results was well thought out, but progress was hindered by the need for additional information from the manufacturer.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/44 "2026-03-11: There was no clear plan outlined for the day, and the entry does not relate to research activities.") | [🟢](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/45 "2026-03-12: The plan to focus on Raman processing was well thought out, and ongoing literature research indicates progress in line with the plan.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/46 "2026-03-13: There was no clear plan provided for the day, and the entry does not indicate any specific research activities or progress related to the research.") | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/47 "2026-03-16: There was no clear plan related to research, as the entries focused on attending class and checking out a fitting.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/48 "2026-03-17: There was no clear plan outlined for the day, and the entry does not relate to specific research activities.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/49 "2026-03-18: There was no clear plan provided for the day, and the entry does not relate to research activities.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/51 "2026-03-19: There was no clear plan provided for the day, and the entry does not relate to a structured research activity.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/52 "2026-03-20: There was no clear plan provided for the day, and the entry does not relate to a structured research activity.") | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/53 "2026-03-23: There was no clear plan related to research provided for the day, as the entry only mentions attending class without specific research-related tasks.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/54 "2026-03-24: There was no clear plan outlined for the day, and the entry does not indicate any specific research-related activities or progress.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/56 "2026-03-25: There was no clear plan outlined for the day, and the entry does not relate to a structured research activity.") | [🟡](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/57 "2026-03-26: The plan was well thought out, focusing on adhering to deadlines and improving analysis scripts. However, progress was hindered by getting carried away with optimization, which may have diverted focus from immediate tasks.") | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/58 "2026-03-27: There was no progress update provided, and the plan lacks specificity regarding the analysis of data and the upcoming deadlines.") | ⚪ | ⚪ |
@@ -357,7 +357,7 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | [🟢](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/40 "2026-03-05: The plan was well thought out, focusing on setting up the work environment and analyzing data, and progress was made in finalizing the fitting equation.") | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | [🔴](https://github.com/MYlabTaiwan/Strained3DFilamentCharacterization/issues/49 "2026-03-18: There was no plan provided for the day, and the entry does not relate to a structured research activity.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
@@ -436,7 +436,7 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | [🟢](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/36 "2026-03-06: The student had a well-thought-out plan to investigate the effects of acetone treatment on deposition patterns and made progress by analyzing AFM images and confirming reproducibility of results.") | ⚪ | ⚪ |
+| [🟡](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/32 "2026-03-02: The plan was well thought out, focusing on the experiment with Gr@Au and plasma treatment. However, progress was hindered by technical issues related to deposition and sample behavior.") | [🟡](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/33 "2026-03-03: The student's plan was well thought out, focusing on the effects of various experimental conditions on graphene patterns. However, progress was hindered by technical issues related to the deposition process, leading to unexpected results.") | [🟡](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/34 "2026-03-04: The plan was well thought out, focusing on the construction of the electrode on graphene. However, progress was hindered by the need to attend class and possibly other technical issues related to the thermoevaporation process.") | [🟡](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/35 "2026-03-05: The plan was well thought out, focusing on completing the negative and positive PR patterns; however, progress was hindered by technical issues related to the availability of Raman spectra needed for the IV experiment.") | [🟢](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/36 "2026-03-06: The student had a well-thought-out plan to investigate the effects of acetone treatment on deposition patterns and made progress by analyzing AFM images and confirming reproducibility of results.") | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | [🟡](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/45 "2026-03-19: The plan was well thought out, focusing on relevant research activities, but progress was hindered by technical issues such as failed pattern deposition and challenges with AFM measurements.") | ⚪ | ⚪ | ⚪ |
 | [🟢](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/47 "2026-03-23: The plan was well thought out, and the student successfully reproduced the negative PR experiment and conducted the necessary characterizations, confirming selective deposition and investigating the relationship between exposure time and Raman ratios.") | ⚪ | ⚪ | ⚪ | [🟡](https://github.com/MYlabTaiwan/GrapheneElectrochemicalDecoration/issues/51 "2026-03-27: The plan to obtain AFM images was well thought out, but progress was hindered by the rough surface, leading to a suggestion to use TEM instead.") | ⚪ | ⚪ |
@@ -515,11 +515,90 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/39 "2026-03-06: The plan to learn the IV system and measure resistance was well thought out, but progress was hindered by contact issues and unexpected resistance results.") | ⚪ | ⚪ |
+| [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/35 "2026-03-02: The plan to conduct the 4-point measurement was well thought out, but progress was hindered by technical issues with the probes and the lack of necessary adaptors.") | ⚪ | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/37 "2026-03-04: The student had a well-thought-out plan regarding the measurement of sheet resistance but faced a technical issue with the software. Progress was made in locating the lock-in amplifier, which will aid in future experiments.") | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/38 "2026-03-05: The plan was well thought out, focusing on SQUID data evaluation and IV measurements. However, progress was hindered by technical issues related to resistance measurement and the need for additional equipment.") | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/39 "2026-03-06: The plan to learn the IV system and measure resistance was well thought out, but progress was hindered by contact issues and unexpected resistance results.") | ⚪ | ⚪ |
 | [🟢](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/40 "2026-03-09: The plan was well thought out, and the student made significant progress by analyzing the iv data and comparing it with insulators, while also taking steps to improve the material's properties through annealing.") | [🔴](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/41 "2026-03-10: There was no progress update provided, and the entry lacks a clear plan for the day's activities related to research.") | ⚪ | [🟢](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/43 "2026-03-12: The plan was well thought out, and progress was made as the student successfully identified a supplier for the adapter and confirmed the effectiveness of the annealing process on conductivity.") | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/44 "2026-03-13: The plan was well thought out, focusing on data analysis and annealing, but progress was hindered by unexpected results and the need for additional equipment, which may delay further measurements.") | ⚪ | ⚪ |
 | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/45 "2026-03-16: The plan was well thought out, and progress was made in analyzing the conductivity of the materials; however, the student's results were hindered by an accidental drop of the sample, which affected the expected outcomes.") | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/46 "2026-03-17: The plan to work on the report was well thought out, but progress was hindered by the need to find necessary equipment for the 4-probe measurement.") | ⚪ | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/48 "2026-03-19: The plan was well thought out, but progress was hindered by unexpected measurement results and leakage issues during the experiments.") | [🟢](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/49 "2026-03-20: The student had a well-thought-out plan and made significant progress by analyzing the iv data and finding relevant literature on improving the conductivity of WS2.") | ⚪ | ⚪ |
 | ⚪ | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/51 "2026-03-24: The plan to transfer the sample to a better substrate was well thought out, but progress was hindered by the realization of the substrate's limitations, which may affect the experimental outcomes.") | ⚪ | [🟡](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/53 "2026-03-26: The student had a well-thought-out plan but faced technical issues with the equipment that hindered progress on the 4-probe IV measurements.") | [🔴](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/54 "2026-03-27: There was no clear plan outlined for the day, and the entry indicates unethical behavior by taking someone else's sample, which is not related to legitimate research activities.") | ⚪ | ⚪ |
 | [🟢](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/55 "2026-03-30: The plan to transfer Pt-WS2 to a high-quality substrate was well thought out, and progress was made by successfully spin coating the PMMA and PS as intended.") | [🔴](https://github.com/MYlabTaiwan/SpinTorqueDevices/issues/56 "2026-03-31: There was no clear plan outlined for the day, and the entry primarily discusses future intentions rather than current research activities.") |   |   |   |   |   |
+
+
+### February 2026
+| Mo | Tu | We | Th | Fr | Sa | Su |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   |   |   |   |   |   | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |   |
+
+
+### January 2026
+| Mo | Tu | We | Th | Fr | Sa | Su |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   |   |   | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |   |
+
+
+### December 2025
+| Mo | Tu | We | Th | Fr | Sa | Su |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ |   |   |   |   |
+
+
+</details>
+
+---
+
+
+## 🧑‍🎓 hank910114
+<details open><summary><b>View Calendars</b></summary>
+
+### June 2026
+| Mo | Tu | We | Th | Fr | Sa | Su |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ |   |   |   |   |   |
+
+
+### May 2026
+| Mo | Tu | We | Th | Fr | Sa | Su |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   |   |   |   | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+
+
+### April 2026
+| Mo | Tu | We | Th | Fr | Sa | Su |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   |   | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ |   |   |   |
+
+
+### March 2026
+| Mo | Tu | We | Th | Fr | Sa | Su |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|   |   |   |   |   |   | ⚪ |
+| [🟡](https://github.com/MYlabTaiwan/ElectricalSpinReadout/issues/21 "2026-03-02: The plan was well thought out, focusing on the removal of WS2 and the preparation of the back gate. However, progress was hindered by unexpected reactions with the silver electrode and aluminum etchant.") | [🟢](https://github.com/MYlabTaiwan/ElectricalSpinReadout/issues/22 "2026-03-03: The student had a well-thought-out plan for the first electrode and successfully executed it, leading to satisfactory results. They also outlined a clear plan for the next steps.") | [🟡](https://github.com/MYlabTaiwan/ElectricalSpinReadout/issues/23 "2026-03-04: The plan to make the 2nd electrodes was well thought out, but progress was hindered by issues with gold not attaching properly to silver.") | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ |   |   |   |   |   |
 
 
 ### February 2026
@@ -594,8 +673,8 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| [🟡](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/45 "2026-03-09: The plan to clean CaO and investigate for calcium silicate was well thought out, but progress was hindered by the unavailability of the Raman equipment.") | [🟡](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/46 "2026-03-10: The plan to measure Raman was well thought out, but progress was hindered by the unexpected presence of yellow material on the wafer, which affected the ability to obtain a Raman signal.") | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | [🟡](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/41 "2026-03-03: The plan was well thought out, but progress was hindered by a technical issue with the IV measurement equipment, which prevented accurate resistance measurements.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/42 "2026-03-04: There was no detailed plan provided for the silicon deposition experiment, and the entry lacks sufficient information to assess progress related to research.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/43 "2026-03-05: There was no plan provided for the day, only a goal stated without any actionable steps or related research activities.") | ⚪ | ⚪ | ⚪ |
+| [🟡](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/45 "2026-03-09: The plan to clean CaO and investigate for calcium silicate was well thought out, but progress was hindered by the unavailability of the Raman equipment.") | [🟡](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/46 "2026-03-10: The plan to measure Raman was well thought out, but progress was hindered by the unexpected presence of yellow material on the wafer, which affected the ability to obtain a Raman signal.") | [🔴](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/47 "2026-03-11: There was no clear plan provided for the day, and the entry does not relate to specific research activities.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/MoltenSaltSiliconProcessing/issues/50 "2026-03-16: There was no detailed plan provided for the day, and the entry does not relate to specific research activities.") | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ |   |   |   |   |   |
@@ -673,7 +752,7 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| [🔴](https://github.com/MYlabTaiwan/JammedParticleActuator/issues/41 "2026-03-02: There was no clear plan related to research, as the entry focuses on drawing a new file for a lifting platform without outlining specific research objectives or tasks.") | ⚪ | [🟡](https://github.com/MYlabTaiwan/JammedParticleActuator/issues/43 "2026-03-04: The plan was well thought out, focusing on the design of the scale and lifting platform. However, progress was hindered by technical issues with the 3D printer.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | [🟡](https://github.com/MYlabTaiwan/JammedParticleActuator/issues/46 "2026-03-09: The plan was well thought out with clear objectives for the experiment setup, but progress was hindered by a technical issue with the soldered part of the Arduino scale being disconnected.") | [🟡](https://github.com/MYlabTaiwan/JammedParticleActuator/issues/47 "2026-03-10: The plan was well thought out, and progress was made on the Arduino scale; however, technical issues with broken components hindered the completion of the tasks.") | [🟡](https://github.com/MYlabTaiwan/JammedParticleActuator/issues/48 "2026-03-11: The plan was well thought out, focusing on calibration and design, but progress may have been hindered by technical issues related to the scale or LEGO design.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/JammedParticleActuator/issues/51 "2026-03-16: There was no progress update provided, and the plan lacks detail regarding the specific measurements or research context.") | ⚪ | [🟡](https://github.com/MYlabTaiwan/JammedParticleActuator/issues/53 "2026-03-18: The plan was well thought out, focusing on testing a new jamming pattern and measuring results. However, progress was hindered by unexpected technical issues with particle behavior.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
@@ -752,8 +831,8 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| [🟢](https://github.com/MYlabTaiwan/MiniCVD/issues/45 "2026-03-09: The student's plan was well thought out, and they successfully matched the generated pattern with the actual engraving while also conducting meaningful tests on laser power and scanning times.") | [🟡](https://github.com/MYlabTaiwan/MiniCVD/issues/46 "2026-03-10: The plan was well thought out, focusing on specific parameters for the laser process. However, progress was hindered by the need for further consultation regarding the adjustment of frequency in Python.") | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| [🟡](https://github.com/MYlabTaiwan/MiniCVD/issues/40 "2026-03-02: The plan was well thought out, focusing on learning I–V characteristics and photocurrent measurement, but progress was hindered by the postponement of the training session due to the senior's unavailability.") | [🟢](https://github.com/MYlabTaiwan/MiniCVD/issues/41 "2026-03-03: The plan was well thought out and the student successfully completed the photocurrent measurements as intended.") | [🟡](https://github.com/MYlabTaiwan/MiniCVD/issues/42 "2026-03-04: The plan to prepare the training report was well thought out, but progress was hindered by a technical issue with the laser power interval during measurements.") | [🔴](https://github.com/MYlabTaiwan/MiniCVD/issues/43 "2026-03-05: The student did not provide a plan related to research activities, as the entry only mentioned a group meeting without any experimental work.") | ⚪ | ⚪ | ⚪ |
+| [🟢](https://github.com/MYlabTaiwan/MiniCVD/issues/45 "2026-03-09: The student's plan was well thought out, and they successfully matched the generated pattern with the actual engraving while also conducting meaningful tests on laser power and scanning times.") | [🟡](https://github.com/MYlabTaiwan/MiniCVD/issues/46 "2026-03-10: The plan was well thought out, focusing on specific parameters for the laser process. However, progress was hindered by the need for further consultation regarding the adjustment of frequency in Python.") | [🟡](https://github.com/MYlabTaiwan/MiniCVD/issues/47 "2026-03-11: The plan was well thought out, but progress was hindered by technical issues such as irregular burn marks and the need for further optimization of the LightBurn patterns.") | ⚪ | [🟢](https://github.com/MYlabTaiwan/MiniCVD/issues/49 "2026-03-13: The student had a well-thought-out plan and made progress by verifying the functionality of the updated workflow and comparing results, despite some challenges with observing the effects of frequency settings.") | ⚪ | ⚪ |
 | ⚪ | [🟡](https://github.com/MYlabTaiwan/MiniCVD/issues/51 "2026-03-17: The plan was well thought out, focusing on research tasks; however, progress was hindered by unexpected technical issues that affected the execution of the plan.") | [🟢](https://github.com/MYlabTaiwan/MiniCVD/issues/52 "2026-03-18: The plan was well thought out and the student made significant progress, successfully conducting laser processing and analyzing the results, despite some challenges with the powder layer application.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | [🟢](https://github.com/MYlabTaiwan/MiniCVD/issues/55 "2026-03-23: The plan was well thought out, and the student made progress by testing different tape layer configurations, leading to a suitable conclusion on the optimal number of layers for the powder layer.") | [🟡](https://github.com/MYlabTaiwan/MiniCVD/issues/56 "2026-03-24: The plan was well thought out, but progress was hindered by issues with adhesion and material sticking during the laser processing. Adjustments were made to the tape layers, and further testing is planned to improve observations.") | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/MoltenSaltVOx/issues/32 "2026-03-30: The entry lacks a clear plan and does not relate to research activities, as it only mentions uploading progress without specific goals or tasks outlined.") | ⚪ |   |   |   |   |   |
@@ -766,7 +845,7 @@
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |   |
+| ⚪ | ⚪ | ⚪ | ⚪ | [🔴](https://github.com/MYlabTaiwan/MiniCVD/issues/39 "2026-02-27: There was no plan related to research for today, as the student mentioned no experiments scheduled and only referenced a future task.") | ⚪ |   |
 
 
 ### January 2026
@@ -831,7 +910,7 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | [🟢](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/36 "2026-03-06: The student had a well-thought-out plan and successfully completed both tasks as outlined in their goals.") | ⚪ | ⚪ |
+| [🔴](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/32 "2026-03-02: There was no plan related to research, as the student only mentioned attending classes without any experimental work.") | ⚪ | [🔴](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/34 "2026-03-04: There was no plan related to research, as the student focused on attending classes instead of conducting experiments.") | ⚪ | [🟢](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/36 "2026-03-06: The student had a well-thought-out plan and successfully completed both tasks as outlined in their goals.") | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/37 "2026-03-09: There was no plan related to research, as the student only mentioned attending classes without any experimental work.") | [🟡](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/38 "2026-03-10: The plan was well thought out, focusing on etching parameters for Graphene/MoS2 Nanoribbons. However, progress was hindered as the etching process is still ongoing and results are not yet finalized.") | [🔴](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/39 "2026-03-11: There was no plan related to research, as the student only mentioned attending classes without outlining any specific research activities.") | [🟢](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/40 "2026-03-12: The student had a well-thought-out plan and successfully completed both goals for the day, demonstrating effective progress in their research.") | ⚪ | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/42 "2026-03-16: There was no plan related to research, as the student only mentioned attending classes without any experimental work.") | [🟡](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/43 "2026-03-17: The plan was well thought out, but progress was hindered by technical issues with the AFM measurement, which did not yield the expected results.") | [🔴](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/44 "2026-03-18: There was no plan related to research, as the student only mentioned attending classes without any experimental work.") | [🟡](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/45 "2026-03-19: The plan was well thought out, focusing on analyzing specific data, but progress was hindered as the analysis is still ongoing.") | [🟡](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/46 "2026-03-20: The student's plan was well thought out, focusing on measuring Graphene's surface topography. However, progress was hindered due to a technical issue with the computer in R402.") | ⚪ | ⚪ |
 | [🟡](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/47 "2026-03-23: The plan was well thought out, and the transfer was completed; however, the lack of observable graphene indicates a technical issue that needs to be addressed.") | [🟡](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/48 "2026-03-24: The student had a well-thought-out plan and made progress by completing the fabrication of the MoS₂ Nanoribbon, but the analysis of the data was hindered and not completed due to unforeseen technical issues.") | [🟡](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/49 "2026-03-25: The plan was well thought out, focusing on measuring Graphene's surface topography, but progress was hindered by a technical issue with the computer in R402.") | ⚪ | [🟡](https://github.com/MYlabTaiwan/Suspended2DMaterials/issues/51 "2026-03-27: The plan to analyze MoS2 nanoribbon Raman data was well thought out, but progress was hindered as the analysis is still in process.") | ⚪ | ⚪ |
@@ -910,7 +989,7 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | [🔴](https://github.com/MYlabTaiwan/W5N6_Doping/issues/39 "2026-03-04: The student did not provide a progress update, making it impossible to evaluate their progress based on the initial plan.") | ⚪ | ⚪ | ⚪ | ⚪ |
+| [🟢](https://github.com/MYlabTaiwan/W5N6_Doping/issues/37 "2026-03-02: The student had a well-thought-out plan focusing on research activities, and progress was made in both growing the W5N6 batch and improving their paper.") | [🔴](https://github.com/MYlabTaiwan/W5N6_Doping/issues/38 "2026-03-03: There was no progress update provided, and the entry lacks a clear plan related to research activities.") | [🔴](https://github.com/MYlabTaiwan/W5N6_Doping/issues/39 "2026-03-04: The student did not provide a progress update, making it impossible to evaluate their progress based on the initial plan.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | [🟢](https://github.com/MYlabTaiwan/W5N6_Doping/issues/43 "2026-03-09: The student had a well-thought-out plan and made significant progress in testing the thickness of W5N6 and successfully conducting lithography and etching, although further examination is needed.") | ⚪ | ⚪ | [🟢](https://github.com/MYlabTaiwan/W5N6_Doping/issues/46 "2026-03-12: The student had a well-thought-out plan and successfully conducted the Raman mapping, leading to valuable insights about the RIE etching process.") | [🟡](https://github.com/MYlabTaiwan/W5N6_Doping/issues/47 "2026-03-13: The student's plan was well thought out, focusing on important experiments, but progress was hindered by technical issues such as excessive noise in the AFM and PMMA residues affecting the results.") | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/W5N6_Doping/issues/48 "2026-03-16: The student did not provide a complete progress update, making it impossible to assess their progress based on the initial plan.") | ⚪ | [🔴](https://github.com/MYlabTaiwan/W5N6_Doping/issues/50 "2026-03-18: The student did not provide a progress update, and the plan lacks sufficient detail to assess its relevance to research.") | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | [🟢](https://github.com/MYlabTaiwan/W5N6_Doping/issues/55 "2026-03-25: The student's plan was well thought out and they successfully executed the removal of photoresist and conducted Raman mapping as intended.") | ⚪ | ⚪ | ⚪ | ⚪ |
@@ -924,7 +1003,7 @@
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |   |
+| ⚪ | ⚪ | ⚪ | [🟡](https://github.com/MYlabTaiwan/W5N6_Doping/issues/35 "2026-02-26: The plan was well thought out, focusing on specific research tasks, but progress was hindered by technical issues related to cleaning the samples.") | ⚪ | ⚪ |   |
 
 
 ### January 2026
@@ -989,7 +1068,7 @@
 | Mo | Tu | We | Th | Fr | Sa | Su |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |   |   |   | ⚪ |
-| ⚪ | ⚪ | ⚪ | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/41 "2026-03-05: There was no clear plan provided for the day, and the entry does not relate to a structured research approach.") | ⚪ | ⚪ | ⚪ |
+| [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/38 "2026-03-02: There was no clear plan outlined for the day, and the entry does not relate to a structured research plan or progress update.") | [🟡](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/39 "2026-03-03: The plan to try dry transfer printing was well thought out, but progress was hindered by technical issues related to sample integrity and measurement challenges.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/40 "2026-03-04: There was no clear plan outlined for the day, and the entry does not relate to a structured research activity.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/41 "2026-03-05: There was no clear plan provided for the day, and the entry does not relate to a structured research approach.") | ⚪ | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/43 "2026-03-09: There was no clear plan outlined for the day, and the entry does not provide sufficient detail related to research activities.") | [🟡](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/44 "2026-03-10: The plan was well thought out, focusing on specific research tasks; however, progress was hindered by the failure of the 3D printer chamber.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/45 "2026-03-11: There was no progress update provided, and the entry lacks a clear plan related to research activities.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/46 "2026-03-12: There was no clear plan or structured approach outlined in the entry, making it difficult to assess any progress related to research.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/47 "2026-03-13: There was no clear plan outlined for the day's work, and the entry indicates a failure to achieve the research goal without any structured approach.") | ⚪ | ⚪ |
 | [🟡](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/48 "2026-03-16: The plan to try different laser parameters was well thought out, but progress was hindered by incomplete execution of the program for IV measurement due to technical issues.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/49 "2026-03-17: The entry lacks a clear plan and does not relate to research activities, focusing instead on a personal assessment of a previous failure.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/50 "2026-03-18: There was no clear plan outlined for the day, and the entry does not provide sufficient detail related to research activities.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/51 "2026-03-19: There was no clear plan or progress update provided; the entry lacks detail and does not indicate any research-related activities.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/52 "2026-03-20: There was no clear plan provided for the day, and the entry does not relate to a structured research activity.") | ⚪ | ⚪ |
 | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/53 "2026-03-23: There was no clear plan provided, and the entry does not relate to research activities.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/54 "2026-03-24: There was no plan provided for the day, which indicates a lack of direction in the research process.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/55 "2026-03-25: The student did not provide a plan related to their research, as the entry only mentions taking leave due to illness.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/56 "2026-03-26: The student did not provide a clear plan related to their research and instead mentioned taking leave and reading a paper without specific goals or tasks.") | [🔴](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/57 "2026-03-27: The entry lacks a clear plan and is not directly related to research activities, focusing instead on completing a class and reading a paper without specific objectives or outcomes.") | ⚪ | ⚪ |
@@ -1003,7 +1082,7 @@
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |   |
+| ⚪ | ⚪ | ⚪ | ⚪ | [🟡](https://github.com/MYlabTaiwan/MoltenSalt2DMaterials/issues/37 "2026-02-27: The student had a well-thought-out plan regarding the carbon soot application but faced technical issues with the attachment of the soot to the substrate. Additionally, the update to their GitHub profile indicates a positive step in communication, though it is not directly related to their research progress.") | ⚪ |   |
 
 
 ### January 2026
