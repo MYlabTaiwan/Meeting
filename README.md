@@ -8,7 +8,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **huiting19991025-cmyk** | [Summary: Received 3D filament, started printing shorter particles, and plans to test them tomorrow.] |
+| **huiting19991025-cmyk** | [Summary: Received 3D filament, started printing shorter particles, and plans to test them tomorrow.](https://github.com/MYlabTaiwan/Meeting/issues/67) |
 
 
 ### Meeting
