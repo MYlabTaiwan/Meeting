@@ -45,8 +45,8 @@ Please log in on time and I will let you in when the previous speaker is done!
 | 2026/05/28 | 林宥成 (You-Chen Lin) | 黃郁惠 (Yu-Hui Huang)，郭孟宸 (Meng-Chen Kuo) |
 | 2026/06/04 | 翁胤智 (Yin-Zhi Weng) | 陳瑩 (Ying Chen)，高新恩 (Hsin-En Kao) |
 | 2026/06/11 | 陳郁翔 (Yu-Xiang Chen) | 尤瑞鴻 (Rui-Hung You)，胡勝鈞 (Sheng-Chun Hu；大四)，蔡承宏 (Cheng-Hung Tsai) |
-| 2026/06/18 | Suraj Singh，顏志龍 (Zhi-Long Yen)，王耀維 (Peter Wang) | 張恩齊 (En-Chi Chang) |
-| 2026/06/25 | 莊儒哲 (Ju-Che Chuang) | 藍哲名 (Zhe-Ming Lan)，邱祥耀 (Siang-Yao Chiu) |
+| 2026/06/18 | 顏志龍 (Zhi-Long Yen)) | 陳瑩 (Ying Chen), 張恩齊 (En-Chi Chang) |
+| 2026/06/25 | 王耀維 (Peter Wang, 莊儒哲 (Ju-Che Chuang) | 藍哲名 (Zhe-Ming Lan)，邱祥耀 (Siang-Yao Chiu) |
 | 2026/07/02 | 裴翟 (Patrick Tjarks) | 伍宥澄 (You-Cheng Wu)，陳冠羽 (Guang-Yu Chen) |
 | 2026/07/09 | 林宥成 (You-Chen Lin) | 黃郁惠 (Yu-Hui Huang)，郭孟宸 (Meng-Chen Kuo) |
 | 2026/07/16 | 翁胤智 (Yin-Zhi Weng) | 高新恩 (Hsin-En Kao) |
