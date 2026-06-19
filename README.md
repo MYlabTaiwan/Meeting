@@ -8,7 +8,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary: Conducted additional measurements on various filament samples, noted material differences (malleability and conductivity), and uploaded detailed results to the shared drive for review.] |
+| **PatrickSharks** | [Summary: Conducted additional measurements on various filament samples, noted material differences (malleability and conductivity), and uploaded detailed results to the shared drive for review.](https://github.com/MYlabTaiwan/Meeting/issues/68) |
 
 
 ### Meeting
