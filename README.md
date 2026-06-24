@@ -8,7 +8,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary] Completed measurements for SetE with some analysis challenges on specific sticks, reviewed tunneling results for inconsistencies, and focused on refining scripts and data fitting for paper completion. |
+| **PatrickSharks** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/67) Completed measurements for SetE with some analysis challenges on specific sticks, reviewed tunneling results for inconsistencies, and focused on refining scripts and data fitting for paper completion. |
 
 
 ### Meeting
