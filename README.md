@@ -8,7 +8,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **Yu-1227** | [Measured the Hall voltage of W<sub>5</sub>N<sub>6</sub> as part of the experiment.] |
+| **Yu-1227** | [Measured the Hall voltage of W<sub>5</sub>N<sub>6</sub> as part of the experiment.](https://github.com/MYlabTaiwan/Meeting/issues/69) |
 
 
 ### Meeting
