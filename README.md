@@ -8,7 +8,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **harold0104** | [Summary: Harold0104 successfully measured the silicon sample using SEM (Scanning Electron Microscopy) as part of the molten salt processing investigation, demonstrating alignment with the task goal.] |
+| **harold0104** | [Summary: Harold0104 successfully measured the silicon sample using SEM (Scanning Electron Microscopy) as part of the molten salt processing investigation, demonstrating alignment with the task goal.](https://github.com/MYlabTaiwan/Meeting/issues/70) |
 
 
 ### Meeting
