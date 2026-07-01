@@ -8,7 +8,7 @@
 
 | Student | Summary |
 | :--- | :--- |
-| **PatrickSharks** | [Summary] Working on refining analysis and fitting scripts to better understand data trends and parameter significance while incorporating new filament measurements. |
+| **PatrickSharks** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/67) Working on refining analysis and fitting scripts to better understand data trends and parameter significance while incorporating new filament measurements. |
 
 
 ### Meeting
