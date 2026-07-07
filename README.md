@@ -4,11 +4,12 @@
 
 ### Student Audit
 
-*Last Audit Update: 2026-07-07 07:50:22 (Taipei Time)*
+*Last Audit Update: 2026-07-08 07:47:43 (Taipei Time)*
 
 | Student | Summary |
 | :--- | :--- |
-| - | No student activity recorded in the last 24 hours. |
+| **PatrickSharks** | Completed data analysis, scheduled measurements, and prepared presentation as part of the project work. |
+| **Yu-1227** | [Summary] Investigated limitations of an old e-beam writer system, explored potential solutions including using PMMA to avoid photoresist residue, and planned to gather and upload related research papers on photoresist residue. |
 
 
 ### Meeting
