@@ -9,7 +9,7 @@
 | Student | Summary |
 | :--- | :--- |
 | **PatrickSharks** | Completed data analysis, scheduled measurements, and prepared presentation as part of the project work. |
-| **Yu-1227** | [Summary] Investigated limitations of an old e-beam writer system, explored potential solutions including using PMMA to avoid photoresist residue, and planned to gather and upload related research papers on photoresist residue. |
+| **Yu-1227** | [Summary](https://github.com/MYlabTaiwan/Meeting/issues/67) Investigated limitations of an old e-beam writer system, explored potential solutions including using PMMA to avoid photoresist residue, and planned to gather and upload related research papers on photoresist residue. |
 
 
 ### Meeting
