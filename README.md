@@ -1,17 +1,4 @@
-### Daily Comic Strip
-
-![Daily MYlab Cartoon](daily_cartoon.png)
-
-### Student Audit
-
-*Last Audit Update: 2026-07-13 07:47:00 (Taipei Time)*
-
-| Student | Summary |
-| :--- | :--- |
-| - | No student activity recorded in the last 24 hours. |
-
-
-### Meeting
+<!--### Meeting
 We will have online meetings under [https://meet.google.com/mcv-eqeu-dob](https://meet.google.com/mcv-eqeu-dob)
 Please log in on time and I will let you in when the previous speaker is done!
 
@@ -25,6 +12,15 @@ Please log in on time and I will let you in when the previous speaker is done!
 |  |  | 09:50–10:00 | Vincent | 09:50–10:00 |MB |  |  | 09:50–10:00 | Yu-Hui |
 |  |  | 10:00–10:10 | Chen Kuan-Yu | 10:00–10:10 |  |  |  | 10:00 -10:10 | Hui-Ting |
 |  |  |  |  | 10:10–10:20 |  |  |  |  |  |
+-->
+### Dry Runs
+We will have online meetings under [https://meet.google.com/mcv-eqeu-dob](https://meet.google.com/mcv-eqeu-dob)
+Please log in on time and I will let you in when the previous speaker is done!
+
+| Monday |  | Tuesday (Fabrication) |  | Wednesday (Properties) |  | Thursday |  | Friday (Materials) |  |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  | 09:00–09:30 | Thomas | 09:00–09:30 | Rui-Hong |09:30–11:00  **[Group meeting (R716)](https://meet.google.com/dfk-wowo-bnv)**  | 09:00–09:30 | Yi-Chin |
+|  |  | 09:30–10:00 | Chen-Ying | 09:00–09:30 | Bo-Ray || 09:30–10:00 |Hui-Ting |
 
 ### Group meeting schedule
 
