@@ -21,6 +21,7 @@ Please log in on time and I will let you in when the previous speaker is done!
 |---|---|---|---|---|---|---|---|---|---|
 |  |  | 09:00–09:30 | Thomas | 09:00–09:30 | Rui-Hong |09:30–11:00  **[Group meeting (R716)](https://meet.google.com/dfk-wowo-bnv)**  | 09:00–09:30 | Yi-Chin |
 |  |  | 09:30–10:00 | Chen-Ying | 09:00–09:30 | Bo-Ray || 09:30–10:00 |Hui-Ting |
+|  |  | 10:00–10:30 | Ted |  |  ||  ||
 
 ### Group meeting schedule
 
