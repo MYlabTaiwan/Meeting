@@ -8,9 +8,9 @@ Please log in on time and I will let you in when the previous speaker is done!
 |  |  | 09:10–09:20 | Rui-Hong | 09:10–09:20 | Benjamin |  |  | 09:10–09:20 |  |
 |  |  | 09:20–09:30 | Peter | 09:20–09:30 | Ying-Chih|  |  | 09:20–09:30 |  |
 |  |  | 09:30–09:40 | Chun Yang | 09:30–09:40 | Patrick |  |  | 09:30–09:40 |  |
-|  |  | 09:40–09:50 | En-Chi | 09:40–09:50 | Suraj  |  |  | 09:40–09:50 | Ted |
+|  |  | 09:40–09:50 |  | 09:40–09:50 | Suraj  |  |  | 09:40–09:50 | Ted |
 |  |  | 09:50–10:00 | Vincent | 09:50–10:00 |MB |  |  | 09:50–10:00 | Yu-Hui |
-|  |  | 10:00–10:10 | Chen Kuan-Yu | 10:00–10:10 |  |  |  | 10:00 -10:10 | Hui-Ting |
+|  |  | 10:00–10:10 | Chen Kuan-Yu | 10:00–10:10 | En-Chi |  |  | 10:00 -10:10 | Hui-Ting |
 |  |  |  |  | 10:10–10:20 |  |  |  |  |  |
 
 <--
