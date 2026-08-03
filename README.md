@@ -15,7 +15,20 @@ We will have in-person meetings in R628 starting August 10th.
 ### Group meeting schedule
 | Date (Thu) | PH.D（含博後） | MASTER（碩/學士） |
 | --- | --- | --- |
-| 2026/08/06 | 王耀維 (Peter Wang)，林宥成 (You-Chen Lin), 陳律志 (Lu-Chih Chen)| 1st year presentation |
+| 2026/08/06 | 王耀維 (Peter Wang)，林宥成 (You-Chen Lin), 陳律志 (Lu-Chih Chen)||
 | 2026/08/13 | 裴翟 (Patrick Tjarks) | 1st year presentation |
-| 2026/08/20 | 莊儒哲 (Ju-Che Chuang) | 黃郁惠 (Yu-Hui Huang)，郭孟宸 (Meng-Chen Kuo) |
-| 2026/08/27 | 翁胤智 (Yin-Zhi Weng) | 高新恩 (Hsin-En Kao) |
+| 2026/08/20 | 莊儒哲 (Ju-Che Chuang) | 1st year presentation |
+| 2026/08/27 | 翁胤智 (Yin-Zhi Weng) | 黃郁惠 (Yu-Hui Huang)，郭孟宸 (Meng-Chen Kuo)|
+
+## 1st year presentations
+
+Please present **one** of your training projects that you feel most excited about for 5 minutes including an introduction to the technique, what you learned and why you are excited about it. There can be repeated topics.
+
+|Time slot| Student name|
+|---|---|
+|8/06 |雅馨鄭 Tiffany|
+|8/06 |林祐安 brad0930.lee|
+|8/06 |許鐙尹 Deng Yin|
+|8/13 |Chia-Hao Yeh|
+|8/13 ||
+|8/13 ||
