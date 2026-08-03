@@ -3,7 +3,7 @@ We will have in-person meetings in R628 starting August 10th.
 
 | Monday | | Tuesday (Fabrication) | | Wednesday (Properties) | | Thursday | | Friday (Materials) | |
 |---|---|---|---|---|---|---|---|---|---|
-| | | 10:00–10:30 | Guan-Ting | 10:00–10:30 | Thomas | 10:00–11:30 | **[Group meeting (R716)]** | 10:00–10:30 | Yi-Chin |
+| | | 10:00–10:30 | Guan-Ting | 10:00–10:30 | Thomas | 10:00–11:30 | **[Group meeting (R716)](https://github.com/MYlabTaiwan/Meeting/issues/71)** | 10:00–10:30 | Yi-Chin |
 | | | 10:30–11:00 | Rui-Hong | 10:30–11:00 | Benjamin | | | 10:30–11:00 | Ted |
 | | | 11:00–11:30 | Peter | 11:00–11:30 | Ying-Chih | | | 11:00–11:30 | Yu-Hui |
 | | | 11:30–12:00 | Chun Yang | 11:30–12:00 | Patrick | | | 11:30–12:00 | Hui-Ting |
