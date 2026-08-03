@@ -16,7 +16,7 @@ Please log in on time and I will let you in when the previous speaker is done!
 ### Group meeting schedule
 | Date (Thu) | PH.D（含博後） | MASTER（碩/學士） |
 | --- | --- | --- |
-| 2026/08/06 | 王耀維 (Peter Wang)，林宥成 (You-Chen Lin) | 1st year presentation |
+| 2026/08/06 | 王耀維 (Peter Wang)，林宥成 (You-Chen Lin), 陳律志 (Lu-Chih Chen)| 1st year presentation |
 | 2026/08/13 | 裴翟 (Patrick Tjarks) | 1st year presentation |
 | 2026/08/20 | 莊儒哲 (Ju-Che Chuang) | 黃郁惠 (Yu-Hui Huang)，郭孟宸 (Meng-Chen Kuo) |
 | 2026/08/27 | 翁胤智 (Yin-Zhi Weng) | 高新恩 (Hsin-En Kao) |
