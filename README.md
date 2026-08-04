@@ -1,15 +1,13 @@
 ### Meeting
 We will have in-person meetings in R628 starting August 10th.
 
-| Monday | | Tuesday (Fabrication) | | Wednesday (Properties) | | Thursday | | Friday (Materials) | |
+| Monday | | Tuesday | | Wednesday | | Thursday | | Friday | |
 |---|---|---|---|---|---|---|---|---|---|
-| | | 10:00–10:30 | Guan-Ting | 10:00–10:30 | Thomas | 10:00–11:30 | **[Group meeting (R716)](https://github.com/MYlabTaiwan/Meeting/issues/71)** | 10:00–10:30 | Yi-Chin |
-| | | 10:30–11:00 | Rui-Hong | 10:30–11:00 | Benjamin | | | 10:30–11:00 | Ted |
-| | | 11:00–11:30 | Peter | 11:00–11:30 | Ying-Chih | | | 11:00–11:30 | Yu-Hui |
-| | | 11:30–12:00 | Chun Yang | 11:30–12:00 | Patrick | | | 11:30–12:00 | Hui-Ting |
-| | | 14:00–14:30 | Vincent | 14:00–14:30 | Suraj | | | | |
-| | | 14:30–15:00 | Chen Kuan-Yu | 14:30–15:00 | MB | | | | |
-| | | | | 15:00–15:30 | En-Chi | | | | |
+| | | | | | | 10:00–11:30 | **[Group meeting (R716)](https://github.com/MYlabTaiwan/Meeting/issues/71)** | | |
+| 14:00–14:20 | Guan-Ting | 14:00–14:20 | Vincent | 14:00–14:20 | Benjamin | 14:00–14:20 | Suraj | 14:00–14:20 | Ted |
+| 14:20–14:40 | Rui-Hong | 14:20–14:40 | Chen Kuan-Yu | 14:20–14:40 | Ying-Chih | 14:20–14:40 | MB | 14:20–14:40 | Yu-Hui |
+| 14:40–15:00 | Peter | 14:40–15:00 | Thomas | 14:40–15:00 | Patrick | 14:40–15:00 | Yi-Chin | 14:40–15:00 | Hui-Ting |
+| 15:00–15:20 | Chun Yang | 15:00–15:20 |En-Chi | 15:00–15:20 | | 15:00–15:20 | | 15:00–15:20 | |
 
 
 ### Group meeting schedule
