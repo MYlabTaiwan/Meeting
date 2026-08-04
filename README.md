@@ -29,6 +29,6 @@ Please present **one** of your training projects that you feel most excited abou
 |8/13 |雅馨鄭 Tiffany|
 |8/13 |林祐安 brad0930.lee|
 |8/13 |許鐙尹 Deng Yin|
-|8/20 |Chia-Hao Yeh|
+|8/20 |葉家豪 Chia-Hao Yeh|
 |8/20 ||
 |8/20 ||
