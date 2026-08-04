@@ -16,7 +16,7 @@ We will have in-person meetings in R628 starting August 10th.
 | 2026/08/06 | 王耀維 (Peter Wang)，林宥成 (You-Chen Lin), 陳律志 (Lu-Chih Chen)||
 | 2026/08/13 | 裴翟 (Patrick Tjarks) | 1st year presentation |
 | 2026/08/20 | 莊儒哲 (Ju-Che Chuang) | 1st year presentation |
-| 2026/08/27 | 翁胤智 (Yin-Zhi Weng) | 黃郁惠 (Yu-Hui Huang)，郭孟宸 (Meng-Chen Kuo)|
+| 2026/08/27 | | Undergraduate student presentations|
 
 ## 1st year presentations
 
@@ -28,5 +28,18 @@ Please present **one** of your training projects that you feel most excited abou
 |8/13 |林祐安 Brad|
 |8/13 |許鐙尹 Deng Yin|
 |8/20 |葉家豪 Chia-Hao Yeh|
-|8/20 ||
-|8/20 ||
+|8/20 |Zhang Fu-An|
+|8/20 |Gao Yi-Chen|
+
+
+## Undergraduate Presentations
+Tuesday, August 25th 
+
+
+|Time slot| Student name|
+|---|---|
+|1 ||
+|2 ||
+|3 ||
+|4 ||
+|5 ||
