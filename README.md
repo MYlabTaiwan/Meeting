@@ -30,6 +30,7 @@ Please present **one** of your training projects that you feel most excited abou
 |8/20 |葉家豪 Chia-Hao Yeh|
 |8/20 |Zhang Fu-An|
 |8/20 |Gao Yi-Chen|
+|8/20 | KangKang Guo f93020413@gmail.com|
 
 
 ## Undergraduate Presentations
