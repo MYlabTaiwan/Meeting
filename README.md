@@ -7,7 +7,7 @@ We will have in-person meetings in R628 starting August 10th.
 | 14:00–14:20 | Guan-Ting | 14:00–14:20 | Vincent | 14:00–14:20 | Benjamin | 14:00–14:20 | Suraj | 14:00–14:20 | Ted |
 | 14:20–14:40 | Rui-Hong | 14:20–14:40 | Chen Kuan-Yu | 14:20–14:40 | Ying-Chih | 14:20–14:40 | MB | 14:20–14:40 | Yu-Hui |
 | 14:40–15:00 | Peter | 14:40–15:00 | Thomas | 14:40–15:00 | Patrick | 14:40–15:00 | Yi-Chin | 14:40–15:00 | Hui-Ting |
-| 15:00–15:20 | Chun Yang | 15:00–15:20 |En-Chi | 15:00–15:20 | Ya-Hsin| 15:00–15:20 | Brad, Yeh-Hao, Den Ying| 15:00–15:20 | |
+| 15:00–15:20 | Chun Yang | 15:00–15:20 |En-Chi | 15:00–15:20 | Ya-Hsin| 15:00–15:20 | Brad, Yeh-Hao, Den Ying, KangKang Guo| 15:00–15:20 | |
 
 
 ### Group meeting schedule
