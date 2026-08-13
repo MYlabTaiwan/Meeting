@@ -24,9 +24,9 @@ Please present **one** of your training projects that you feel most excited abou
 
 |Time slot| Student name|
 |---|---|
-|8/13 |雅馨鄭 Tiffany|
-|8/13 |林祐安 Brad|
-|8/13 |許鐙尹 Deng Yin|
+|8/13 |雅馨鄭 Tiffany Raman|
+|8/13 |林祐安 Brad e-beam|
+|8/13 |許鐙尹 Deng Yin transfer|
 |8/20 |葉家豪 Chia-Hao Yeh|
 |8/20 |Zhang Fu-An|
 |8/20 |Gao Yi-Chen|
