@@ -4,10 +4,10 @@ We will have in-person meetings in R628 starting August 10th.
 | Monday | | Tuesday | | Wednesday | | Thursday | | Friday | |
 |---|---|---|---|---|---|---|---|---|---|
 | | | | | | | 10:00–11:30 | **[Group meeting (R716)](https://github.com/MYlabTaiwan/Meeting/issues/71)** | | |
-| 14:00–14:20 | Guan-Ting | 14:00–14:20 | Vincent | 14:00–14:20 | Benjamin | 14:00–14:20 | Suraj | 14:00–14:20 | Ted |
-| 14:20–14:40 | Rui-Hong | 14:20–14:40 | Chen Kuan-Yu | 14:20–14:40 | Ying-Chih | 14:20–14:40 | MB | 14:20–14:40 | Yu-Hui |
-| 14:40–15:00 | Peter | 14:40–15:00 | Thomas | 14:40–15:00 | Patrick | 14:40–15:00 | Yi-Chin | 14:40–15:00 | Hui-Ting |
-| 15:00–15:20 | Chun Yang | 15:00–15:20 |En-Chi | 15:00–15:20 | Ya-Hsin| 15:00–15:20 | Brad, Yeh-Hao, Den Ying, KangKang Guo| 15:00–15:20 | |
+| 14:00–14:20 |  | 14:00–14:20 | Vincent | 14:00–14:20 | **Chun Yang** | 14:00–14:20 | Suraj | 14:00–14:20 | Ted |
+| 14:20–14:40 | | 14:20–14:40 | Chen Kuan-Yu | 14:20–14:40 | Ying-Chih | 14:20–14:40 | MB | 14:20–14:40 | Yu-Hui |
+| 14:40–15:00 | | 14:40–15:00 | **Thomas,Guan-Ting,Rui-Hong,Hui-Ting**  | 14:40–15:00 | Patrick | 14:40–15:00 | Yi-Chin | 14:40–15:00 |  |
+| 15:00–15:20 | **Peter**  | 15:00–15:20 |En-Chi | 15:00–15:20 | Ya-Hsin| 15:00–15:20 | Brad, Yeh-Hao, Den Ying, Shih-Kang| 15:00–15:20 | |
 
 
 ### Group meeting schedule
@@ -27,10 +27,10 @@ Please present **one** of your training projects that you feel most excited abou
 |8/13 |雅馨鄭 Tiffany Raman|
 |8/13 |林祐安 Brad e-beam|
 |8/13 |許鐙尹 Deng Yin transfer|
-|8/20 |葉家豪 Chia-Hao Yeh|
+|8/20 |葉家豪 Chia-Hao Yeh e-beam|
 |8/20 |Zhang Fu-An|
 |8/20 |Gao Yi-Chen|
-|8/27 | Shih Kang Guo f93020413@gmail.com|
+|8/27 | Shih Kang Guo|
 
 
 ## Undergraduate Presentations
