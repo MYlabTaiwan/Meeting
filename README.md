@@ -6,7 +6,7 @@ We will have in-person meetings in R628 starting August 10th.
 | | | | | | | 10:00–11:30 | **[Group meeting (R716)](https://github.com/MYlabTaiwan/Meeting/issues/71)** | | |
 | 14:00–14:20 |  | 14:00–14:20 | Vincent | 14:00–14:20 | **Chun Yang** | 14:00–14:20 | Suraj | 14:00–14:20 | Ted |
 | 14:20–14:40 | | 14:20–14:40 | Chen Kuan-Yu | 14:20–14:40 | Ying-Chih | 14:20–14:40 | MB | 14:20–14:40 | Yu-Hui |
-| 14:40–15:00 | | 14:40–15:00 | **Thomas,Guan-Ting,Rui-Hong,Hui-Ting**  | 14:40–15:00 | Patrick | 14:40–15:00 | Yi-Chin | 14:40–15:00 |  |
+| 14:40–15:00 | | 14:40–15:00 | **Thomas,Guan-Ting,Rui-Hong,Hui-Ting**  | 14:40–15:00 | Patrick | 14:40–15:00 | | 14:40–15:00 |  |
 | 15:00–15:20 | **Peter**  | 15:00–15:20 |En-Chi | 15:00–15:20 | Ya-Hsin| 15:00–15:20 | Brad, Yeh-Hao, Den Ying, Shih-Kang| 15:00–15:20 | |
 
 
