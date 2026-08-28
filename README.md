@@ -10,13 +10,17 @@ We will have in-person meetings in R628 starting August 10th.
 | 15:00–15:20 | **Peter**  | 15:00–15:20 |En-Chi | 15:00–15:20 | Ya-Hsin| 15:00–15:20 | Brad, Chia-Hao, Den Ying, Shih-Kang| 15:00–15:20 | |
 
 
-### Group meeting schedule
-| Date (Thu) | PH.D（含博後） | MASTER（碩/學士） |
-| --- | --- | --- |
-| 2026/08/06 | 王耀維 (Peter Wang)，林宥成 (You-Chen Lin), 陳律志 (Lu-Chih Chen)||
-| 2026/08/13 | 裴翟 (Patrick Tjarks) | 1st year presentation |
-| 2026/08/20 | 莊儒哲 (Ju-Che Chuang) | 1st year presentation |
-| 2026/08/27 | | Undergraduate student presentations+Shih-Kang presentation|
+### Small Group Meeting — 4-Week Reporting Cycle
+
+| Week | Monday 1:00–2:00<br>Optics / ODMR / Magnetic | Tuesday 1:00–2:00<br>Materials & Electrical | Friday 1:00–2:00<br>Electrochemistry / Device |
+| :--- | :--- | :--- | :--- |
+| **Week 1** | Peter Wang; Fu-An; Shih Kang (1); Vincent; 蔡承宏 (UG) | An-Chi; 陳冠羽 (Kuan-Yu Chen); 藍哲民; Deng Ying (1); Chun-Yang | 林宥成; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
+| **Week 2** | 律志; 高新恩; 邱祥耀; Suraj Singh; Zeng-Yu (UG) | 儒哲; Sun-Ming; 志龍; Brad (1); 杜昇峰 (UG) | 黃郁惠; 郭孟宸; 翁胤智; Ya-Hsin (PhD) |
+| **Week 3** | Peter Wang; Fu-An; Shih Kang (1); Vincent; Huan-Ming (UG) | An-Chi; 陳冠羽 (Kuan-Yu Chen); 藍哲民; Deng Ying (1); Chun-Yang | 林宥成; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
+| **Week 4** | 律志; 高新恩; 邱祥耀; Suraj Singh | 儒哲; Sun-Ming; 志龍; Brad (1) | 黃郁惠; 郭孟宸; 翁胤智; Ya-Hsin (PhD) |
+| **Rule** | *Regular members: every 2 weeks* | *UG: every 4 weeks* | *4-person groups: longer reporters* |
+
+The schedule is tentative and may be adjusted if needed. You are also very welcome to present more often if you wish.
 
 ## 1st year presentations
 
