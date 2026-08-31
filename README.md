@@ -9,8 +9,8 @@ We will have in-person meetings in R628 starting August 10th.
 | 14:40–15:00 | MB | 14:40–15:00 | En-Chi | 14:40–15:00 | Patrick | 14:40–15:00 | | 14:40–15:00 | Benjamin |
 | 15:00–15:20 |  | 15:00–15:20 || 15:00–15:20 | | 15:00–15:20 | | 15:00–15:20 | |
 
-*starting 7th September*
 ### Small Group Meeting — 4-Week Reporting Cycle
+*starting 7th September*
 
 | Week | Monday 1:00–2:00<br>Optics / ODMR / Magnetic | Tuesday 1:00–2:00<br>Materials & Electrical | Friday 1:00–2:00<br>Electrochemistry / Device |
 | :--- | :--- | :--- | :--- |
