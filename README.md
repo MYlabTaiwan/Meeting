@@ -37,7 +37,7 @@ Please present **one** of your training projects that you feel most excited abou
 
 
 ## Undergraduate Presentations
-Tuesday, August 25th 
+Tuesday, Sep 3th 
 
 
 |Time slot| Student name|
