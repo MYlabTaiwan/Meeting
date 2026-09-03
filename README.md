@@ -1,3 +1,7 @@
+### Information
+
+https://docs.google.com/spreadsheets/d/1-9M5zPyAnvdFO5ihTeESeMIPdI9oF0Ef/edit?gid=1657833287#gid=1657833287
+
 ### Meeting
 We will have in-person meetings in R628 starting August 10th.
 
@@ -33,17 +37,7 @@ Please present **one** of your training projects that you feel most excited abou
 |8/20 |葉家豪 Chia-Hao Yeh e-beam|
 |8/20 |Zhang Fu-An|
 |8/20 |Gao Yi-Chen|
-|8/27 | Shih Kang Guo|
+|8/27 | Shih Kang Guo fabrication|
 
 
-## Undergraduate Presentations
-Tuesday, Sep 3th 
 
-
-|Time slot| Student name|
-|---|---|
-|1 ||
-|2 ||
-|3 ||
-|4 ||
-|5 ||
