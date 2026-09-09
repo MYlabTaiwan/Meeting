@@ -16,7 +16,7 @@ We will have in-person meetings in R628 starting August 10th.
 ### Small Group Meeting — 4-Week Reporting Cycle
 *starting 7th September*
 
-| Week | Monday 1:00–2:00<br>Optics / ODMR / Magnetic | Tuesday 1:00–2:00<br>Materials & Electrical | Friday 1:00–2:00<br>Electrochemistry / Device |
+| Week | IAMS R425 <br> Monday 1:00–2:00 <br>Optics / ODMR / Magnetic |IAMS R425 <br> Tuesday 1:00–2:00<br>Materials & Electrical | Physics R716 <br> Friday 1:00–2:00<br>Electrochemistry / Device |
 | :--- | :--- | :--- | :--- |
 | **Week 1** | Peter Wang; Fu-An; Shih Kang (1); Vincent; 蔡承宏 (UG) | An-Chi; 陳冠羽 (Kuan-Yu Chen); 藍哲民; Deng Ying (1); Chun-Yang | 林宥成; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
 | **Week 2** | 律志; 高新恩; 邱祥耀; Suraj Singh; Zeng-Yu (UG) | 儒哲; Sun-Ming; 志龍; Brad (1); 杜昇峰 (UG) | 黃郁惠; 郭孟宸; 翁胤智; Ya-Hsin (PhD) |
