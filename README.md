@@ -25,9 +25,9 @@ The schedule is tentative and may be adjusted if needed. You are also very welco
 
 | Time Slot | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **14:00–14:20** | Suraj Singh | Brad (1) | | — |Yin-Chih Weng  |
-| **14:20–14:40** | Yu-Hui Huang |  Benjamin |  | — | Ya-Hsin |
-| **14:40–15:00** | *(Open)* | *(Open)* | *(Open)* | — |  |
+| **14:00–14:20** | Suraj Singh | Brad (1) | — | — |Yin-Chih Weng  |
+| **14:20–14:40** | Yu-Hui Huang |  Benjamin | — | — | Ya-Hsin |
+| **14:40–15:00** | *(Open)* | *(Open)* | — | — | *(Open)* |
 
 ### Week B: Individual Meetings (Week 1 Presenters)
 
@@ -35,5 +35,5 @@ The schedule is tentative and may be adjusted if needed. You are also very welco
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **14:00–14:20** | Peter Wang | En-Chi | Vincent  | — | Yeh-Hao (1) |
 | **14:20–14:40** | Shih Kang (1) | Kuan-Yu Chen | Deng Ying (1) | — | Patrick |
-| **14:40–15:00** |  *(Open)* |  Chun-Yang  | *(Open)* | — | |
+| **14:40–15:00** |  *(Open)* |  Chun-Yang  | *(Open)* | — |*(Open)* |
 | **15:00–15:20** | — | | — | — | — |
