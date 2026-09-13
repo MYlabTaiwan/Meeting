@@ -2,42 +2,38 @@
 
 https://docs.google.com/spreadsheets/d/1-9M5zPyAnvdFO5ihTeESeMIPdI9oF0Ef/edit?gid=1657833287#gid=1657833287
 
-### Meeting
-We will have in-person meetings in R628 starting August 10th.
-
-| Monday | | Tuesday | | Wednesday | | Thursday | | Friday | |
-|---|---|---|---|---|---|---|---|---|---|
-| | | | | | | 10:00–11:30 | **[Group meeting (R716)](https://github.com/MYlabTaiwan/Meeting/issues/71)** | | |
-| 14:00–14:20 | Peter  | 14:00–14:20 | Vincent | 14:00–14:20 | Chun Yang | 14:00–14:20 | | 14:00–14:20 | Yu-Hui |
-| 14:20–14:40 | Suraj | 14:20–14:40 | Chen Kuan-Yu | 14:20–14:40 | Ying-Chih | 14:20–14:40 |  | 14:20–14:40 | Ya-Hsin |
-| 14:40–15:00 | | 14:40–15:00 | En-Chi | 14:40–15:00 | Patrick | 14:40–15:00 | | 14:40–15:00 | Benjamin |
-| 15:00–15:20 |  | 15:00–15:20 || 15:00–15:20 | | 15:00–15:20 | | 15:00–15:20 | |
 
 ### Small Group Meeting — 4-Week Reporting Cycle
 *starting 7th September*
 
-| Week | IAMS R425 <br> Monday 1:00–2:00 <br>Optics / ODMR / Magnetic |IAMS R425 <br> Tuesday 1:00–2:00<br>Materials & Electrical | Physics R716 <br> Friday 1:00–2:00<br>Electrochemistry / Device |
+# Group Seminar & Meeting Schedule
+
+## 1. Presentation Schedule (2-Week Rhythm)
+
+| Week | IAMS R425<br>Monday 13:00–14:00<br>Optics / ODMR / Magnetic | IAMS R425<br>Tuesday 13:00–14:00<br>Materials & Electrical | Physics R716<br>Friday 13:00–14:00<br>Electrochemistry / Device |
 | :--- | :--- | :--- | :--- |
-| **Week 1** | Peter Wang; Fu-An; Shih Kang (1); Vincent; 蔡承宏 (UG) | An-Chi; 陳冠羽 (Kuan-Yu Chen); 藍哲民; Deng Ying (1); Chun-Yang | 林宥成; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
-| **Week 2** | 律志; 高新恩; 邱祥耀; Suraj Singh; Zeng-Yu (UG) | 儒哲; Sun-Ming; 志龍; Brad (1); 杜昇峰 (UG) | 黃郁惠; 郭孟宸; 翁胤智; Ya-Hsin (PhD) |
-| **Week 3** | Peter Wang; Fu-An; Shih Kang (1); Vincent; Huan-Ming (UG) | An-Chi; 陳冠羽 (Kuan-Yu Chen); 藍哲民; Deng Ying (1); Chun-Yang | 林宥成; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
-| **Week 4** | 律志; 高新恩; 邱祥耀; Suraj Singh | 儒哲; Sun-Ming; 志龍; Brad (1) | 黃郁惠; 郭孟宸; 翁胤智; Ya-Hsin (PhD) |
+| **Week 1** | Peter Wang; Fu-An; Shih Kang (1); Vincent; Cheng-Hong Tsai (UG) | En-Chi; Kuan-Yu Chen; Zhe-Min Lan; Deng Ying (1); Chun-Yang | You-Cheng Lin; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
+| **Week 2** | Lu-Chih; Hsin-En Kao; Hsiang-Yao Chiu; Suraj Singh; Zeng-Yu (UG) | Ru-Zhe; Sun-Ming; Chih-Lung; Brad (1); Sheng-Feng Tu (UG) | Yu-Hui Huang; Meng-Chen Kuo; Yin-Chih Weng; Ya-Hsin (PhD) |
+| **Week 3** | Peter Wang; Fu-An; Shih Kang (1); Vincent; Huan-Ming (UG) | En-Chi; Kuan-Yu Chen; Zhe-Min Lan; Deng Ying (1); Chun-Yang | You-Cheng Lin; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
+| **Week 4** | Lu-Chih; Hsin-En Kao; Hsiang-Yao Chiu; Suraj Singh | Ru-Zhe; Sun-Ming; Chih-Lung; Brad (1) | Yu-Hui Huang; Meng-Chen Kuo; Yin-Chih Weng; Ya-Hsin (PhD) |
+
+---
 
 The schedule is tentative and may be adjusted if needed. You are also very welcome to present more often if you wish.
 
-## 1st year presentations
+### Week A: Individual Meetings (Week 2 Presenters)
 
-Please present **one** of your training projects that you feel most excited about for 5 minutes including an introduction to the technique, what you learned and why you are excited about it. There can be repeated topics.
+| Time Slot | Monday | Tuesday | Wednesday | Thursday | Friday |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **14:00–14:20** | Suraj Singh | Brad (1) | | — |Yin-Chih Weng  |
+| **14:20–14:40** | Yu-Hui Huang |  Benjamin |  | — | Ya-Hsin |
+| **14:40–15:00** | *(Open)* | *(Open)* | *(Open)* | — |  |
 
-|Time slot| Student name|
-|---|---|
-|8/13 |雅馨鄭 Tiffany Raman|
-|8/13 |林祐安 Brad e-beam|
-|8/13 |許鐙尹 Deng Yin transfer|
-|8/20 |葉家豪 Chia-Hao Yeh e-beam|
-|8/20 |Zhang Fu-An|
-|8/20 |Gao Yi-Chen|
-|8/27 | Shih Kang Guo fabrication|
+### Week B: Individual Meetings (Week 1 Presenters)
 
-
-
+| Time Slot | Monday | Tuesday | Wednesday | Thursday | Friday |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **14:00–14:20** | Peter Wang | En-Chi | Vincent  | — | Yeh-Hao (1) |
+| **14:20–14:40** | Shih Kang (1) | Kuan-Yu Chen | Deng Ying (1) | — | Patrick |
+| **14:40–15:00** |  *(Open)* |  Chun-Yang  | *(Open)* | — | |
+| **15:00–15:20** | — | | — | — | — |
