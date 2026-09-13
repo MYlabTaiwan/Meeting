@@ -12,9 +12,9 @@ https://docs.google.com/spreadsheets/d/1-9M5zPyAnvdFO5ihTeESeMIPdI9oF0Ef/edit?gi
 
 | Week | IAMS R425<br>Monday 13:00–14:00<br>Optics / ODMR / Magnetic | IAMS R425<br>Tuesday 13:00–14:00<br>Materials & Electrical | Physics R716<br>Friday 13:00–14:00<br>Electrochemistry / Device |
 | :--- | :--- | :--- | :--- |
-| **Week 1** | Peter Wang; Fu-An; Shih Kang (1); Vincent; Cheng-Hong Tsai (UG) | En-Chi; Kuan-Yu Chen; Zhe-Min Lan; Deng Ying (1); Chun-Yang | You-Cheng Lin; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
+| **Week 1** | Peter Wang; Fu-An; Shih Kang (1); Vincent; Cheng-Hong Tsai (UG) | En-Chi; Kuan-Yu Chen; Zhe-Min Lan; Deng Ying (1); Chun-Yang | You-Cheng Lin; Kao Yi-Cheng; Jonas; Chia-Hao (1); Patrick |
 | **Week 2** | Lu-Chih; Hsin-En Kao; Hsiang-Yao Chiu; Suraj Singh; Zeng-Yu (UG) | Ru-Zhe; Sun-Ming; Chih-Lung; Brad (1); Sheng-Feng Tu (UG) | Yu-Hui Huang; Meng-Chen Kuo; Yin-Chih Weng; Ya-Hsin (PhD) |
-| **Week 3** | Peter Wang; Fu-An; Shih Kang (1); Vincent; Huan-Ming (UG) | En-Chi; Kuan-Yu Chen; Zhe-Min Lan; Deng Ying (1); Chun-Yang | You-Cheng Lin; Kao Yi-Cheng; Jonas; Yeh-Hao (1); Patrick |
+| **Week 3** | Peter Wang; Fu-An; Shih Kang (1); Vincent; Huan-Ming (UG) | En-Chi; Kuan-Yu Chen; Zhe-Min Lan; Deng Ying (1); Chun-Yang | You-Cheng Lin; Kao Yi-Cheng; Jonas; Chia-Hao (1); Patrick |
 | **Week 4** | Lu-Chih; Hsin-En Kao; Hsiang-Yao Chiu; Suraj Singh | Ru-Zhe; Sun-Ming; Chih-Lung; Brad (1) | Yu-Hui Huang; Meng-Chen Kuo; Yin-Chih Weng; Ya-Hsin (PhD) |
 
 ---
@@ -33,6 +33,6 @@ The schedule is tentative and may be adjusted if needed. You are also very welco
 
 | Time Slot | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **14:00–14:20** | Peter Wang | En-Chi | Vincent  | — | Yeh-Hao (1) |
+| **14:00–14:20** | Peter Wang | En-Chi | Vincent  | — | Chia-Hao (1) |
 | **14:20–14:40** | Shih Kang (1) | Kuan-Yu Chen | Deng Ying (1) | — | Patrick |
 | **14:40–15:00** |  *(Open)* |  Chun-Yang  | *(Open)* | — |*(Open)* |
