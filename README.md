@@ -25,7 +25,7 @@ The schedule is tentative and may be adjusted if needed. You are also very welco
 
 | Time Slot | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **14:00–14:20** | Suraj Singh | Brad (1) | — | — |Yin-Chih Weng  |
+| **14:00–14:20** | Suraj Singh |Yin-Chih Weng  | — | — | Brad (1) |
 | **14:20–14:40** | Yu-Hui Huang |  Benjamin | — | — | Ya-Hsin |
 | **14:40–15:00** | *(Open)* | *(Open)* | — | — | *(Open)* |
 
