@@ -34,5 +34,5 @@ The schedule is tentative and may be adjusted if needed. You are also very welco
 | Time Slot | Monday | Tuesday | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **14:00–14:20** | Peter Wang | En-Chi | Vincent  | — | Chia-Hao (1) |
-| **14:20–14:40** | Shih Kang (1) | Kuan-Yu Chen | Deng Ying (1) | — | Patrick |
-| **14:40–15:00** |  *(Open)* |  Chun-Yang  | *(Open)* | — |*(Open)* |
+| **14:20–14:40** | Patrick  | Kuan-Yu Chen | Deng Ying (1) | — |Shih Kang (1) |
+| **14:40–15:00** |  *(Open)* |  Chun-Yang  | *(Open)* | — | |
